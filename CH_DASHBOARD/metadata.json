@@ -4385,7 +4385,7 @@
         "DHIS2Build": "b6d3754",
         "DHIS2Version": "2.36.12",
         "code": "CHIS_AGG_CH",
-        "description": "CHIS Child Health",
+        "description": "CHIS Child Health (dashboard)",
         "lastUpdated": "20221028T141622",
         "locale": "en",
         "name": "CHIS_AGG_CH_DSH_DHIS2.36.12-en",

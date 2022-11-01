@@ -4688,7 +4688,7 @@
         "DHIS2Build": "b6d3754",
         "DHIS2Version": "2.36.12",
         "code": "CHIS_AGG_CRVS",
-        "description": "CHIS Civil Registration and Vital Statistics",
+        "description": "CHIS Civil Registration and Vital Statistics (dashboard)",
         "lastUpdated": "20221028T141622",
         "locale": "en",
         "name": "CHIS_AGG_CRVS_DSH_DHIS2.36.12-en",

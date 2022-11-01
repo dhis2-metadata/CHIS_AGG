@@ -1,0 +1,4083 @@
+{
+    "categoryOptionGroupSets": [],
+    "categoryOptionGroups": [],
+    "dashboards": [
+        {
+            "allowedFilters": [],
+            "attributeValues": [],
+            "code": "CHIS_AGG_MEN",
+            "dashboardItems": [
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 24,
+                    "id": "BSy6agDm7Uf",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "map": {
+                        "id": "OpqKLhANne8"
+                    },
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "MAP",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "width": 10,
+                    "x": 25,
+                    "y": 23
+                },
+                {
+                    "attributeValues": [],
+                    "chart": {
+                        "id": "WdxJr9WBoZF"
+                    },
+                    "contentCount": 2,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 16,
+                    "id": "WOjGifsEbqM",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "CHART",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "WdxJr9WBoZF"
+                    },
+                    "width": 31,
+                    "x": 28,
+                    "y": 73
+                },
+                {
+                    "attributeValues": [],
+                    "chart": {
+                        "id": "c7hQiFoms4c"
+                    },
+                    "contentCount": 2,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 11,
+                    "id": "RdbVKu0x5io",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "CHART",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "c7hQiFoms4c"
+                    },
+                    "width": 12,
+                    "x": 0,
+                    "y": 62
+                },
+                {
+                    "attributeValues": [],
+                    "chart": {
+                        "id": "oiX3VGU8Nqf"
+                    },
+                    "contentCount": 2,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 11,
+                    "id": "L9E5mTMJhcL",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "CHART",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "oiX3VGU8Nqf"
+                    },
+                    "width": 12,
+                    "x": 0,
+                    "y": 51
+                },
+                {
+                    "attributeValues": [],
+                    "chart": {
+                        "id": "fYH7nhWnPR0"
+                    },
+                    "contentCount": 2,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 22,
+                    "id": "Ssm1Met6Bz4",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "CHART",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "fYH7nhWnPR0"
+                    },
+                    "width": 23,
+                    "x": 36,
+                    "y": 51
+                },
+                {
+                    "attributeValues": [],
+                    "chart": {
+                        "id": "LrOCWs5hAAo"
+                    },
+                    "contentCount": 2,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 22,
+                    "id": "Pkvm5RxH3wR",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "CHART",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "LrOCWs5hAAo"
+                    },
+                    "width": 24,
+                    "x": 12,
+                    "y": 51
+                },
+                {
+                    "attributeValues": [],
+                    "chart": {
+                        "id": "cYRZ0eptH9v"
+                    },
+                    "contentCount": 2,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 24,
+                    "id": "am6U5gMOtCQ",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "CHART",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "cYRZ0eptH9v"
+                    },
+                    "width": 25,
+                    "x": 0,
+                    "y": 23
+                },
+                {
+                    "attributeValues": [],
+                    "chart": {
+                        "id": "tZhB7dqxLBb"
+                    },
+                    "contentCount": 2,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 24,
+                    "id": "I09JRur2Wkx",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "CHART",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "tZhB7dqxLBb"
+                    },
+                    "width": 24,
+                    "x": 35,
+                    "y": 23
+                },
+                {
+                    "attributeValues": [],
+                    "chart": {
+                        "id": "RlT0laaXCW2"
+                    },
+                    "contentCount": 2,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 19,
+                    "id": "IATvYckruNn",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "CHART",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "RlT0laaXCW2"
+                    },
+                    "width": 24,
+                    "x": 35,
+                    "y": 4
+                },
+                {
+                    "attributeValues": [],
+                    "chart": {
+                        "id": "HNbpPCBFXjX"
+                    },
+                    "contentCount": 2,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 16,
+                    "id": "oWFOMB4xf1q",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "CHART",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "HNbpPCBFXjX"
+                    },
+                    "width": 28,
+                    "x": 0,
+                    "y": 73
+                },
+                {
+                    "attributeValues": [],
+                    "chart": {
+                        "id": "YNRvquOqTj6"
+                    },
+                    "contentCount": 2,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 19,
+                    "id": "MgAe4PMO1A9",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "CHART",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "YNRvquOqTj6"
+                    },
+                    "width": 35,
+                    "x": 0,
+                    "y": 4
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 4,
+                    "id": "LP8k1TXXEiG",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "text": "*Monthly Indicators*",
+                    "translations": [],
+                    "type": "TEXT",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "width": 59,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 4,
+                    "id": "y03GAhCIR0f",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "text": "*Annual Household Assessment Indicators*",
+                    "translations": [],
+                    "type": "TEXT",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "width": 59,
+                    "x": 0,
+                    "y": 47
+                }
+            ],
+            "externalAccess": false,
+            "favorite": false,
+            "id": "epNxrffOJM6",
+            "itemCount": 13,
+            "name": "CH - Mental health",
+            "publicAccess": "--------",
+            "restrictFilters": false,
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "ctw1WXDZHLQ",
+                    "userGroupUid": "ctw1WXDZHLQ"
+                },
+                {
+                    "access": "rw------",
+                    "id": "L4joP9CDK2q",
+                    "userGroupUid": "L4joP9CDK2q"
+                }
+            ]
+        }
+    ],
+    "eventCharts": [],
+    "eventReports": [],
+    "indicatorGroupSets": [],
+    "indicatorGroups": [
+        {
+            "attributeValues": [],
+            "code": "CHIS_AGG_MEN",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "qsLePkcJE41",
+            "indicators": [
+                {
+                    "id": "gPJ2JnnoEnz"
+                },
+                {
+                    "id": "nSpKETGSOla"
+                },
+                {
+                    "id": "EObLj7lCHmD"
+                },
+                {
+                    "id": "Jkalx3cOzLI"
+                },
+                {
+                    "id": "mxrwt4ST2f9"
+                },
+                {
+                    "id": "Z2Ljk74d7eJ"
+                },
+                {
+                    "id": "JdNH84hCtsI"
+                },
+                {
+                    "id": "j1PNv1D8cro"
+                },
+                {
+                    "id": "uzQRMv8Y4GW"
+                },
+                {
+                    "id": "U9q6d0Yd2Az"
+                },
+                {
+                    "id": "WopTfAkwPSJ"
+                },
+                {
+                    "id": "E3DhSHsKiyF"
+                },
+                {
+                    "id": "XSHixTyXM3Y"
+                },
+                {
+                    "id": "vHVTpWKlPDk"
+                },
+                {
+                    "id": "PkMIm52Iohi"
+                },
+                {
+                    "id": "YHISoZZLZsB"
+                },
+                {
+                    "id": "ZbnJawRhXy2"
+                },
+                {
+                    "id": "lJOGW3C2wro"
+                }
+            ],
+            "name": "CH - Mental health",
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        }
+    ],
+    "indicatorTypes": [
+        {
+            "attributeValues": [],
+            "code": "GEN_LIB_NUMBER_ONLY",
+            "externalAccess": false,
+            "factor": 1,
+            "favorite": false,
+            "id": "kHy61PbChXr",
+            "name": "Numerator only (number)",
+            "number": true,
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Numérateur seulement (nombre)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Apenas numerador (número)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Solo numerador (número)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Solo numerador (número)"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Фақат рақамловчи (рақам)"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Тоько числитель (число)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Фақат рақамловчи (рақам)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Apenas numerador (número)"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Kun teller (tall)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Pouze čitatel (číslo)"
+                }
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "attributeValues": [],
+            "code": "GEN_LIB_PERCENT",
+            "externalAccess": false,
+            "factor": 100,
+            "favorite": false,
+            "id": "hmSnCXmLYwt",
+            "name": "Percentage",
+            "number": false,
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Фоиз"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "نسبة"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "نسبة"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Pourcentage"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Por 100"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "نسبة"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Persentase"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Percentagem"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Procento"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Por 100"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Процент"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Percentagem"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "نسبة"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Prosentdel"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Foiz"
+                }
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
+        }
+    ],
+    "indicators": [
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH041m",
+            "dataSets": [],
+            "decimals": 0,
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "description": "Number of Women assessed for mental, neurological and substance use (MNS) disorders",
+            "dimensionItem": "PkMIm52Iohi",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "PkMIm52Iohi",
+            "indicatorGroups": [
+                {
+                    "id": "qsLePkcJE41"
+                }
+            ],
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH041m - Women assessed for MNS disorders",
+            "numerator": -1,
+            "numeratorDescription": "Women assessed for MNS disorders conditions",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Women assessed for MNS disorders",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH041",
+            "dataSets": [],
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "People with a possible MNS symptoms",
+            "description": "Proportion of people assessed for mental, neurological and substance use (MNS) disorders",
+            "dimensionItem": "vHVTpWKlPDk",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "vHVTpWKlPDk",
+            "indicatorGroups": [
+                {
+                    "id": "qsLePkcJE41"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH041 - People assessed for MNS disorders (%)",
+            "numerator": -1,
+            "numeratorDescription": "People assessed for MNS disorders conditions",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "People assessed for MNS disorders (%)",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH042b",
+            "dataSets": [],
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "Women assessed for MNS disorders conditions",
+            "description": "Proportion of Women with mental, neurologic and substance use (MNS) referred",
+            "dimensionItem": "nSpKETGSOla",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "nSpKETGSOla",
+            "indicatorGroups": [
+                {
+                    "id": "qsLePkcJE41"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH042b - Women referred for MNS disorders (%)",
+            "numerator": -1,
+            "numeratorDescription": "People with MNS disorders referred",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Women referred for MNS disorders (%)",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH042",
+            "dataSets": [],
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "People assessed for MNS disorders conditions",
+            "description": "Proportion of people with mental, neurologic and substance use (MNS) referred",
+            "dimensionItem": "EObLj7lCHmD",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "EObLj7lCHmD",
+            "indicatorGroups": [
+                {
+                    "id": "qsLePkcJE41"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH042 - People referred for MNS disorders (%)",
+            "numerator": -1,
+            "numeratorDescription": "People with MNS disorders referred",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "People referred for MNS disorders (%)",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH043",
+            "dataSets": [],
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "People assessed for MNS disorders conditions",
+            "description": "Proportion of people with mental, neurologic and substance use (MNS) disorders receiving services",
+            "dimensionItem": "mxrwt4ST2f9",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "mxrwt4ST2f9",
+            "indicatorGroups": [
+                {
+                    "id": "qsLePkcJE41"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH043 - People with MNS disorders receiving services (%)",
+            "numerator": -1,
+            "numeratorDescription": "People with MNS disorders/receiving",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "People with MNS disorders receiving services (%)",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH075",
+            "dataSets": [],
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "Children aged 0-4 years in the catchment area",
+            "description": "Proportion of children aged 0-4 years monitored for early signs of developmental delays",
+            "dimensionItem": "ZbnJawRhXy2",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "ZbnJawRhXy2",
+            "indicatorGroups": [
+                {
+                    "id": "qsLePkcJE41"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH075 - Children (0-4 y) monitored for developmental delays (%)",
+            "numerator": -1,
+            "numeratorDescription": "Children 0-4 yrs monitored for signs of dev delays",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Children 0-4 yrs monitored for dev delays (%)",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH075 - Crianças (0-4 anos) monitoradas quanto a atrasos no desenvolvimento (%)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH075 - Crianças (0-4 anos) monitoradas quanto a atrasos no desenvolvimento (%)"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH076",
+            "dataSets": [],
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "Children assessed for their dev monitoring",
+            "description": "Proportion of children aged 0-4 years with suspected developmental disabilities referred",
+            "dimensionItem": "JdNH84hCtsI",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "JdNH84hCtsI",
+            "indicatorGroups": [
+                {
+                    "id": "qsLePkcJE41"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH076 - Children (0-4 y) referred for developmental disabilities (%)",
+            "numerator": -1,
+            "numeratorDescription": "Children with suspected dev disabilities referred",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Children referred for devel disability (%)",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH077",
+            "dataSets": [],
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "Caregivers of children consulting for dev delays",
+            "description": "Proportion of caregivers counselled on responsive caregiving and early learning activities",
+            "dimensionItem": "YHISoZZLZsB",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "YHISoZZLZsB",
+            "indicatorGroups": [
+                {
+                    "id": "qsLePkcJE41"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH077 - Caregivers counselled on responsive care giving and learning activities (%)",
+            "numerator": -1,
+            "numeratorDescription": "Counselled on caregiving & early learning",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "counselled on caregiving & early learning (%)",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH078",
+            "dataSets": [],
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "Children assessed for dev disorders & disabilities",
+            "description": "Proportion of children with suspected developmental disorders and disabilities whose caregivers receive parenting information",
+            "dimensionItem": "U9q6d0Yd2Az",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "U9q6d0Yd2Az",
+            "indicatorGroups": [
+                {
+                    "id": "qsLePkcJE41"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH078 - Caregivers of children with developmental disability receiving parenting info (%)",
+            "numerator": -1,
+            "numeratorDescription": "Caregivers who received info on parenting",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Caregivers who received info on parenting (%)",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH088",
+            "dataSets": [],
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "Number people assessed for alcohol use",
+            "description": "Proportion of people reporting consuming alcohol",
+            "dimensionItem": "uzQRMv8Y4GW",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "uzQRMv8Y4GW",
+            "indicatorGroups": [
+                {
+                    "id": "qsLePkcJE41"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH088 - Alcohol consumers (%)",
+            "numerator": -1,
+            "numeratorDescription": "People reported using alcohol",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Alcohol consumers (%)",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH089",
+            "dataSets": [],
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "People assessed for heavy episodic drinking",
+            "description": "Proportion of people with heavy episodic drinking",
+            "dimensionItem": "gPJ2JnnoEnz",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "gPJ2JnnoEnz",
+            "indicatorGroups": [
+                {
+                    "id": "qsLePkcJE41"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH089 - People with heavy episodic drinking (%)",
+            "numerator": -1,
+            "numeratorDescription": "People with heavy episodic drinking",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "People with heavy episodic drinking (%)",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH090",
+            "dataSets": [],
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "People assessed for use of any psychoactive drugs",
+            "description": "Proportion of people who reporting psychoactive drugs",
+            "dimensionItem": "WopTfAkwPSJ",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "WopTfAkwPSJ",
+            "indicatorGroups": [
+                {
+                    "id": "qsLePkcJE41"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH090 - People using psychoactive drugs (%)",
+            "numerator": -1,
+            "numeratorDescription": "People who report use of any psychoactive drugs",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "People using psychoactive drugs (%)",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH091",
+            "dataSets": [],
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "People assessed for injecting drug use",
+            "description": "Proportion of people who report injecting psychoactive drugs",
+            "dimensionItem": "XSHixTyXM3Y",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "XSHixTyXM3Y",
+            "indicatorGroups": [
+                {
+                    "id": "qsLePkcJE41"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH091 - People injecting psychoactive drugs (%)",
+            "numerator": -1,
+            "numeratorDescription": "People who report injecting drug use",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "People injecting psychoactive drugs (%)",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH092",
+            "dataSets": [],
+            "decimals": 0,
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "description": "Number of people with suicidal ideation or plan",
+            "dimensionItem": "lJOGW3C2wro",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "lJOGW3C2wro",
+            "indicatorGroups": [
+                {
+                    "id": "qsLePkcJE41"
+                }
+            ],
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH092 - People with suicidal plan",
+            "numerator": -1,
+            "numeratorDescription": "People with suicidal ideation or plan",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "People with suicidal plan",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH093",
+            "dataSets": [],
+            "decimals": 0,
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "description": "Number of People who reported attempting suicide",
+            "dimensionItem": "Jkalx3cOzLI",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "Jkalx3cOzLI",
+            "indicatorGroups": [
+                {
+                    "id": "qsLePkcJE41"
+                }
+            ],
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH093 - People with suicide attempts",
+            "numerator": -1,
+            "numeratorDescription": "People who reported attempting suicide",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "People with suicide attempts",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH094a",
+            "dataSets": [],
+            "decimals": 0,
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "description": "Average time on weekdays dedicated to screen time for leisure activities",
+            "dimensionItem": "j1PNv1D8cro",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "j1PNv1D8cro",
+            "indicatorGroups": [
+                {
+                    "id": "qsLePkcJE41"
+                }
+            ],
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH094a - Average time of screen time as leisure activity (week)",
+            "numerator": -1,
+            "numeratorDescription": "Weekday screen time for leisure activities",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Average time of screen time (week)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH094b",
+            "dataSets": [],
+            "decimals": 0,
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "description": "Average time on weekend days dedicated to screen time for leisure activities",
+            "dimensionItem": "E3DhSHsKiyF",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "E3DhSHsKiyF",
+            "indicatorGroups": [
+                {
+                    "id": "qsLePkcJE41"
+                }
+            ],
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH094b - Average time of screen time as leisure activity (weekend)",
+            "numerator": -1,
+            "numeratorDescription": "Weekend screen time for leisure activities",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Average weekend screen time as leisure activity",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH170",
+            "dataSets": [],
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "People 15+ years",
+            "description": "Proportion of drug overdose deaths",
+            "dimensionItem": "Z2Ljk74d7eJ",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "Z2Ljk74d7eJ",
+            "indicatorGroups": [
+                {
+                    "id": "qsLePkcJE41"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH170 - Deaths due to drug overdose (%)",
+            "numerator": -1,
+            "numeratorDescription": "Deaths due to drug overdose ",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Deaths due to drug overdose (%)",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Óbitos causados por overdose de medicamentos"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH170 - Óbitos causados por overdose de medicamentos (%)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Óbitos causados por overdose de medicamentos (%)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Proporção de óbitos por overdose de medicamentos"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Óbitos causados por overdose de medicamentos"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Óbitos causados por overdose de medicamentos (%)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH170 - Óbitos causados por overdose de medicamentos (%)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Proporção de óbitos por overdose de medicamentos"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        }
+    ],
+    "legendSets": [],
+    "maps": [
+        {
+            "attributeValues": [],
+            "basemap": "osmLight",
+            "description": "",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "OpqKLhANne8",
+            "mapViews": [
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "classes": 5,
+                    "colorScale": "#ffffd4,#fed98e,#fe9929,#d95f0e,#993404",
+                    "columnDimensions": [
+                        "dx"
+                    ],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [
+                        {
+                            "dataDimensionItemType": "INDICATOR",
+                            "indicator": {
+                                "id": "Jkalx3cOzLI"
+                            }
+                        }
+                    ],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "endDate": "2020-11-22T00:00:00.000",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [
+                        "pe"
+                    ],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "pGqtP5EQqgZ",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "layer": "thematic",
+                    "method": 2,
+                    "name": "CH093 - People with suicide attempts",
+                    "opacity": 0.9,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "relativePeriods": {
+                        "biMonthsThisYear": false,
+                        "last12Months": false,
+                        "last12Weeks": false,
+                        "last14Days": false,
+                        "last180Days": false,
+                        "last2SixMonths": false,
+                        "last30Days": false,
+                        "last3Days": false,
+                        "last3Months": false,
+                        "last4BiWeeks": false,
+                        "last4Quarters": false,
+                        "last4Weeks": false,
+                        "last52Weeks": false,
+                        "last5FinancialYears": false,
+                        "last5Years": false,
+                        "last60Days": false,
+                        "last6BiMonths": false,
+                        "last6Months": false,
+                        "last7Days": false,
+                        "last90Days": false,
+                        "lastBiWeek": false,
+                        "lastBimonth": false,
+                        "lastFinancialYear": false,
+                        "lastMonth": false,
+                        "lastQuarter": false,
+                        "lastSixMonth": false,
+                        "lastWeek": false,
+                        "lastYear": false,
+                        "monthsLastYear": false,
+                        "monthsThisYear": false,
+                        "quartersLastYear": false,
+                        "quartersThisYear": false,
+                        "thisBiWeek": false,
+                        "thisBimonth": false,
+                        "thisDay": false,
+                        "thisFinancialYear": false,
+                        "thisMonth": false,
+                        "thisQuarter": false,
+                        "thisSixMonth": false,
+                        "thisWeek": false,
+                        "thisYear": true,
+                        "weeksThisYear": false,
+                        "yesterday": false
+                    },
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 0,
+                    "startDate": "2019-11-22T00:00:00.000",
+                    "subscribed": false,
+                    "subscribers": [],
+                    "thematicMapType": "CHOROPLETH",
+                    "topLimit": 0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": true
+                },
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "columnDimensions": [],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "oOz8IZ3cl1w",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "layer": "boundary",
+                    "name": "oOz8IZ3cl1w",
+                    "opacity": 1.0,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 0,
+                    "subscribed": false,
+                    "subscribers": [],
+                    "topLimit": 0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": true
+                }
+            ],
+            "name": "CH - People with suicide attempts",
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "subscribed": false,
+            "subscribers": [],
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        }
+    ],
+    "package": {
+        "DHIS2Build": "b6d3754",
+        "DHIS2Version": "2.36.12",
+        "code": "CHIS_AGG_MEN",
+        "description": "CHIS Mental Health (dashboard)",
+        "lastUpdated": "20221028T141622",
+        "locale": "en",
+        "name": "CHIS_AGG_MEN_DSH_DHIS2.36.12-en",
+        "type": "DSH",
+        "version": ""
+    },
+    "userGroups": [
+        {
+            "attributeValues": [],
+            "code": "CHIS_AGG_ACCESS",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "ctw1WXDZHLQ",
+            "managedByGroups": [],
+            "managedGroups": [],
+            "name": "CHIS access",
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "CHIS_AGG_ADMIN",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "L4joP9CDK2q",
+            "managedByGroups": [],
+            "managedGroups": [],
+            "name": "CHIS admin",
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "CHIS_AGG_CAPTURE",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "JkwQIpjzPVL",
+            "managedByGroups": [],
+            "managedGroups": [],
+            "name": "CHIS capture",
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "users": []
+        }
+    ],
+    "userRoles": [
+        {
+            "attributeValues": [],
+            "authorities": [],
+            "externalAccess": false,
+            "favorite": false,
+            "id": "nCNR71ZbTHK",
+            "name": "Package User Role",
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Rôle d'utilisateur du package"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "users": [
+                {
+                    "id": "vUeLeQMSwhN"
+                }
+            ]
+        }
+    ],
+    "users": [
+        {
+            "attributeValues": [],
+            "dataViewOrganisationUnits": [],
+            "externalAccess": false,
+            "favorite": false,
+            "firstName": "package",
+            "id": "vUeLeQMSwhN",
+            "name": "package admin",
+            "organisationUnits": [],
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
+            "surname": "admin",
+            "teiSearchOrganisationUnits": [],
+            "translations": [],
+            "userAccesses": [],
+            "userCredentials": {
+                "attributeValues": [],
+                "catDimensionConstraints": [],
+                "cogsDimensionConstraints": [],
+                "disabled": false,
+                "externalAccess": false,
+                "externalAuth": false,
+                "favorite": false,
+                "favorites": [],
+                "id": "MMRO6oP1HQg",
+                "invitation": false,
+                "lastLogin": "2020-04-23T09:17:46.912",
+                "name": "package admin",
+                "passwordLastUpdated": "2022-08-17T12:56:38.395",
+                "selfRegistered": false,
+                "sharing": {
+                    "external": false,
+                    "userGroups": {},
+                    "users": {}
+                },
+                "translations": [],
+                "twoFA": false,
+                "user": {
+                    "displayName": "Robot Admin",
+                    "id": "vWK2xFwRIUX",
+                    "name": "Robot Admin",
+                    "username": "robot"
+                },
+                "userAccesses": [],
+                "userGroupAccesses": [],
+                "userInfo": {
+                    "id": "vUeLeQMSwhN"
+                },
+                "userRoles": [
+                    {
+                        "id": "nCNR71ZbTHK"
+                    }
+                ],
+                "username": "package_admin"
+            }
+        }
+    ],
+    "visualizations": [
+        {
+            "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "% user"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "Period"
+                    },
+                    "type": "DOMAIN"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "columns": [],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "uzQRMv8Y4GW"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "gPJ2JnnoEnz"
+                    }
+                }
+            ],
+            "dataElementDimensions": [],
+            "dataElementGroupSetDimensions": [],
+            "description": "",
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "displayDomainAxisLabel": "Period",
+            "displayRangeAxisLabel": "% user",
+            "displayTitle": "Alcohol use, last 5 years",
+            "domainAxisLabel": "Period",
+            "externalAccess": false,
+            "favorite": false,
+            "filterDimensions": [
+                "ou"
+            ],
+            "filters": [],
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "ALL",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": true,
+            "hideTitle": false,
+            "id": "LrOCWs5hAAo",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "hidden": false
+            },
+            "name": "CH - Alcohol use - last 5 years",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "parentGraphMap": {},
+            "percentStackedValues": true,
+            "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
+            "rangeAxisLabel": "% user",
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": true,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "rows": [],
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {},
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 1,
+            "subscribed": false,
+            "subscribers": [],
+            "title": "Alcohol use, last 5 years",
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "uz_UZ",
+                    "property": "domainAxisLabel",
+                    "value": "davr"
+                },
+                {
+                    "locale": "uz",
+                    "property": "domainAxisLabel",
+                    "value": "davr"
+                }
+            ],
+            "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "columns": [],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "j1PNv1D8cro"
+                    }
+                }
+            ],
+            "dataElementDimensions": [],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "displayTitle": "Average time on weekdays dedicated to screen time for leisure activities",
+            "externalAccess": false,
+            "favorite": false,
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "filters": [],
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": true,
+            "hideTitle": false,
+            "id": "oiX3VGU8Nqf",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "hidden": false
+            },
+            "name": "CH - Average time on weekdays dedicated to screen time for leisure activities",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "parentGraphMap": {},
+            "percentStackedValues": false,
+            "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": true,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "rows": [],
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {},
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribed": false,
+            "subscribers": [],
+            "title": "Average time on weekdays dedicated to screen time for leisure activities",
+            "topLimit": 0,
+            "translations": [],
+            "type": "SINGLE_VALUE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "columns": [],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "E3DhSHsKiyF"
+                    }
+                }
+            ],
+            "dataElementDimensions": [],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "displayTitle": "Average time on weekends dedicated to screen time for leisure activities",
+            "externalAccess": false,
+            "favorite": false,
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "filters": [],
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": true,
+            "hideTitle": false,
+            "id": "c7hQiFoms4c",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "hidden": false
+            },
+            "name": "CH - Average time on weekends dedicated to screen time for leisure activities",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "parentGraphMap": {},
+            "percentStackedValues": false,
+            "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": true,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "rows": [],
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {},
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribed": false,
+            "subscribers": [],
+            "title": "Average time on weekends dedicated to screen time for leisure activities",
+            "topLimit": 0,
+            "translations": [],
+            "type": "SINGLE_VALUE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "% user"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "Period"
+                    },
+                    "type": "DOMAIN"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "columns": [],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "WopTfAkwPSJ"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "XSHixTyXM3Y"
+                    }
+                }
+            ],
+            "dataElementDimensions": [],
+            "dataElementGroupSetDimensions": [],
+            "description": "",
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "displayDomainAxisLabel": "Period",
+            "displayRangeAxisLabel": "% user",
+            "displayTitle": "Drug use, last 5 years",
+            "domainAxisLabel": "Period",
+            "externalAccess": false,
+            "favorite": false,
+            "filterDimensions": [
+                "ou"
+            ],
+            "filters": [],
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "ALL",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": true,
+            "hideTitle": false,
+            "id": "fYH7nhWnPR0",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "hidden": false
+            },
+            "name": "CH - Drug use - last 5 years",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "parentGraphMap": {},
+            "percentStackedValues": true,
+            "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
+            "rangeAxisLabel": "% user",
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": true,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "rows": [],
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {},
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 1,
+            "subscribed": false,
+            "subscribers": [],
+            "title": "Drug use, last 5 years",
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "uz_UZ",
+                    "property": "domainAxisLabel",
+                    "value": "davr"
+                },
+                {
+                    "locale": "uz",
+                    "property": "domainAxisLabel",
+                    "value": "davr"
+                }
+            ],
+            "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "% of people"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "Reporting unit"
+                    },
+                    "type": "DOMAIN"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "columns": [],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "PkMIm52Iohi"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "nSpKETGSOla"
+                    }
+                }
+            ],
+            "dataElementDimensions": [],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "displayDomainAxisLabel": "Reporting unit",
+            "displayRangeAxisLabel": "% of people",
+            "domainAxisLabel": "Reporting unit",
+            "externalAccess": false,
+            "favorite": false,
+            "filterDimensions": [
+                "ou"
+            ],
+            "filters": [],
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": true,
+            "hideTitle": false,
+            "id": "YNRvquOqTj6",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "hidden": false
+            },
+            "legendDisplayStrategy": "FIXED",
+            "legendDisplayStyle": "FILL",
+            "name": "CH - MNS assessment among women",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "parentGraphMap": {},
+            "percentStackedValues": false,
+            "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
+            "rangeAxisLabel": "% of people",
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last12Months": true,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "rows": [],
+            "series": [
+                {
+                    "axis": 0,
+                    "dimensionItem": "PkMIm52Iohi",
+                    "type": "COLUMN"
+                },
+                {
+                    "axis": 1,
+                    "dimensionItem": "nSpKETGSOla"
+                }
+            ],
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {},
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribed": false,
+            "subscribers": [],
+            "topLimit": 0,
+            "translations": [],
+            "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "# of people"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "Reporting Unit"
+                    },
+                    "type": "DOMAIN"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "columns": [],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "lJOGW3C2wro"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "Jkalx3cOzLI"
+                    }
+                }
+            ],
+            "dataElementDimensions": [],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "displayDomainAxisLabel": "Reporting Unit",
+            "displayRangeAxisLabel": "# of people",
+            "domainAxisLabel": "Reporting Unit",
+            "externalAccess": false,
+            "favorite": false,
+            "filterDimensions": [
+                "ou"
+            ],
+            "filters": [],
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "ALL",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": true,
+            "hideTitle": false,
+            "id": "cYRZ0eptH9v",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "hidden": false
+            },
+            "name": "CH - Number of people with suicide plan and attempts, last month",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "parentGraphMap": {},
+            "percentStackedValues": true,
+            "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
+            "rangeAxisLabel": "# of people",
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last12Months": true,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "rows": [],
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {},
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 1,
+            "subscribed": false,
+            "subscribers": [],
+            "topLimit": 0,
+            "translations": [],
+            "type": "COLUMN",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "% of people"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "Period"
+                    },
+                    "type": "DOMAIN"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "columns": [],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "mxrwt4ST2f9"
+                    }
+                }
+            ],
+            "dataElementDimensions": [],
+            "dataElementGroupSetDimensions": [],
+            "description": "",
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "displayDomainAxisLabel": "Period",
+            "displayRangeAxisLabel": "% of people",
+            "domainAxisLabel": "Period",
+            "externalAccess": false,
+            "favorite": false,
+            "filterDimensions": [
+                "ou"
+            ],
+            "filters": [],
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": true,
+            "hideTitle": false,
+            "id": "HNbpPCBFXjX",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "hidden": false
+            },
+            "name": "CH - People with mental, neurologic and substance use (MNS) receiving services - last 5 years",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "parentGraphMap": {},
+            "percentStackedValues": false,
+            "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
+            "rangeAxisLabel": "% of people",
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": true,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "rows": [],
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {},
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribed": false,
+            "subscribers": [],
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "domainAxisLabel",
+                    "value": "Doba"
+                },
+                {
+                    "locale": "fr",
+                    "property": "domainAxisLabel",
+                    "value": "Période"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "domainAxisLabel",
+                    "value": "davr"
+                },
+                {
+                    "locale": "uz",
+                    "property": "domainAxisLabel",
+                    "value": "davr"
+                }
+            ],
+            "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "% of children"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "Periods"
+                    },
+                    "type": "DOMAIN"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "columns": [],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "YHISoZZLZsB"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "U9q6d0Yd2Az"
+                    }
+                }
+            ],
+            "dataElementDimensions": [],
+            "dataElementGroupSetDimensions": [],
+            "description": "",
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "displayDomainAxisLabel": "Periods",
+            "displayRangeAxisLabel": "% of children",
+            "displayTitle": "Proportion of children with insufficient physical activity",
+            "domainAxisLabel": "Periods",
+            "externalAccess": false,
+            "favorite": false,
+            "filterDimensions": [
+                "ou"
+            ],
+            "filters": [],
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": true,
+            "id": "tZhB7dqxLBb",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "hidden": false
+            },
+            "name": "CH - Proportion of caregivers being counselled",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "parentGraphMap": {},
+            "percentStackedValues": false,
+            "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
+            "rangeAxisLabel": "% of children",
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last12Months": true,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "rows": [],
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {},
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribed": false,
+            "subscribers": [],
+            "title": "Proportion of children with insufficient physical activity",
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "rangeAxisLabel",
+                    "value": "% de crianças"
+                },
+                {
+                    "locale": "pt",
+                    "property": "title",
+                    "value": "Proporção de crianças com actividade física insuficiente"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "rangeAxisLabel",
+                    "value": "% de crianças"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "title",
+                    "value": "Proporção de crianças com actividade física insuficiente"
+                }
+            ],
+            "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "% of children"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "Periods"
+                    },
+                    "type": "DOMAIN"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "columns": [],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "ZbnJawRhXy2"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "JdNH84hCtsI"
+                    }
+                }
+            ],
+            "dataElementDimensions": [],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "displayDomainAxisLabel": "Periods",
+            "displayRangeAxisLabel": "% of children",
+            "displayTitle": "Proportion of children with insufficient physical activity",
+            "domainAxisLabel": "Periods",
+            "externalAccess": false,
+            "favorite": false,
+            "filterDimensions": [
+                "ou"
+            ],
+            "filters": [],
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": true,
+            "id": "RlT0laaXCW2",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "hidden": false
+            },
+            "name": "CH - Proportion of children aged 0-4 years monitored and referred for developmental delays - last 12 months",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "parentGraphMap": {},
+            "percentStackedValues": false,
+            "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
+            "rangeAxisLabel": "% of children",
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last12Months": true,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "rows": [],
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {},
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribed": false,
+            "subscribers": [],
+            "title": "Proportion of children with insufficient physical activity",
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "rangeAxisLabel",
+                    "value": "% des enfants"
+                },
+                {
+                    "locale": "pt",
+                    "property": "rangeAxisLabel",
+                    "value": "% de crianças"
+                },
+                {
+                    "locale": "cs",
+                    "property": "domainAxisLabel",
+                    "value": "Období"
+                },
+                {
+                    "locale": "fr",
+                    "property": "domainAxisLabel",
+                    "value": "Périodes"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "rangeAxisLabel",
+                    "value": "% de crianças"
+                },
+                {
+                    "locale": "cs",
+                    "property": "rangeAxisLabel",
+                    "value": "% dětí"
+                }
+            ],
+            "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "% of people"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "Period"
+                    },
+                    "type": "DOMAIN"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "columns": [],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "Z2Ljk74d7eJ"
+                    }
+                }
+            ],
+            "dataElementDimensions": [],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "displayDomainAxisLabel": "Period",
+            "displayRangeAxisLabel": "% of people",
+            "displayTitle": "% of drug overdose deaths, last 5 years",
+            "domainAxisLabel": "Period",
+            "externalAccess": false,
+            "favorite": false,
+            "filterDimensions": [
+                "ou"
+            ],
+            "filters": [],
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": true,
+            "hideSubtitle": true,
+            "hideTitle": false,
+            "id": "WdxJr9WBoZF",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "hidden": true
+            },
+            "name": "CH - Proportion of drug overdose deaths - last 5 years",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "parentGraphMap": {},
+            "percentStackedValues": false,
+            "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
+            "rangeAxisLabel": "% of people",
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": true,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "rows": [],
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {},
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribed": false,
+            "subscribers": [],
+            "title": "% of drug overdose deaths, last 5 years",
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "domainAxisLabel",
+                    "value": "Doba"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "title",
+                    "value": "% de óbitos por overdose causados por medicamentos - últimos 5 anos"
+                },
+                {
+                    "locale": "fr",
+                    "property": "domainAxisLabel",
+                    "value": "Période"
+                },
+                {
+                    "locale": "pt",
+                    "property": "title",
+                    "value": "% de óbitos por overdose causados por medicamentos - últimos 5 anos"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH - Proporção de Óbitos por overdose causados por medicamentos - últimos 5 anos"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH - Proporção de Óbitos por overdose causados por medicamentos - últimos 5 anos"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "domainAxisLabel",
+                    "value": "davr"
+                },
+                {
+                    "locale": "uz",
+                    "property": "domainAxisLabel",
+                    "value": "davr"
+                }
+            ],
+            "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        }
+    ]
+}

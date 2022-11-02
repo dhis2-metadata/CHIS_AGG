@@ -1,4 +1,4 @@
-# Aggregate Package Installation Guide { #aggregate-package-installation }
+# CHIS Installation Guide { #chis-agg-installation }
 
 ## Overview
 

@@ -1,0 +1,2655 @@
+{
+    "attributes": [],
+    "categories": [
+        {
+            "attributeValues": [],
+            "categoryCombos": [
+                {
+                    "id": "bjDvmb4bfuf"
+                }
+            ],
+            "categoryOptions": [
+                {
+                    "id": "xYerKDKCefk"
+                }
+            ],
+            "code": "default",
+            "dataDimension": false,
+            "dataDimensionType": "DISAGGREGATION",
+            "dimension": "GLevLNI9wkl",
+            "dimensionType": "CATEGORY",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "GLevLNI9wkl",
+            "items": [
+                {
+                    "id": "xYerKDKCefk"
+                }
+            ],
+            "name": "default",
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "NGcM4110lU7",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "default",
+            "translations": [
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "standart"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Стандарт"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Padrão"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "по умолчанию"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "default"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        }
+    ],
+    "categoryCombos": [
+        {
+            "attributeValues": [],
+            "categories": [
+                {
+                    "id": "GLevLNI9wkl"
+                }
+            ],
+            "categoryOptionCombos": [
+                {
+                    "id": "HllvX50cXC0"
+                }
+            ],
+            "code": "default",
+            "dataDimensionType": "DISAGGREGATION",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "bjDvmb4bfuf",
+            "isDefault": true,
+            "name": "default",
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "NGcM4110lU7",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "skipTotal": false,
+            "translations": [
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "standart"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Стандарт"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Padrão"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "по умолчанию"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "default"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        }
+    ],
+    "categoryOptionCombos": [
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "categoryOptions": [
+                {
+                    "id": "xYerKDKCefk"
+                }
+            ],
+            "code": "DEFAULT",
+            "dimensionItem": "HllvX50cXC0",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "HllvX50cXC0",
+            "ignoreApproval": false,
+            "legendSets": [],
+            "name": "default",
+            "periodOffset": 0,
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "default",
+            "translations": [
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "standart"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Стандарт"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Padrão"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "по умолчанию"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "default"
+                }
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
+        }
+    ],
+    "categoryOptions": [
+        {
+            "attributeValues": [],
+            "categories": [
+                {
+                    "id": "GLevLNI9wkl"
+                }
+            ],
+            "categoryOptionCombos": [
+                {
+                    "id": "HllvX50cXC0"
+                }
+            ],
+            "categoryOptionGroups": [],
+            "code": "DEFAULT",
+            "dimensionItem": "xYerKDKCefk",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "xYerKDKCefk",
+            "isDefault": true,
+            "legendSets": [],
+            "name": "default",
+            "organisationUnits": [],
+            "periodOffset": 0,
+            "publicAccess": "rwrw----",
+            "sharing": {
+                "external": false,
+                "owner": "jB4WJmaNuGT",
+                "public": "rwrw----",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "default",
+            "translations": [
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "standart"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "Стандарт"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Стандарт"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "standart"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Padrão"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "по умолчанию"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Padrão"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "по умолчанию"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "default"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        }
+    ],
+    "constants": [],
+    "dashboards": [
+        {
+            "attributeValues": [],
+            "code": "CH_CBS",
+            "dashboardItems": [
+                {
+                    "attributeValues": [],
+                    "chart": {
+                        "id": "SQe3LP9oTUM"
+                    },
+                    "contentCount": 2,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 13,
+                    "id": "idbRh3yvQ2E",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "CHART",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "SQe3LP9oTUM"
+                    },
+                    "width": 13,
+                    "x": 2,
+                    "y": 12
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 29,
+                    "id": "dDbsLjZiFC3",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "map": {
+                        "id": "GPMRPu8bzTA"
+                    },
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "MAP",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "width": 21,
+                    "x": 2,
+                    "y": 25
+                },
+                {
+                    "attributeValues": [],
+                    "chart": {
+                        "id": "DKGmKiF8yUT"
+                    },
+                    "contentCount": 2,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 29,
+                    "id": "iDVTH0oDSQa",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "CHART",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "DKGmKiF8yUT"
+                    },
+                    "width": 35,
+                    "x": 23,
+                    "y": 25
+                },
+                {
+                    "attributeValues": [],
+                    "chart": {
+                        "id": "CdExjT1m9TG"
+                    },
+                    "contentCount": 2,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 25,
+                    "id": "EQjBMLRonYa",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "CHART",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "CdExjT1m9TG"
+                    },
+                    "width": 43,
+                    "x": 15,
+                    "y": 0
+                },
+                {
+                    "attributeValues": [],
+                    "chart": {
+                        "id": "jmGWMjopLhz"
+                    },
+                    "contentCount": 2,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 12,
+                    "id": "uqXm4iQHXwY",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "CHART",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "jmGWMjopLhz"
+                    },
+                    "width": 13,
+                    "x": 2,
+                    "y": 0
+                }
+            ],
+            "externalAccess": false,
+            "favorite": false,
+            "id": "rTv9mxa0daK",
+            "itemCount": 5,
+            "name": "CH - Community-based surveillance",
+            "publicAccess": "rw------",
+            "restrictFilters": false,
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "ctw1WXDZHLQ",
+                    "userGroupUid": "ctw1WXDZHLQ"
+                },
+                {
+                    "access": "rw------",
+                    "id": "L4joP9CDK2q",
+                    "userGroupUid": "L4joP9CDK2q"
+                }
+            ]
+        }
+    ],
+    "dataElementGroups": [
+        {
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "code": "CH_CBS",
+            "dataElements": [
+                {
+                    "id": "Lcl68zMgj2y"
+                },
+                {
+                    "id": "YrhNwFFunSl"
+                },
+                {
+                    "id": "t8PPECpS8B3"
+                },
+                {
+                    "id": "RvLgx6fjzbK"
+                },
+                {
+                    "id": "emcfVqQJ2WN"
+                },
+                {
+                    "id": "q8MNn3tOHKf"
+                }
+            ],
+            "dimensionItem": "o4XIMDoUMNg",
+            "dimensionItemType": "DATA_ELEMENT_GROUP",
+            "externalAccess": false,
+            "favorite": false,
+            "groupSets": [],
+            "id": "o4XIMDoUMNg",
+            "legendSets": [],
+            "name": "CH - Community-based surveillance",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Community-based surveillance",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        }
+    ],
+    "dataElements": [
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "CH173a",
+            "dataElementGroups": [
+                {
+                    "id": "o4XIMDoUMNg"
+                }
+            ],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "YrhNwFFunSl"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                }
+            ],
+            "description": "Events/alert case detected",
+            "dimensionItem": "YrhNwFFunSl",
+            "dimensionItemType": "DATA_ELEMENT",
+            "domainType": "AGGREGATE",
+            "externalAccess": false,
+            "favorite": false,
+            "formName": "Events/alert case detected",
+            "id": "YrhNwFFunSl",
+            "legendSets": [],
+            "name": "CH173a - Events/alert case detected",
+            "optionSetValue": false,
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Events/alert case detected",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "CH173b",
+            "dataElementGroups": [
+                {
+                    "id": "o4XIMDoUMNg"
+                }
+            ],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "q8MNn3tOHKf"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                }
+            ],
+            "description": "Events/alert case detected referred",
+            "dimensionItem": "q8MNn3tOHKf",
+            "dimensionItemType": "DATA_ELEMENT",
+            "domainType": "AGGREGATE",
+            "externalAccess": false,
+            "favorite": false,
+            "formName": "Events/alert case detected referred",
+            "id": "q8MNn3tOHKf",
+            "legendSets": [],
+            "name": "CH173b - Events/alert case detected referred",
+            "optionSetValue": false,
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Events/alert case detected referred",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "CH174a",
+            "dataElementGroups": [
+                {
+                    "id": "o4XIMDoUMNg"
+                }
+            ],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "RvLgx6fjzbK"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                }
+            ],
+            "description": "CBS alerts responded to within 24 hours or within specified time period from the CBS protocol",
+            "dimensionItem": "RvLgx6fjzbK",
+            "dimensionItemType": "DATA_ELEMENT",
+            "domainType": "AGGREGATE",
+            "externalAccess": false,
+            "favorite": false,
+            "formName": "CBS alerts with timely response",
+            "id": "RvLgx6fjzbK",
+            "legendSets": [],
+            "name": "CH174a - CBS alerts with timely response",
+            "optionSetValue": false,
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "CBS alerts with timely response",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "CH174b",
+            "dataElementGroups": [
+                {
+                    "id": "o4XIMDoUMNg"
+                }
+            ],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "Lcl68zMgj2y"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                }
+            ],
+            "description": "CBS alerts",
+            "dimensionItem": "Lcl68zMgj2y",
+            "dimensionItemType": "DATA_ELEMENT",
+            "domainType": "AGGREGATE",
+            "externalAccess": false,
+            "favorite": false,
+            "formName": "CBS alerts",
+            "id": "Lcl68zMgj2y",
+            "legendSets": [],
+            "name": "CH174b - CBS alerts",
+            "optionSetValue": false,
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "CBS alerts",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "CH175a",
+            "dataElementGroups": [
+                {
+                    "id": "o4XIMDoUMNg"
+                }
+            ],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "t8PPECpS8B3"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                }
+            ],
+            "description": "Communities in which action was taken following an alert (per month)",
+            "dimensionItem": "t8PPECpS8B3",
+            "dimensionItemType": "DATA_ELEMENT",
+            "domainType": "AGGREGATE",
+            "externalAccess": false,
+            "favorite": false,
+            "formName": "Communities in action after alerts",
+            "id": "t8PPECpS8B3",
+            "legendSets": [],
+            "name": "CH175a - Communities in action after alerts",
+            "optionSetValue": false,
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Communities in action after alerts",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "CH175b",
+            "dataElementGroups": [
+                {
+                    "id": "o4XIMDoUMNg"
+                }
+            ],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "emcfVqQJ2WN"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                }
+            ],
+            "description": "Communities in which there was at least an alert (per month)",
+            "dimensionItem": "emcfVqQJ2WN",
+            "dimensionItemType": "DATA_ELEMENT",
+            "domainType": "AGGREGATE",
+            "externalAccess": false,
+            "favorite": false,
+            "formName": "Communities with alert(s)",
+            "id": "emcfVqQJ2WN",
+            "legendSets": [],
+            "name": "CH175b - Communities with alert(s)",
+            "optionSetValue": false,
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Communities with alert(s)",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        }
+    ],
+    "dataEntryForms": [],
+    "dataSets": [
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "CH_CBS_MONTHLY",
+            "compulsoryDataElementOperands": [],
+            "compulsoryFieldsCompleteOnly": false,
+            "dataElementDecoration": false,
+            "dataInputPeriods": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "Lcl68zMgj2y"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "RvLgx6fjzbK"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "YrhNwFFunSl"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "emcfVqQJ2WN"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "q8MNn3tOHKf"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "t8PPECpS8B3"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                }
+            ],
+            "dimensionItem": "zEqAU7jQVxQ",
+            "dimensionItemType": "REPORTING_RATE",
+            "expiryDays": 0,
+            "externalAccess": false,
+            "favorite": false,
+            "fieldCombinationRequired": false,
+            "formType": "SECTION",
+            "id": "zEqAU7jQVxQ",
+            "indicators": [],
+            "interpretations": [],
+            "legendSets": [],
+            "mobile": false,
+            "name": "CH - Community-based surveillance (Monthly)",
+            "noValueRequiresComment": false,
+            "notifyCompletingUser": false,
+            "openFuturePeriods": 0,
+            "openPeriodsAfterCoEndDate": 0,
+            "periodOffset": 0,
+            "periodType": "Monthly",
+            "publicAccess": "rw------",
+            "renderAsTabs": false,
+            "renderHorizontally": false,
+            "sections": [
+                {
+                    "id": "pZnVQruz3vY"
+                }
+            ],
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "rwrw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rwr-----",
+                        "id": "L4joP9CDK2q"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Community-based surveillance (Monthly)",
+            "skipOffline": false,
+            "timelyDays": 0,
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "rwr-----",
+                    "id": "L4joP9CDK2q",
+                    "userGroupUid": "L4joP9CDK2q"
+                },
+                {
+                    "access": "rwrw----",
+                    "id": "JkwQIpjzPVL",
+                    "userGroupUid": "JkwQIpjzPVL"
+                }
+            ],
+            "validCompleteOnly": false,
+            "version": 10
+        }
+    ],
+    "documents": [],
+    "eventCharts": [],
+    "eventReports": [],
+    "indicatorGroups": [
+        {
+            "attributeValues": [],
+            "code": "CH_CBS",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "oMiegNRp7qV",
+            "indicators": [
+                {
+                    "id": "xeTSPU8uQIk"
+                },
+                {
+                    "id": "e9Dwo2gxrPA"
+                },
+                {
+                    "id": "tdcRLLoOUdA"
+                },
+                {
+                    "id": "ElCEos23Oux"
+                }
+            ],
+            "name": "CH - Community-based surveillance",
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        }
+    ],
+    "indicatorTypes": [
+        {
+            "attributeValues": [],
+            "code": "NUMBER_ONLY",
+            "externalAccess": false,
+            "factor": 1,
+            "favorite": false,
+            "id": "kHy61PbChXr",
+            "name": "Numerator only (number)",
+            "number": true,
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Numérateur seulement (nombre)"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Solo numerador (número)"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Тоько числитель (число)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Фақат рақамловчи (рақам)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Apenas numerador (número)"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Kun teller (tall)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Pouze čitatel (číslo)"
+                }
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "attributeValues": [],
+            "code": "PERCENT",
+            "externalAccess": false,
+            "factor": 100,
+            "favorite": false,
+            "id": "hmSnCXmLYwt",
+            "name": "Percentage",
+            "number": false,
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Фоиз"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Percentagem"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Процент"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Por 100"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Foiz"
+                }
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
+        }
+    ],
+    "indicators": [
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH173",
+            "dataSets": [],
+            "decimals": 0,
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "description": "Number of events/alert case detected",
+            "dimensionItem": "tdcRLLoOUdA",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "tdcRLLoOUdA",
+            "indicatorGroups": [
+                {
+                    "id": "oMiegNRp7qV"
+                }
+            ],
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "CH173 - Events/alert case detected",
+            "numerator": "#{YrhNwFFunSl}",
+            "numeratorDescription": "Events/alert case detected",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Events/alert case detected",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH174b",
+            "dataSets": [],
+            "decimals": 0,
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "description": "Number of CBS alerts",
+            "dimensionItem": "ElCEos23Oux",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "ElCEos23Oux",
+            "indicatorGroups": [
+                {
+                    "id": "oMiegNRp7qV"
+                }
+            ],
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "CH174b - CBS alerts",
+            "numerator": "#{Lcl68zMgj2y}",
+            "numeratorDescription": "Alerts",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "CBS alerts",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH175b",
+            "dataSets": [],
+            "decimals": 0,
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "description": "Number of communities with alerts",
+            "dimensionItem": "xeTSPU8uQIk",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "xeTSPU8uQIk",
+            "indicatorGroups": [
+                {
+                    "id": "oMiegNRp7qV"
+                }
+            ],
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "CH175b - Communities with alerts",
+            "numerator": "#{emcfVqQJ2WN}",
+            "numeratorDescription": "Communities with alerts",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Communities with alerts",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH175",
+            "dataSets": [],
+            "decimals": 1,
+            "denominator": "#{emcfVqQJ2WN}",
+            "denominatorDescription": "Communities with 1+ alert (per month)",
+            "description": "Proportion of communities in which action was taken following an alert (per month)",
+            "dimensionItem": "e9Dwo2gxrPA",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "e9Dwo2gxrPA",
+            "indicatorGroups": [
+                {
+                    "id": "oMiegNRp7qV"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "CH175 - Communities in action after alerts (%)",
+            "numerator": "#{t8PPECpS8B3}",
+            "numeratorDescription": "Communities with action was taken after an alert",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Communities in action after alerts (%)",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        }
+    ],
+    "legendSets": [],
+    "maps": [
+        {
+            "attributeValues": [],
+            "basemap": "osmLight",
+            "description": "",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "GPMRPu8bzTA",
+            "interpretations": [],
+            "mapViews": [
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "columnDimensions": [
+                        "dx"
+                    ],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [
+                        {
+                            "dataDimensionItemType": "INDICATOR",
+                            "indicator": {
+                                "id": "xeTSPU8uQIk"
+                            }
+                        }
+                    ],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "endDate": "2020-11-22T00:00:00.000",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [
+                        "pe"
+                    ],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "oH33BmNXd7u",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "layer": "thematic",
+                    "method": 2,
+                    "name": "CH175b - Communities with alerts",
+                    "opacity": 0.9,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "relativePeriods": {
+                        "biMonthsThisYear": false,
+                        "last12Months": false,
+                        "last12Weeks": false,
+                        "last14Days": false,
+                        "last180Days": false,
+                        "last2SixMonths": false,
+                        "last30Days": false,
+                        "last3Days": false,
+                        "last3Months": false,
+                        "last4BiWeeks": false,
+                        "last4Quarters": false,
+                        "last4Weeks": false,
+                        "last52Weeks": false,
+                        "last5FinancialYears": false,
+                        "last5Years": false,
+                        "last60Days": false,
+                        "last6BiMonths": false,
+                        "last6Months": false,
+                        "last7Days": false,
+                        "last90Days": false,
+                        "lastBiWeek": false,
+                        "lastBimonth": false,
+                        "lastFinancialYear": false,
+                        "lastMonth": false,
+                        "lastQuarter": false,
+                        "lastSixMonth": false,
+                        "lastWeek": false,
+                        "lastYear": true,
+                        "monthsLastYear": false,
+                        "monthsThisYear": false,
+                        "quartersLastYear": false,
+                        "quartersThisYear": false,
+                        "thisBiWeek": false,
+                        "thisBimonth": false,
+                        "thisDay": false,
+                        "thisFinancialYear": false,
+                        "thisMonth": false,
+                        "thisQuarter": false,
+                        "thisSixMonth": false,
+                        "thisWeek": false,
+                        "thisYear": false,
+                        "weeksThisYear": false,
+                        "yesterday": false
+                    },
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 0,
+                    "startDate": "2019-11-22T00:00:00.000",
+                    "subscribed": false,
+                    "subscribers": [],
+                    "thematicMapType": "CHOROPLETH",
+                    "topLimit": 0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": true
+                },
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "columnDimensions": [],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "Mfh2IYaawkb",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "layer": "boundary",
+                    "name": "Mfh2IYaawkb",
+                    "opacity": 1.0,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 0,
+                    "subscribed": false,
+                    "subscribers": [],
+                    "topLimit": 0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": true
+                }
+            ],
+            "name": "CH - Communities with alerts",
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "subscribed": false,
+            "subscribers": [],
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        }
+    ],
+    "optionGroups": [],
+    "optionSets": [],
+    "options": [],
+    "organisationUnitGroups": [],
+    "package": {
+        "DHIS2Build": "a95cf40",
+        "DHIS2Version": "2.36.3",
+        "code": "CH_CBS",
+        "description": "",
+        "lastUpdated": "20211020T141923",
+        "locale": "en",
+        "name": "CH_CBS_AGG_1.0.0_DHIS2.36.3-en",
+        "type": "AGG",
+        "version": ".0.0"
+    },
+    "predictorGroups": [],
+    "predictors": [],
+    "sections": [
+        {
+            "attributeValues": [],
+            "categoryCombos": [
+                {
+                    "id": "bjDvmb4bfuf"
+                }
+            ],
+            "dataElements": [
+                {
+                    "id": "YrhNwFFunSl"
+                },
+                {
+                    "id": "q8MNn3tOHKf"
+                },
+                {
+                    "id": "Lcl68zMgj2y"
+                },
+                {
+                    "id": "RvLgx6fjzbK"
+                },
+                {
+                    "id": "emcfVqQJ2WN"
+                },
+                {
+                    "id": "t8PPECpS8B3"
+                }
+            ],
+            "dataSet": {
+                "id": "zEqAU7jQVxQ"
+            },
+            "externalAccess": false,
+            "favorite": false,
+            "greyedFields": [],
+            "id": "pZnVQruz3vY",
+            "indicators": [],
+            "name": "Community-based Surveillance",
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
+            "showColumnTotals": false,
+            "showRowTotals": true,
+            "sortOrder": 1,
+            "translations": [],
+            "userAccesses": [],
+            "userGroupAccesses": []
+        }
+    ],
+    "userGroups": [
+        {
+            "attributeValues": [],
+            "code": "CH_ACCESS",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "ctw1WXDZHLQ",
+            "managedByGroups": [],
+            "managedGroups": [],
+            "name": "CHIS access",
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "CH_ADMIN",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "L4joP9CDK2q",
+            "managedByGroups": [],
+            "managedGroups": [],
+            "name": "CHIS admin",
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "CH_CAPTURE",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "JkwQIpjzPVL",
+            "managedByGroups": [],
+            "managedGroups": [],
+            "name": "CHIS capture",
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "users": []
+        }
+    ],
+    "users": [
+        {
+            "attributeValues": [],
+            "dataViewOrganisationUnits": [],
+            "externalAccess": false,
+            "favorite": false,
+            "firstName": "Admin",
+            "id": "vUeLeQMSwhN",
+            "name": "Admin WHO",
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
+            "surname": "WHO",
+            "teiSearchOrganisationUnits": [],
+            "translations": [],
+            "userAccesses": [],
+            "userCredentials": {
+                "attributeValues": [],
+                "catDimensionConstraints": [],
+                "cogsDimensionConstraints": [],
+                "disabled": true,
+                "externalAccess": false,
+                "externalAuth": false,
+                "favorite": false,
+                "favorites": [],
+                "id": "MMRO6oP1HQg",
+                "invitation": false,
+                "lastLogin": "2018-07-13T12:28:39.168",
+                "name": "Admin WHO",
+                "passwordLastUpdated": "2018-07-13T12:28:39.168",
+                "selfRegistered": false,
+                "sharing": {
+                    "external": false,
+                    "userGroups": {},
+                    "users": {}
+                },
+                "translations": [],
+                "twoFA": false,
+                "user": {
+                    "displayName": "Olav Poppe",
+                    "id": "jB4WJmaNuGT",
+                    "name": "Olav Poppe",
+                    "username": "olavpo"
+                },
+                "userAccesses": [],
+                "userGroupAccesses": [],
+                "userInfo": {
+                    "id": "vUeLeQMSwhN"
+                },
+                "userRoles": [],
+                "username": "who"
+            }
+        }
+    ],
+    "validationRuleGroups": [
+        {
+            "attributeValues": [],
+            "code": "CH_CBS",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "LxzMGlAWD9u",
+            "name": "CH - Community-based surveillance",
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRules": [
+                {
+                    "id": "tJUNurztWS8"
+                },
+                {
+                    "id": "yWpoCqa39DD"
+                },
+                {
+                    "id": "MJlehZ7czOn"
+                }
+            ]
+        }
+    ],
+    "validationRules": [
+        {
+            "attributeValues": [],
+            "code": "CH_CAREGIVERS_TIMELY_VS_CBS_ALERTS",
+            "dimensionItem": "MJlehZ7czOn",
+            "displayInstruction": "CBS alerts responded to timely should be less than or equal to CBS alerts",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "MJlehZ7czOn",
+            "importance": "MEDIUM",
+            "instruction": "CBS alerts responded to timely should be less than or equal to CBS alerts",
+            "leftSide": {
+                "description": "CBS alerts responded to timely",
+                "expression": "#{RvLgx6fjzbK}",
+                "missingValueStrategy": "SKIP_IF_ALL_VALUES_MISSING",
+                "slidingWindow": false
+            },
+            "legendSets": [],
+            "name": "CH - CBS alerts responded to timely Vs CBS alerts",
+            "notificationTemplates": [],
+            "operator": "less_than_or_equal_to",
+            "organisationUnitLevels": [],
+            "periodOffset": 0,
+            "periodType": "Monthly",
+            "publicAccess": "rw------",
+            "rightSide": {
+                "description": "CBS alerts",
+                "expression": "#{Lcl68zMgj2y}",
+                "missingValueStrategy": "SKIP_IF_ALL_VALUES_MISSING",
+                "slidingWindow": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "skipFormValidation": false,
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "LxzMGlAWD9u"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "CH_ALERT_ACTION_VS_ONE_ALERT_MONTH",
+            "dimensionItem": "yWpoCqa39DD",
+            "displayInstruction": "Communities with action was taken after an alert should be less than or equal to Communities with 1+ alert (per month)",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "yWpoCqa39DD",
+            "importance": "MEDIUM",
+            "instruction": "Communities with action was taken after an alert should be less than or equal to Communities with 1+ alert (per month)",
+            "leftSide": {
+                "description": "Communities with action was taken after an alert",
+                "expression": "#{t8PPECpS8B3}",
+                "missingValueStrategy": "SKIP_IF_ALL_VALUES_MISSING",
+                "slidingWindow": false
+            },
+            "legendSets": [],
+            "name": "CH - Communities with action was taken after an alert Vs Communities with 1+ alert (per month)",
+            "notificationTemplates": [],
+            "operator": "less_than_or_equal_to",
+            "organisationUnitLevels": [],
+            "periodOffset": 0,
+            "periodType": "Monthly",
+            "publicAccess": "rw------",
+            "rightSide": {
+                "description": "Communities with 1+ alert (per month)",
+                "expression": "#{emcfVqQJ2WN}",
+                "missingValueStrategy": "SKIP_IF_ALL_VALUES_MISSING",
+                "slidingWindow": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "skipFormValidation": false,
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "LxzMGlAWD9u"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "CH_CASE_REF_VS_CASE_DETECT",
+            "dimensionItem": "tJUNurztWS8",
+            "displayInstruction": "Events/alert case detected referred should be less than or equal to Events/alert case detected",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "tJUNurztWS8",
+            "importance": "MEDIUM",
+            "instruction": "Events/alert case detected referred should be less than or equal to Events/alert case detected",
+            "leftSide": {
+                "description": "Events/alert case detected referred",
+                "expression": "#{q8MNn3tOHKf}",
+                "missingValueStrategy": "SKIP_IF_ALL_VALUES_MISSING",
+                "slidingWindow": false
+            },
+            "legendSets": [],
+            "name": "CH - Events/alert case detected referred Vs Events/alert case detected",
+            "notificationTemplates": [],
+            "operator": "less_than_or_equal_to",
+            "organisationUnitLevels": [],
+            "periodOffset": 0,
+            "periodType": "Monthly",
+            "publicAccess": "rw------",
+            "rightSide": {
+                "description": "Events/alert case detected",
+                "expression": "#{YrhNwFFunSl}",
+                "missingValueStrategy": "SKIP_IF_ALL_VALUES_MISSING",
+                "slidingWindow": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "skipFormValidation": false,
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "LxzMGlAWD9u"
+                }
+            ]
+        }
+    ],
+    "visualizations": [
+        {
+            "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "# of alerts/events"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "Reporting units"
+                    },
+                    "type": "DOMAIN"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "columns": [
+                {
+                    "id": "dx"
+                }
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "ElCEos23Oux"
+                    }
+                }
+            ],
+            "dataElementDimensions": [],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "displayDomainAxisLabel": "Reporting units",
+            "displayRangeAxisLabel": "# of alerts/events",
+            "displayTitle": "# of alerts/events detected, last month",
+            "domainAxisLabel": "Reporting units",
+            "externalAccess": false,
+            "favorite": false,
+            "filterDimensions": [
+                "pe",
+                "ou"
+            ],
+            "filters": [
+                {
+                    "id": "pe"
+                },
+                {
+                    "id": "ou"
+                }
+            ],
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": true,
+            "hideSubtitle": true,
+            "hideTitle": false,
+            "id": "SQe3LP9oTUM",
+            "interpretations": [],
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "hidden": true
+            },
+            "name": "CH - CBS alerts",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "parentGraphMap": {},
+            "percentStackedValues": false,
+            "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
+            "rangeAxisLabel": "# of alerts/events",
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "rows": [],
+            "sharing": {
+                "external": false,
+                "owner": "FIsdZWDPbr2",
+                "public": "--------",
+                "userGroups": {},
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribed": false,
+            "subscribers": [],
+            "title": "# of alerts/events detected, last month",
+            "topLimit": 0,
+            "translations": [],
+            "type": "SINGLE_VALUE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "% of communities"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "Reporting units"
+                    },
+                    "type": "DOMAIN"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "columns": [
+                {
+                    "id": "dx"
+                }
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "e9Dwo2gxrPA"
+                    }
+                }
+            ],
+            "dataElementDimensions": [],
+            "dataElementGroupSetDimensions": [],
+            "description": "",
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "displayDomainAxisLabel": "Reporting units",
+            "displayRangeAxisLabel": "% of communities",
+            "displayTitle": "% of communities in which action was taken following an alert, last 12 months",
+            "domainAxisLabel": "Reporting units",
+            "externalAccess": false,
+            "favorite": false,
+            "filterDimensions": [
+                "ou"
+            ],
+            "filters": [
+                {
+                    "id": "ou"
+                }
+            ],
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": true,
+            "hideSubtitle": true,
+            "hideTitle": false,
+            "id": "DKGmKiF8yUT",
+            "interpretations": [],
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "hidden": true
+            },
+            "name": "CH - Proportion of communities in which action was taken following an alert - last month",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "parentGraphMap": {},
+            "percentStackedValues": false,
+            "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
+            "rangeAxisLabel": "% of communities",
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last12Months": true,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "rows": [
+                {
+                    "id": "pe"
+                }
+            ],
+            "sharing": {
+                "external": false,
+                "owner": "FIsdZWDPbr2",
+                "public": "--------",
+                "userGroups": {},
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribed": false,
+            "subscribers": [],
+            "title": "% of communities in which action was taken following an alert, last 12 months",
+            "topLimit": 0,
+            "translations": [],
+            "type": "STACKED_AREA",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "userOrganisationUnit": false,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": true,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "% of alerts/events"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "Months"
+                    },
+                    "type": "DOMAIN"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "columns": [
+                {
+                    "id": "dx"
+                }
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "ElCEos23Oux"
+                    }
+                }
+            ],
+            "dataElementDimensions": [],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "displayDomainAxisLabel": "Months",
+            "displayRangeAxisLabel": "% of alerts/events",
+            "displayTitle": "% of CBS alerts responded to within 24 hours or within specified time period, last 12 months",
+            "domainAxisLabel": "Months",
+            "externalAccess": false,
+            "favorite": false,
+            "filterDimensions": [
+                "ou"
+            ],
+            "filters": [
+                {
+                    "id": "ou"
+                }
+            ],
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": true,
+            "hideSubtitle": true,
+            "hideTitle": false,
+            "id": "CdExjT1m9TG",
+            "interpretations": [],
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "hidden": true
+            },
+            "name": "CH - Proportion of CBS alerts responded to within 24 hours or within specified time period - last 12 months",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "parentGraphMap": {},
+            "percentStackedValues": false,
+            "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
+            "rangeAxisLabel": "% of alerts/events",
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last12Months": true,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "rows": [
+                {
+                    "id": "pe"
+                }
+            ],
+            "sharing": {
+                "external": false,
+                "owner": "KpUvqwyAqx8",
+                "public": "--------",
+                "userGroups": {},
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribed": false,
+            "subscribers": [],
+            "title": "% of CBS alerts responded to within 24 hours or within specified time period, last 12 months",
+            "topLimit": 0,
+            "translations": [],
+            "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "# of alerts/events"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "Reporting units"
+                    },
+                    "type": "DOMAIN"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "columns": [
+                {
+                    "id": "dx"
+                }
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "tdcRLLoOUdA"
+                    }
+                }
+            ],
+            "dataElementDimensions": [],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "displayDomainAxisLabel": "Reporting units",
+            "displayRangeAxisLabel": "# of alerts/events",
+            "displayTitle": "# of alerts/events detected, last month",
+            "domainAxisLabel": "Reporting units",
+            "externalAccess": false,
+            "favorite": false,
+            "filterDimensions": [
+                "pe",
+                "ou"
+            ],
+            "filters": [
+                {
+                    "id": "pe"
+                },
+                {
+                    "id": "ou"
+                }
+            ],
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": true,
+            "hideSubtitle": true,
+            "hideTitle": false,
+            "id": "jmGWMjopLhz",
+            "interpretations": [],
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "hidden": true
+            },
+            "name": "CH - Number of alerts/events detected - last month",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "parentGraphMap": {},
+            "percentStackedValues": false,
+            "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
+            "rangeAxisLabel": "# of alerts/events",
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "rows": [],
+            "sharing": {
+                "external": false,
+                "owner": "FIsdZWDPbr2",
+                "public": "--------",
+                "userGroups": {},
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribed": false,
+            "subscribers": [],
+            "title": "# of alerts/events detected, last month",
+            "topLimit": 0,
+            "translations": [],
+            "type": "SINGLE_VALUE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        }
+    ]
+}

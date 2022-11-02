@@ -1481,14 +1481,6 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Lcl68zMgj2y"
-                    },
-                    "dataSet": {
-                        "id": "zEqAU7jQVxQ"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "t8PPECpS8B3"
                     },
                     "dataSet": {
@@ -1506,6 +1498,14 @@
                 {
                     "dataElement": {
                         "id": "RvLgx6fjzbK"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Lcl68zMgj2y"
                     },
                     "dataSet": {
                         "id": "zEqAU7jQVxQ"
@@ -2817,10 +2817,10 @@
             "userGroupAccesses": [],
             "validationRules": [
                 {
-                    "id": "tJUNurztWS8"
+                    "id": "yWpoCqa39DD"
                 },
                 {
-                    "id": "yWpoCqa39DD"
+                    "id": "tJUNurztWS8"
                 },
                 {
                     "id": "MJlehZ7czOn"

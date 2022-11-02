@@ -1,4 +1,4 @@
-﻿# CH - Tuberculosis { #ch-tb-aggregate-design }
+﻿# CHIS - Tuberculosis { #chis-agg-tb-design }
 
 ## 1. Datasets
 

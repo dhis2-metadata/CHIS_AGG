@@ -1,4 +1,4 @@
-﻿# Community Health Information System (CHIS) - System Design Document { #chis-system-design }
+﻿# Community Health Information System (CHIS) - System Design Document { #chis-agg-design }
 
 ## 1. Introduction
 
@@ -16,27 +16,27 @@ Community Health Workers (CHW) are responsible for a wide range of tasks and act
 
 The CHIS package features **21 modules** and **37 datasets** with monthly and/or yearly periodicity of data collection.
 
-1. [Adolescent Health (Monthly and Yearly)](#ch-ado-aggregate-design)
-2. [Child Health (Monthly and Yearly)](#ch-cdh-aggregate-design)
-3. [Child protection and Interpersonal violence (Monthly and Yearly)](#ch-cpiv-aggregate-design)
-4. [Civil registration and vital statistics (monthly and Yearly)](#ch-crvs-aggregate-design)
-5. [Clean energy (Yearly)](#ch-ene-aggregate-design)
-6. [Community based surveillance (Monthly)](#ch-cbs-aggregate-design)
-7. [HIV (Monthly and Yearly)](#ch-hiv-aggregate-design)
-8. [Integrated community case management (Monthly)](#ch-iccm-aggregate-design)
-9. [Immunization (Monthly and Yearly)](#ch-epi-aggregate-design)
-10. [Malaria (Monthly and Yearly)](#ch-mal-aggregate-design)
-11. [Maternal health (Monthly and Yearly)](#ch-mat-aggregate-design)
-12. [Mental health (Monthly and Yearly)](#ch-men-aggregate-design)
-13. [Non-communicable diseases (Monthly and Yearly)](#ch-ncd-aggregate-design)
-14. [Newborn Health (Monthly and Yearly)](#ch-nbh-aggregate-design)
-15. [Neglected tropical diseases (Monthly and Yearly)](#ch-ntd-aggregate-design)
-16. [Nutrition (Monthly and Yearly)](#ch-nut-aggregate-design)
-17. [People-centered services (Monthly and Yearly)](#ch-pcs-aggregate-design)
-18. [Population composition (Yearly)](#ch-pop-aggregate-design)
-19. [Sexual and reproductive health (Monthly and Yearly)](#ch-srh-aggregate-design)
-20. [Tuberculosis (Monthly and Yearly)](#ch-tb-aggregate-design)
-21. [Water, sanitation and hygiene (Yearly)](#ch-wash-aggregate-design)
+1. [Adolescent Health (Monthly and Yearly)](#chis-agg-ah-design)
+2. [Child Health (Monthly and Yearly)](#chis-agg-ch-design)
+3. [Child protection and Interpersonal violence (Monthly and Yearly)](#chis-agg-cpiv-design)
+4. [Civil registration and vital statistics (monthly and Yearly)](#chis-agg-crvs-design)
+5. [Clean energy (Yearly)](#chis-agg-ene-design)
+6. [Community based surveillance (Monthly)](#chis-agg-cbs-design)
+7. [HIV (Monthly and Yearly)](#chis-agg-hiv-design)
+8. [Integrated community case management (Monthly)](#chis-agg-iccm-design)
+9. [Immunization (Monthly and Yearly)](#chis-agg-epi-design)
+10. [Malaria (Monthly and Yearly)](#chis-agg-mal-design)
+11. [Maternal health (Monthly and Yearly)](#chis-agg-mat-design)
+12. [Mental health (Monthly and Yearly)](#chis-agg-men-design)
+13. [Non-communicable diseases (Monthly and Yearly)](#chis-agg-ncd-design)
+14. [Newborn Health (Monthly and Yearly)](#chis-agg-nbh-design)
+15. [Neglected tropical diseases (Monthly and Yearly)](#chis-agg-ntd-design)
+16. [Nutrition (Monthly and Yearly)](#chis-agg-nut-design)
+17. [People-centered services (Monthly and Yearly)](#chis-agg-pcs-design)
+18. [Population composition (Yearly)](#chis-agg-pop-design)
+19. [Sexual and reproductive health (Monthly and Yearly)](#chis-agg-srh-design)
+20. [Tuberculosis (Monthly and Yearly)](#chis-agg-tb-design)
+21. [Water, sanitation and hygiene (Yearly)](#chis-agg-wash-design)
 
 The principle of flexibility is also reflected in the presence of the **same data elements and indicators in different modules**. These have been distributed according to the theoretical possibility of the presence of certain activities associated with specific modules.
 

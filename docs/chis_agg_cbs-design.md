@@ -1,4 +1,4 @@
-﻿# CH - Community-based surveillance (CBS) { #ch-cbs-aggregate-design }
+﻿# CHIS - Community-based surveillance (CBS) { #chis-agg-cbs-design }
 
 ## 1. Datasets
 

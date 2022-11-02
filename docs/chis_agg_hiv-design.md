@@ -1,4 +1,4 @@
-﻿# CH - HIV { #ch-hiv-aggregate-design }
+﻿# CHIS - HIV { #chis-agg-hiv-design }
 
 ## 1. Datasets
 

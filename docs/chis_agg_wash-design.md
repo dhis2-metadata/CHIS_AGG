@@ -1,4 +1,4 @@
-﻿# CH - Water, Sanitation and Hygiene { #ch-wash-aggregate-design }
+﻿# CHIS - Water, Sanitation and Hygiene { #chis-agg-wash-design }
 
 ## 1. Datasets
 

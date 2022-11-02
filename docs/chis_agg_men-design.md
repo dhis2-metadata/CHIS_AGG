@@ -1,4 +1,4 @@
-﻿# CH - Mental Health { #ch-men-aggregate-design }
+﻿# CHIS - Mental Health { #chis-agg-men-design }
 
 ## 1. Dataset Configuration
 

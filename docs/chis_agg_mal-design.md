@@ -1,4 +1,4 @@
-﻿# CH - Malaria { #ch-mal-aggregate-design }
+﻿# CHIS - Malaria { #chis-agg-mal-design }
 
 ## 1.Datasets
 

@@ -1,4 +1,4 @@
-﻿# CH - Neglected Tropical Diseases (NTDs) { #ch-ntd-aggregate-design }
+﻿# CHIS - Neglected Tropical Diseases (NTDs) { #chis-agg-ntd-design }
 
 ## 1.Datasets
 

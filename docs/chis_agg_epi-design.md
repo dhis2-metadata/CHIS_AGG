@@ -1,4 +1,4 @@
-﻿# CH - Immunization { #ch-epi-aggregate-design }
+﻿# CHIS - Immunization { #chis-agg-epi-design }
 
 ## 1. Datasets
 

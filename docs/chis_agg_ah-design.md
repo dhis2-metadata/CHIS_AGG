@@ -1,4 +1,4 @@
-# CH - Adolescent Health { #ch-ado-aggregate-design }
+# CHIS - Adolescent Health { #chis-agg-ah-design }
 
 ## 1. Datasets
 

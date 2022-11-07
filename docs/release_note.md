@@ -1,4 +1,4 @@
-# Release Note
+# Release Note { #chis-release-note }
 
 ## 1.0.0
 

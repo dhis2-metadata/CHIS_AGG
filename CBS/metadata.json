@@ -1,0 +1,3086 @@
+{
+    "attributes": [],
+    "categories": [
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "xYerKDKCefk"
+                }
+            ],
+            "code": "default",
+            "dataDimension": false,
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "GLevLNI9wkl",
+            "name": "default",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "default",
+            "translations": [
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Стандарт"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "défaut"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "Putus berobat/default"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "výchozí"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "standard"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Padrão"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "Стандарт"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "défaut"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Padrão"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "по умолчанию"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Padrao"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "standart"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Putus berobat/default"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "standart"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Padrão"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "výchozí"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "по умолчанию"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "standard"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                }
+            ]
+        }
+    ],
+    "categoryCombos": [
+        {
+            "categories": [
+                {
+                    "id": "GLevLNI9wkl"
+                }
+            ],
+            "code": "default",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "bjDvmb4bfuf",
+            "name": "default",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "skipTotal": false,
+            "translations": [
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Стандарт"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "výchozí"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "по умолчанию"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Padrao"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Padrão"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "standart"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Putus berobat/default"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "défaut"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "standard"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                }
+            ]
+        }
+    ],
+    "categoryOptionCombos": [
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "categoryOptions": [
+                {
+                    "id": "xYerKDKCefk"
+                }
+            ],
+            "code": "DEFAULT",
+            "id": "HllvX50cXC0",
+            "ignoreApproval": false,
+            "name": "default",
+            "translations": [
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Стандарт"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "výchozí"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "по умолчанию"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Padrao"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Padrão"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "standart"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Putus berobat/default"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "défaut"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "standard"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                }
+            ]
+        }
+    ],
+    "categoryOptionGroupSets": [],
+    "categoryOptionGroups": [],
+    "categoryOptions": [
+        {
+            "attributeValues": [],
+            "code": "DEFAULT",
+            "id": "xYerKDKCefk",
+            "name": "default",
+            "organisationUnits": [],
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rwrw----",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "default",
+            "translations": [
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Стандарт"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "défaut"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "Putus berobat/default"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "výchozí"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "standard"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Padrão"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "Стандарт"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "défaut"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Padrão"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "по умолчанию"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Padrao"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "standart"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Putus berobat/default"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "standart"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "výchozí"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "по умолчанию"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Padrao"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "standard"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                }
+            ]
+        }
+    ],
+    "constants": [],
+    "dashboards": [
+        {
+            "allowedFilters": [],
+            "code": "CHIS_AGG_CBS",
+            "dashboardItems": [
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 13,
+                    "id": "idbRh3yvQ2E",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "SQe3LP9oTUM"
+                    },
+                    "width": 13,
+                    "x": 2,
+                    "y": 12
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 29,
+                    "id": "dDbsLjZiFC3",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "map": {
+                        "id": "GPMRPu8bzTA"
+                    },
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "MAP",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "width": 21,
+                    "x": 2,
+                    "y": 25
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 29,
+                    "id": "iDVTH0oDSQa",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "DKGmKiF8yUT"
+                    },
+                    "width": 35,
+                    "x": 23,
+                    "y": 25
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 25,
+                    "id": "EQjBMLRonYa",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "CdExjT1m9TG"
+                    },
+                    "width": 43,
+                    "x": 15,
+                    "y": 0
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 12,
+                    "id": "uqXm4iQHXwY",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "jmGWMjopLhz"
+                    },
+                    "width": 13,
+                    "x": 2,
+                    "y": 0
+                }
+            ],
+            "id": "rTv9mxa0daK",
+            "name": "CH - Community-based surveillance",
+            "restrictFilters": false,
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "displayName": "CHIS admin",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "displayName": "CHIS access",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH - Vigilância baseada na comunidade"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH - Vigilância baseada na comunidade"
+                }
+            ]
+        }
+    ],
+    "dataElementGroups": [
+        {
+            "attributeValues": [],
+            "code": "CHIS_AGG_CBS",
+            "dataElements": [
+                {
+                    "id": "Lcl68zMgj2y"
+                },
+                {
+                    "id": "YrhNwFFunSl"
+                },
+                {
+                    "id": "t8PPECpS8B3"
+                },
+                {
+                    "id": "RvLgx6fjzbK"
+                },
+                {
+                    "id": "emcfVqQJ2WN"
+                },
+                {
+                    "id": "q8MNn3tOHKf"
+                }
+            ],
+            "id": "o4XIMDoUMNg",
+            "name": "CH - Community-based surveillance",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Community-based surveillance",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH - Vigilância baseada na comunidade"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Vigilância baseada na comunidade"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Vigilância baseada na comunidade"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH - Vigilância baseada na comunidade"
+                }
+            ]
+        }
+    ],
+    "dataElements": [
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "CH173a",
+            "description": "Events/alert case detected",
+            "domainType": "AGGREGATE",
+            "formName": "Events/alert case detected",
+            "id": "YrhNwFFunSl",
+            "legendSets": [],
+            "name": "CH173a - Events/alert case detected",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Events/alert case detected",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "FORM_NAME",
+                    "value": "Eventos/casos de alerta detectados"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH173a - Casos de Eventos/alerta detectados"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Eventos/casos de alerta detectados"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH173a - Casos de Eventos/alerta detectados"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Eventos/casos de alerta detectados"
+                },
+                {
+                    "locale": "pt",
+                    "property": "FORM_NAME",
+                    "value": "Eventos/casos de alerta detectados"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Eventos/casos de alerta detectados"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Eventos/casos de alerta detectados"
+                }
+            ],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "CH173b",
+            "description": "Events/alert case detected referred",
+            "domainType": "AGGREGATE",
+            "formName": "Events/alert case detected referred",
+            "id": "q8MNn3tOHKf",
+            "legendSets": [],
+            "name": "CH173b - Events/alert case detected referred",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Events/alert case detected referred",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Eventos/casos de alerta detectados referido"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Eventos/casos de alerta detectados referido"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "FORM_NAME",
+                    "value": "Eventos/casos de alerta detectados referido"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Eventos/casos de alerta detectados referidos"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Eventos/casos de alerta detectados referido"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH173b - Caso de eventos/alerta detectado referidos"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH173b - Caso de eventos/alerta detectado referidos"
+                },
+                {
+                    "locale": "pt",
+                    "property": "FORM_NAME",
+                    "value": "Eventos/casos de alerta detectados referido"
+                }
+            ],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "CH174a",
+            "description": "CBS alerts responded to within 24 hours or within specified time period from the CBS protocol",
+            "domainType": "AGGREGATE",
+            "formName": "CBS alerts with timely response",
+            "id": "RvLgx6fjzbK",
+            "legendSets": [],
+            "name": "CH174a - CBS alerts with timely response",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "CBS alerts with timely response",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH174a - Alertas de vigilância baseados na comunidade com resposta atempada"
+                },
+                {
+                    "locale": "pt",
+                    "property": "FORM_NAME",
+                    "value": "Alertas de CBS respondidos a tempo"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Alertas de CBS respondidos a tempo"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH174a - Alertas de vigilância baseados na comunidade com resposta atempada"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "FORM_NAME",
+                    "value": "Alertas de CBS respondidos a tempo"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Alertas de CBS respondidos a tempo"
+                }
+            ],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "CH174b",
+            "description": "CBS alerts",
+            "domainType": "AGGREGATE",
+            "formName": "CBS alerts",
+            "id": "Lcl68zMgj2y",
+            "legendSets": [],
+            "name": "CH174b - CBS alerts",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "CBS alerts",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Alertas de CBS"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Alertas de CBS"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH174b - Alertas de vigilância baseados na comunidade"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Alertas de CBS"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "FORM_NAME",
+                    "value": "Alertas de CBS"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Alertas de CBS"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH174b - Alertas de vigilância baseados na comunidade"
+                },
+                {
+                    "locale": "pt",
+                    "property": "FORM_NAME",
+                    "value": "Alertas de CBS"
+                }
+            ],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "CH175a",
+            "description": "Communities in which action was taken following an alert (per month)",
+            "domainType": "AGGREGATE",
+            "formName": "Communities in action after alerts",
+            "id": "t8PPECpS8B3",
+            "legendSets": [],
+            "name": "CH175a - Communities in action after alerts",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Communities in action after alerts",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH175a - Comunidades em acção após alertas"
+                },
+                {
+                    "locale": "pt",
+                    "property": "FORM_NAME",
+                    "value": "Comunidades em acção depois de alertas"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Comunidades em acção depois de alertas"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Comunidades em acção depois de alertas"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "FORM_NAME",
+                    "value": "Comunidades em acção depois de alertas"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH175a - Comunidades em acção após alertas"
+                }
+            ],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "CH175b",
+            "description": "Communities in which there was at least an alert (per month)",
+            "domainType": "AGGREGATE",
+            "formName": "Communities with alert(s)",
+            "id": "emcfVqQJ2WN",
+            "legendSets": [],
+            "name": "CH175b - Communities with alert(s)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Communities with alert(s)",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH175b - Comunidades com alerta(s)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Comunidades com alerta(s)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH175b - Comunidades com alerta(s)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "FORM_NAME",
+                    "value": "Comunidades com alerta(s)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "FORM_NAME",
+                    "value": "Comunidades com alerta(s)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Comunidades com alerta(s)"
+                }
+            ],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        }
+    ],
+    "dataEntryForms": [],
+    "dataSets": [
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "CHIS_AGG_CBS_MONTHLY",
+            "compulsoryDataElementOperands": [],
+            "compulsoryFieldsCompleteOnly": false,
+            "dataElementDecoration": false,
+            "dataInputPeriods": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "t8PPECpS8B3"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Lcl68zMgj2y"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "emcfVqQJ2WN"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "RvLgx6fjzbK"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "q8MNn3tOHKf"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "YrhNwFFunSl"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                }
+            ],
+            "expiryDays": 0,
+            "fieldCombinationRequired": false,
+            "id": "zEqAU7jQVxQ",
+            "indicators": [],
+            "legendSets": [],
+            "mobile": false,
+            "name": "CH - Community-based surveillance (Monthly)",
+            "noValueRequiresComment": false,
+            "notifyCompletingUser": false,
+            "openFuturePeriods": 0,
+            "openPeriodsAfterCoEndDate": 0,
+            "periodType": "Monthly",
+            "renderAsTabs": false,
+            "renderHorizontally": false,
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "displayName": "CHIS capture",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rwr-----",
+                        "displayName": "CHIS admin",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "displayName": "CHIS access",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Community-based surveillance (Monthly)",
+            "skipOffline": false,
+            "timelyDays": 0,
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Vigilância baseada na comunidade (Mensal)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH - Vigilância baseada na comunidade (Mensal)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH - Vigilância baseada na comunidade (Mensal)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Vigilância baseada na comunidade (Mensal)"
+                }
+            ],
+            "validCompleteOnly": false,
+            "version": 29
+        }
+    ],
+    "documents": [],
+    "eventVisualizations": [],
+    "indicatorGroupSets": [],
+    "indicatorGroups": [
+        {
+            "attributeValues": [],
+            "code": "CHIS_AGG_CBS",
+            "id": "oMiegNRp7qV",
+            "indicators": [
+                {
+                    "id": "tdcRLLoOUdA"
+                },
+                {
+                    "id": "ElCEos23Oux"
+                },
+                {
+                    "id": "xeTSPU8uQIk"
+                },
+                {
+                    "id": "e9Dwo2gxrPA"
+                }
+            ],
+            "name": "CH - Community-based surveillance",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH - Vigilância baseada na comunidade"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH - Vigilância baseada na comunidade"
+                }
+            ]
+        }
+    ],
+    "indicatorTypes": [
+        {
+            "code": "GEN_LIB_NUMBER_ONLY",
+            "factor": 1,
+            "id": "kHy61PbChXr",
+            "name": "Numerator only (number)",
+            "number": true,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Numérateur seulement (nombre)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Apenas numerador (número)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Solo numerador (número)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Solo numerador (número)"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Фақат рақамловчи (рақам)"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Тоько числитель (число)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Фақат рақамловчи (рақам)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Apenas numerador (número)"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Kun teller (tall)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Pouze čitatel (číslo)"
+                }
+            ]
+        },
+        {
+            "code": "GEN_LIB_PERCENT",
+            "factor": 100,
+            "id": "hmSnCXmLYwt",
+            "name": "Percentage",
+            "number": false,
+            "translations": [
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Фоиз"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "نسبة"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "نسبة"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Pourcentage"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Por 100"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "نسبة"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Persentase"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Percentagem"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Procento"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Por 100"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Процент"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Percentagem"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "نسبة"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Prosentdel"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Foiz"
+                }
+            ]
+        }
+    ],
+    "indicators": [
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH173",
+            "decimals": 0,
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "description": "Number of events/alert case detected",
+            "id": "tdcRLLoOUdA",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "CH173 - Events/alert case detected",
+            "numerator": "#{YrhNwFFunSl}",
+            "numeratorDescription": "Events/alert case detected",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Events/alert case detected",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Número de eventos/casos de alerta detectados"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Eventos/casos de alerta detectados"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH173 - Eventos/casos de alerta detectados"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Eventos/casos de alerta detectados"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Eventos/casos de alerta detectados"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH173 - Eventos/casos de alerta detectados"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Eventos/casos de alerta detectados"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Número de eventos/casos de alerta detectados"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH174b",
+            "decimals": 0,
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "description": "Number of CBS alerts",
+            "id": "ElCEos23Oux",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "CH174b - CBS alerts",
+            "numerator": "#{Lcl68zMgj2y}",
+            "numeratorDescription": "Alerts",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "CBS alerts",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Alertas de CBS"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Número de alertas de CBS"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Número de alertas de CBS"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Alertas de CBS"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH174b - Alertas de vigilância baseados na comunidade"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH174b - Alertas de vigilância baseados na comunidade"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH175b",
+            "decimals": 0,
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "description": "Number of communities with alerts",
+            "id": "xeTSPU8uQIk",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "CH175b - Communities with alerts",
+            "numerator": "#{emcfVqQJ2WN}",
+            "numeratorDescription": "Communities with alerts",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Communities with alerts",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CH175",
+            "decimals": 1,
+            "denominator": "#{emcfVqQJ2WN}",
+            "denominatorDescription": "Communities with 1+ alert (per month)",
+            "description": "Proportion of communities in which action was taken following an alert (per month)",
+            "id": "e9Dwo2gxrPA",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "CH175 - Communities in action after alerts (%)",
+            "numerator": "#{t8PPECpS8B3}",
+            "numeratorDescription": "Communities with action was taken after an alert",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Communities in action after alerts (%)",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Comunidades em acção depois de alertas (%)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH175 - Comunidades em acção depois de alertas (%)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH175 - Comunidades em acção depois de alertas (%)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Comunidades em acção depois de alertas (%)"
+                }
+            ]
+        }
+    ],
+    "jobConfigurations": [],
+    "legendSets": [],
+    "maps": [
+        {
+            "attributeValues": [],
+            "basemap": "osmLight",
+            "description": "",
+            "id": "GPMRPu8bzTA",
+            "mapViews": [
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "columnDimensions": [
+                        "dx"
+                    ],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [
+                        {
+                            "dataDimensionItemType": "INDICATOR",
+                            "indicator": {
+                                "id": "xeTSPU8uQIk"
+                            }
+                        }
+                    ],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "endDate": "2020-11-22T00:00:00.000",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [
+                        "pe"
+                    ],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "oH33BmNXd7u",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "layer": "thematic",
+                    "method": 2,
+                    "name": "CH175b - Communities with alerts",
+                    "opacity": 0.9,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "relativePeriods": {
+                        "biMonthsThisYear": false,
+                        "last10FinancialYears": false,
+                        "last10Years": false,
+                        "last12Months": false,
+                        "last12Weeks": false,
+                        "last14Days": false,
+                        "last180Days": false,
+                        "last2SixMonths": false,
+                        "last30Days": false,
+                        "last3Days": false,
+                        "last3Months": false,
+                        "last4BiWeeks": false,
+                        "last4Quarters": false,
+                        "last4Weeks": false,
+                        "last52Weeks": false,
+                        "last5FinancialYears": false,
+                        "last5Years": false,
+                        "last60Days": false,
+                        "last6BiMonths": false,
+                        "last6Months": false,
+                        "last7Days": false,
+                        "last90Days": false,
+                        "lastBiWeek": false,
+                        "lastBimonth": false,
+                        "lastFinancialYear": false,
+                        "lastMonth": false,
+                        "lastQuarter": false,
+                        "lastSixMonth": false,
+                        "lastWeek": false,
+                        "lastYear": true,
+                        "monthsLastYear": false,
+                        "monthsThisYear": false,
+                        "quartersLastYear": false,
+                        "quartersThisYear": false,
+                        "thisBiWeek": false,
+                        "thisBimonth": false,
+                        "thisDay": false,
+                        "thisFinancialYear": false,
+                        "thisMonth": false,
+                        "thisQuarter": false,
+                        "thisSixMonth": false,
+                        "thisWeek": false,
+                        "thisYear": false,
+                        "weeksThisYear": false,
+                        "yesterday": false
+                    },
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 0,
+                    "startDate": "2019-11-22T00:00:00.000",
+                    "subscribed": false,
+                    "subscribers": [],
+                    "thematicMapType": "CHOROPLETH",
+                    "topLimit": 0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": true
+                },
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "columnDimensions": [],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "Mfh2IYaawkb",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "layer": "boundary",
+                    "name": "Mfh2IYaawkb",
+                    "opacity": 1.0,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 0,
+                    "subscribed": false,
+                    "subscribers": [],
+                    "topLimit": 0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": true
+                }
+            ],
+            "name": "CH - Communities with alerts",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "subscribers": [],
+            "translations": []
+        }
+    ],
+    "optionGroups": [],
+    "optionSets": [],
+    "options": [],
+    "organisationUnitGroupSets": [],
+    "organisationUnitGroups": [],
+    "package": {
+        "DHIS2Build": "3009509",
+        "DHIS2Version": "2.39.0",
+        "code": "CHIS_AGG_CBS",
+        "description": "CHIS Community-based Surveillance",
+        "lastUpdated": "20230206T235716",
+        "locale": "en",
+        "name": "CHIS_AGG_CBS_AGG_DHIS2.39.0-en",
+        "type": "AGG",
+        "version": ""
+    },
+    "predictorGroups": [],
+    "predictors": [],
+    "reports": [],
+    "sections": [
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "YrhNwFFunSl"
+                },
+                {
+                    "id": "q8MNn3tOHKf"
+                },
+                {
+                    "id": "Lcl68zMgj2y"
+                },
+                {
+                    "id": "RvLgx6fjzbK"
+                },
+                {
+                    "id": "emcfVqQJ2WN"
+                },
+                {
+                    "id": "t8PPECpS8B3"
+                }
+            ],
+            "dataSet": {
+                "id": "zEqAU7jQVxQ"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "pZnVQruz3vY",
+            "indicators": [],
+            "name": "Community-based Surveillance",
+            "showColumnTotals": false,
+            "showRowTotals": true,
+            "sortOrder": 1,
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Vigilância baseada na comunidade"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Vigilância baseada na comunidade"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Komunitní dohled"
+                }
+            ]
+        }
+    ],
+    "sqlViews": [],
+    "userGroups": [
+        {
+            "attributeValues": [],
+            "code": "CHIS_AGG_ACCESS",
+            "id": "ctw1WXDZHLQ",
+            "managedGroups": [],
+            "name": "CHIS access",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "CHIS_AGG_ADMIN",
+            "id": "L4joP9CDK2q",
+            "managedGroups": [],
+            "name": "CHIS admin",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "CHIS_AGG_CAPTURE",
+            "id": "JkwQIpjzPVL",
+            "managedGroups": [],
+            "name": "CHIS capture",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        }
+    ],
+    "userRoles": [
+        {
+            "authorities": [],
+            "id": "nCNR71ZbTHK",
+            "name": "Package User Role",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Rôle d'utilisateur du package"
+                }
+            ]
+        }
+    ],
+    "users": [
+        {
+            "attributeValues": [],
+            "catDimensionConstraints": [],
+            "cogsDimensionConstraints": [],
+            "dataViewOrganisationUnits": [],
+            "disabled": false,
+            "externalAuth": false,
+            "firstName": "package",
+            "id": "vUeLeQMSwhN",
+            "invitation": false,
+            "lastLogin": "2020-04-23T09:17:46.912",
+            "organisationUnits": [],
+            "passwordLastUpdated": "2022-08-17T12:56:38.395",
+            "selfRegistered": false,
+            "surname": "admin",
+            "teiSearchOrganisationUnits": [],
+            "twoFA": false,
+            "userRoles": [
+                {
+                    "id": "nCNR71ZbTHK"
+                }
+            ],
+            "username": "package_admin"
+        }
+    ],
+    "validationNotificationTemplates": [],
+    "validationRuleGroups": [
+        {
+            "attributeValues": [],
+            "code": "CHIS_AGG_CBS",
+            "id": "LxzMGlAWD9u",
+            "name": "CH - Community-based surveillance",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH - Vigilância baseada na comunidade"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH - Vigilância baseada na comunidade"
+                }
+            ],
+            "validationRules": [
+                {
+                    "id": "yWpoCqa39DD"
+                },
+                {
+                    "id": "tJUNurztWS8"
+                },
+                {
+                    "id": "MJlehZ7czOn"
+                }
+            ]
+        }
+    ],
+    "validationRules": [
+        {
+            "attributeValues": [],
+            "code": "CH_CAREGIVERS_TIMELY_VS_CBS_ALERTS",
+            "id": "MJlehZ7czOn",
+            "importance": "MEDIUM",
+            "instruction": "CBS alerts responded to timely should be less than or equal to CBS alerts",
+            "leftSide": {
+                "description": "CBS alerts responded to timely",
+                "displayDescription": "CBS alerts responded to timely",
+                "expression": "#{RvLgx6fjzbK}",
+                "missingValueStrategy": "SKIP_IF_ALL_VALUES_MISSING",
+                "slidingWindow": false,
+                "translations": []
+            },
+            "name": "CH - CBS alerts responded to timely Vs CBS alerts",
+            "operator": "less_than_or_equal_to",
+            "organisationUnitLevels": [],
+            "periodType": "Monthly",
+            "rightSide": {
+                "description": "CBS alerts",
+                "displayDescription": "CBS alerts",
+                "expression": "#{Lcl68zMgj2y}",
+                "missingValueStrategy": "SKIP_IF_ALL_VALUES_MISSING",
+                "slidingWindow": false,
+                "translations": []
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "skipFormValidation": false,
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "INSTRUCTION",
+                    "value": "Os alertas CBS respondidos em tempo útil devem ser menores ou iguais aos alertas CBS"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH - Alertas de CBS respondidos a tempo Vs Alertas de CBS"
+                },
+                {
+                    "locale": "pt",
+                    "property": "INSTRUCTION",
+                    "value": "Os alertas CBS respondidos em tempo útil devem ser menores ou iguais aos alertas CBS"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH - Alertas de CBS respondidos a tempo Vs Alertas de CBS"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "CH_ALERT_ACTION_VS_ONE_ALERT_MONTH",
+            "id": "yWpoCqa39DD",
+            "importance": "MEDIUM",
+            "instruction": "Communities with action was taken after an alert should be less than or equal to Communities with 1+ alert (per month)",
+            "leftSide": {
+                "description": "Communities with action was taken after an alert",
+                "displayDescription": "Communities with action was taken after an alert",
+                "expression": "#{t8PPECpS8B3}",
+                "missingValueStrategy": "SKIP_IF_ALL_VALUES_MISSING",
+                "slidingWindow": false,
+                "translations": []
+            },
+            "name": "CH - Communities with action was taken after an alert Vs Communities with 1+ alert (per month)",
+            "operator": "less_than_or_equal_to",
+            "organisationUnitLevels": [],
+            "periodType": "Monthly",
+            "rightSide": {
+                "description": "Communities with 1+ alert (per month)",
+                "displayDescription": "Communities with 1+ alert (per month)",
+                "expression": "#{emcfVqQJ2WN}",
+                "missingValueStrategy": "SKIP_IF_ALL_VALUES_MISSING",
+                "slidingWindow": false,
+                "translations": []
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "skipFormValidation": false,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "CH_CASE_REF_VS_CASE_DETECT",
+            "id": "tJUNurztWS8",
+            "importance": "MEDIUM",
+            "instruction": "Events/alert case detected referred should be less than or equal to Events/alert case detected",
+            "leftSide": {
+                "description": "Events/alert case detected referred",
+                "displayDescription": "Events/alert case detected referred",
+                "expression": "#{q8MNn3tOHKf}",
+                "missingValueStrategy": "SKIP_IF_ALL_VALUES_MISSING",
+                "slidingWindow": false,
+                "translations": []
+            },
+            "name": "CH - Events/alert case detected referred Vs Events/alert case detected",
+            "operator": "less_than_or_equal_to",
+            "organisationUnitLevels": [],
+            "periodType": "Monthly",
+            "rightSide": {
+                "description": "Events/alert case detected",
+                "displayDescription": "Events/alert case detected",
+                "expression": "#{YrhNwFFunSl}",
+                "missingValueStrategy": "SKIP_IF_ALL_VALUES_MISSING",
+                "slidingWindow": false,
+                "translations": []
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "skipFormValidation": false,
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH - Eventos/casos de alerta detectados referidos vs Eventos/casos de alerta detectados"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "INSTRUCTION",
+                    "value": "Eventos/casos de alerta detectados referidos devem ser menores ou iguais a Eventos/casos de alerta detectados"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH - Eventos/casos de alerta detectados referidos vs Eventos/casos de alerta detectados"
+                },
+                {
+                    "locale": "pt",
+                    "property": "INSTRUCTION",
+                    "value": "Eventos/casos de alerta detectados referidos devem ser menores ou iguais a Eventos/casos de alerta detectados"
+                }
+            ]
+        }
+    ],
+    "visualizations": [
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "# of alerts/events"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "Reporting units"
+                    },
+                    "type": "DOMAIN"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "ElCEos23Oux"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "pe",
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": true,
+            "hideSubtitle": true,
+            "hideTitle": false,
+            "id": "SQe3LP9oTUM",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "CH - CBS alerts",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "seriesKey": {
+                "hidden": true
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {},
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "title": "# of alerts/events detected, last month",
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH - Alertas de CBS"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH - Alertas de CBS"
+                }
+            ],
+            "type": "SINGLE_VALUE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "# of alerts/events"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "Reporting units"
+                    },
+                    "type": "DOMAIN"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "tdcRLLoOUdA"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "pe",
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": true,
+            "hideSubtitle": true,
+            "hideTitle": false,
+            "id": "jmGWMjopLhz",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "CH - Number of alerts/events detected - last month",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "seriesKey": {
+                "hidden": true
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {},
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "title": "# of alerts/events detected, last month",
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "domainAxisLabel",
+                    "value": "Unités déclarantes"
+                }
+            ],
+            "type": "SINGLE_VALUE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "% of alerts/events"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "Months"
+                    },
+                    "type": "DOMAIN"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "ElCEos23Oux"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": true,
+            "hideSubtitle": true,
+            "hideTitle": false,
+            "id": "CdExjT1m9TG",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "CH - Proportion of CBS alerts responded to within 24 hours or within specified time period - last 12 months",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": true,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "seriesKey": {
+                "hidden": true
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {},
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "title": "% of CBS alerts responded to within 24 hours or within specified time period, last 12 months",
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SM - Proportion d'alertes CBS ayant reçu une réponse dans les 24 heures ou dans un délai spécifié - 12 derniers mois"
+                },
+                {
+                    "locale": "fr",
+                    "property": "domainAxisLabel",
+                    "value": "Mois"
+                },
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "% d'alertes SurC traitées dans les 24 heures ou dans un délai spécifié, 12 derniers mois"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "CH – Podíl výstrah CBS, na které bylo odpovězeno do 24 hodin nebo ve stanoveném časovém období – posledních 12 měsíců"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "domainAxisLabel",
+                    "value": "Oylar"
+                },
+                {
+                    "locale": "uz",
+                    "property": "domainAxisLabel",
+                    "value": "Oylar"
+                },
+                {
+                    "locale": "cs",
+                    "property": "domainAxisLabel",
+                    "value": "měsíce"
+                }
+            ],
+            "type": "LINE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "% of communities"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "Reporting units"
+                    },
+                    "type": "DOMAIN"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "e9Dwo2gxrPA"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "description": "",
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": true,
+            "hideSubtitle": true,
+            "hideTitle": false,
+            "id": "DKGmKiF8yUT",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "CH - Proportion of communities in which action was taken following an alert - last month",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": true,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "seriesKey": {
+                "hidden": true
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {},
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "title": "% of communities in which action was taken following an alert, last 12 months",
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "domainAxisLabel",
+                    "value": "Unités déclarantes"
+                }
+            ],
+            "type": "STACKED_AREA",
+            "userOrganisationUnit": false,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": true,
+            "yearlySeries": []
+        }
+    ]
+}

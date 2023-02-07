@@ -2671,45 +2671,6 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "YpeOs1BppIW"
-            },
-            "categoryOptions": [
-                {
-                    "id": "I0kOLNtdqRM"
-                },
-                {
-                    "id": "ftXCKvbuGgj"
-                }
-            ],
-            "id": "I995TeO0KW7",
-            "ignoreApproval": false,
-            "name": "10-14 years, Other",
-            "translations": [
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "10-14 anos, Outro"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "10-14 ans, Autre"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "10-14 let, ostatní"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "10-14 anos, Outro"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
                 "id": "sjQl15iYvTh"
             },
             "categoryOptions": [
@@ -2863,84 +2824,6 @@
             },
             "categoryOptions": [
                 {
-                    "id": "FFA9e1yIXCT"
-                },
-                {
-                    "id": "juHBDfQMyxQ"
-                }
-            ],
-            "id": "obhML8YUkd3",
-            "ignoreApproval": false,
-            "name": "1-4 years, Female",
-            "translations": [
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "1-4 anos, Feminino"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "1-4 anos, Feminino"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "1-4 roky, žena"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "1-4 ans, Féminin"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "YpeOs1BppIW"
-            },
-            "categoryOptions": [
-                {
-                    "id": "MP15bHaQh2x"
-                },
-                {
-                    "id": "juHBDfQMyxQ"
-                }
-            ],
-            "id": "KQghaefFRXy",
-            "ignoreApproval": false,
-            "name": "1-4 years, Male",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "1-4 roky, muž"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "1-4 anos, Masculino"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "1-4 ans, masculin"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "1-4 anos, Masculino"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "YpeOs1BppIW"
-            },
-            "categoryOptions": [
-                {
                     "id": "I0kOLNtdqRM"
                 },
                 {
@@ -2970,6 +2853,104 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "1-4 ans, Autre"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "YpeOs1BppIW"
+            },
+            "categoryOptions": [
+                {
+                    "id": "kuP5EmQRFke"
+                },
+                {
+                    "id": "juHBDfQMyxQ"
+                }
+            ],
+            "id": "VYn3Rt4C3nB",
+            "ignoreApproval": false,
+            "name": "1-4 years, Unknown Sex",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "1-4 roky, Neznámé pohlaví"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "1-4 anos, Sexo Desconhecido"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "1-4 anos, Sexo Desconhecido"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "1-4 ans, sexe inconnu"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "YpeOs1BppIW"
+            },
+            "categoryOptions": [
+                {
+                    "id": "dENFBee17Oi"
+                },
+                {
+                    "id": "FFA9e1yIXCT"
+                }
+            ],
+            "id": "jJSpT2gHWJA",
+            "ignoreApproval": false,
+            "name": "15-19 years, Female",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "15-19 anos, Feminino"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "15-19 años, Femenino"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "15-19 ans, féminin"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "15-19 år, Kvinne"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "15-19 let, Žena"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "15-19 años, Femenino"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "15-19 anos, Feminino"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "15-19 Tahun, Perempuan"
                 }
             ]
         },
@@ -3029,65 +3010,6 @@
                     "locale": "id",
                     "property": "NAME",
                     "value": "15-19 Tahun, Perempuan"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "YpeOs1BppIW"
-            },
-            "categoryOptions": [
-                {
-                    "id": "MP15bHaQh2x"
-                },
-                {
-                    "id": "dENFBee17Oi"
-                }
-            ],
-            "id": "S0myvujdp96",
-            "ignoreApproval": false,
-            "name": "15-19 years, Male",
-            "translations": [
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "15-19 tahun"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "15-19 años, Masculino"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "15-19 ans, masculin"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "15-19 anos, Masculino"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "15-19 år, Mann"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "15-19 anos, Masculino"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "15-19 let, Muž"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "15-19 años, Masculino"
                 }
             ]
         },
@@ -3164,6 +3086,45 @@
                 }
             ],
             "id": "JzOahCBuY7o",
+            "ignoreApproval": false,
+            "name": "15-19 years, Other",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "15-19 anos, Outro"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "15-19 let, ostatní"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "15-19 ans, Autre"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "15-19 anos, Outro"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "YpeOs1BppIW"
+            },
+            "categoryOptions": [
+                {
+                    "id": "dENFBee17Oi"
+                },
+                {
+                    "id": "I0kOLNtdqRM"
+                }
+            ],
+            "id": "X6DpP3KvEPq",
             "ignoreApproval": false,
             "name": "15-19 years, Other",
             "translations": [
@@ -3381,45 +3342,6 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "20-24 ans, sexe inconnu"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "YpeOs1BppIW"
-            },
-            "categoryOptions": [
-                {
-                    "id": "kuP5EmQRFke"
-                },
-                {
-                    "id": "aeQKV9Y2Ium"
-                }
-            ],
-            "id": "N3M76xpx6bb",
-            "ignoreApproval": false,
-            "name": "20+ years, Unknown Sex",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "20+ ans, sexe inconnu"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "20+ anos, sexo desconhecido"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "20+ anos, Sexo desconhecido"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "20+ let, neznámé pohlaví"
                 }
             ]
         },
@@ -4493,6 +4415,45 @@
         {
             "attributeValues": [],
             "categoryCombo": {
+                "id": "YpeOs1BppIW"
+            },
+            "categoryOptions": [
+                {
+                    "id": "J205eXYNH7q"
+                },
+                {
+                    "id": "FFA9e1yIXCT"
+                }
+            ],
+            "id": "r0MSIEuQfwF",
+            "ignoreApproval": false,
+            "name": "5-9 years, Female",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "5-9 ans, Féminin"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "5-9 anos, Feminino"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "5-9 let, žena"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "5-9 anos, Feminino"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
                 "id": "sjQl15iYvTh"
             },
             "categoryOptions": [
@@ -4532,6 +4493,45 @@
         {
             "attributeValues": [],
             "categoryCombo": {
+                "id": "YpeOs1BppIW"
+            },
+            "categoryOptions": [
+                {
+                    "id": "MP15bHaQh2x"
+                },
+                {
+                    "id": "J205eXYNH7q"
+                }
+            ],
+            "id": "U7QVs96PsSu",
+            "ignoreApproval": false,
+            "name": "5-9 years, Male",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "5-9 anos, Masculino"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "5-9 let, muž"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "5-9 anos, Masculino"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "5-9 ans, masculin"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
                 "id": "sjQl15iYvTh"
             },
             "categoryOptions": [
@@ -4543,6 +4543,45 @@
                 }
             ],
             "id": "qpPE1LcaSqn",
+            "ignoreApproval": false,
+            "name": "5-9 years, Other",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "5-9 ans, Autre"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "5-9 anos, Outro"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "5-9 let, ostatní"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "5-9 anos, Outro"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "YpeOs1BppIW"
+            },
+            "categoryOptions": [
+                {
+                    "id": "J205eXYNH7q"
+                },
+                {
+                    "id": "I0kOLNtdqRM"
+                }
+            ],
+            "id": "RvuPBffzwmY",
             "ignoreApproval": false,
             "name": "5-9 years, Other",
             "translations": [
@@ -5231,65 +5270,6 @@
                     "locale": "ar_IQ",
                     "property": "NAME",
                     "value": "العمر مجهول"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "YpeOs1BppIW"
-            },
-            "categoryOptions": [
-                {
-                    "id": "WNPpyVkVaL3"
-                },
-                {
-                    "id": "FFA9e1yIXCT"
-                }
-            ],
-            "id": "jNN8tZtfXvz",
-            "ignoreApproval": false,
-            "name": "Unknown Age, Female",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Neznámý věk, žena"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Âge inconnu, Féminin"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Idade desconhecida, Feminino"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "العمر مجهول، أنثى"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "العمر مجهول، أنثى"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Idade desconhecida, Feminino"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "العمر مجهول، أنثى"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "العمر مجهول، أنثى"
                 }
             ]
         },
@@ -6148,45 +6128,6 @@
             },
             "categoryOptions": [
                 {
-                    "id": "usauZOjzbYo"
-                },
-                {
-                    "id": "hxWWOCKtZES"
-                }
-            ],
-            "id": "d6hT1UStoP7",
-            "ignoreApproval": false,
-            "name": "0-6 days, Gentamycin",
-            "translations": [
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "0-6 dias, Gentamicina"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "0-6 jours, Gentamicine"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "0-6 dias, Gentamicina"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "0-6 dní, gentamycin"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "ZxEGP7hXuFP"
-            },
-            "categoryOptions": [
-                {
                     "id": "I0kOLNtdqRM"
                 },
                 {
@@ -6292,6 +6233,45 @@
                     "locale": "ar",
                     "property": "NAME",
                     "value": "10-14 سنوات"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "YpeOs1BppIW"
+            },
+            "categoryOptions": [
+                {
+                    "id": "I0kOLNtdqRM"
+                },
+                {
+                    "id": "ftXCKvbuGgj"
+                }
+            ],
+            "id": "I995TeO0KW7",
+            "ignoreApproval": false,
+            "name": "10-14 years, Other",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "10-14 anos, Outro"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "10-14 ans, Autre"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "10-14 let, ostatní"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "10-14 anos, Outro"
                 }
             ]
         },
@@ -6795,6 +6775,45 @@
         {
             "attributeValues": [],
             "categoryCombo": {
+                "id": "YpeOs1BppIW"
+            },
+            "categoryOptions": [
+                {
+                    "id": "FFA9e1yIXCT"
+                },
+                {
+                    "id": "juHBDfQMyxQ"
+                }
+            ],
+            "id": "obhML8YUkd3",
+            "ignoreApproval": false,
+            "name": "1-4 years, Female",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "1-4 anos, Feminino"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "1-4 anos, Feminino"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "1-4 roky, žena"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "1-4 ans, Féminin"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
                 "id": "d56eQ90eE8n"
             },
             "categoryOptions": [
@@ -6845,6 +6864,45 @@
                 }
             ],
             "id": "blmd5n5wfkK",
+            "ignoreApproval": false,
+            "name": "1-4 years, Male",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "1-4 roky, muž"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "1-4 anos, Masculino"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "1-4 ans, masculin"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "1-4 anos, Masculino"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "YpeOs1BppIW"
+            },
+            "categoryOptions": [
+                {
+                    "id": "MP15bHaQh2x"
+                },
+                {
+                    "id": "juHBDfQMyxQ"
+                }
+            ],
+            "id": "KQghaefFRXy",
             "ignoreApproval": false,
             "name": "1-4 years, Male",
             "translations": [
@@ -6951,45 +7009,6 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "YpeOs1BppIW"
-            },
-            "categoryOptions": [
-                {
-                    "id": "kuP5EmQRFke"
-                },
-                {
-                    "id": "juHBDfQMyxQ"
-                }
-            ],
-            "id": "VYn3Rt4C3nB",
-            "ignoreApproval": false,
-            "name": "1-4 years, Unknown Sex",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "1-4 roky, Neznámé pohlaví"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "1-4 anos, Sexo Desconhecido"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "1-4 anos, Sexo Desconhecido"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "1-4 ans, sexe inconnu"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
                 "id": "rysVSg9KETi"
             },
             "categoryOptions": [
@@ -7030,94 +7049,55 @@
             },
             "categoryOptions": [
                 {
-                    "id": "dENFBee17Oi"
+                    "id": "MP15bHaQh2x"
                 },
                 {
-                    "id": "FFA9e1yIXCT"
+                    "id": "dENFBee17Oi"
                 }
             ],
-            "id": "jJSpT2gHWJA",
+            "id": "S0myvujdp96",
             "ignoreApproval": false,
-            "name": "15-19 years, Female",
+            "name": "15-19 years, Male",
             "translations": [
                 {
-                    "locale": "pt_BR",
+                    "locale": "id",
                     "property": "NAME",
-                    "value": "15-19 anos, Feminino"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "15-19 años, Femenino"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "15-19 ans, féminin"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "15-19 år, Kvinne"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "15-19 let, Žena"
+                    "value": "15-19 tahun"
                 },
                 {
                     "locale": "es",
                     "property": "NAME",
-                    "value": "15-19 años, Femenino"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "15-19 anos, Feminino"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "15-19 Tahun, Perempuan"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "YpeOs1BppIW"
-            },
-            "categoryOptions": [
-                {
-                    "id": "dENFBee17Oi"
-                },
-                {
-                    "id": "I0kOLNtdqRM"
-                }
-            ],
-            "id": "X6DpP3KvEPq",
-            "ignoreApproval": false,
-            "name": "15-19 years, Other",
-            "translations": [
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "15-19 anos, Outro"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "15-19 let, ostatní"
+                    "value": "15-19 años, Masculino"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "15-19 ans, Autre"
+                    "value": "15-19 ans, masculin"
                 },
                 {
                     "locale": "pt",
                     "property": "NAME",
-                    "value": "15-19 anos, Outro"
+                    "value": "15-19 anos, Masculino"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "15-19 år, Mann"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "15-19 anos, Masculino"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "15-19 let, Muž"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "15-19 años, Masculino"
                 }
             ]
         },
@@ -7356,6 +7336,45 @@
         {
             "attributeValues": [],
             "categoryCombo": {
+                "id": "YpeOs1BppIW"
+            },
+            "categoryOptions": [
+                {
+                    "id": "kuP5EmQRFke"
+                },
+                {
+                    "id": "aeQKV9Y2Ium"
+                }
+            ],
+            "id": "N3M76xpx6bb",
+            "ignoreApproval": false,
+            "name": "20+ years, Unknown Sex",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "20+ ans, sexe inconnu"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "20+ anos, sexo desconhecido"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "20+ anos, Sexo desconhecido"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "20+ let, neznámé pohlaví"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
                 "id": "ZxEGP7hXuFP"
             },
             "categoryOptions": [
@@ -7379,6 +7398,45 @@
                     "locale": "cs",
                     "property": "NAME",
                     "value": "29-59 dní, Amoxicilin"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "ZxEGP7hXuFP"
+            },
+            "categoryOptions": [
+                {
+                    "id": "qhx6JCQl8ZD"
+                },
+                {
+                    "id": "I0kOLNtdqRM"
+                }
+            ],
+            "id": "U2XF2erXf9L",
+            "ignoreApproval": false,
+            "name": "29-59 days, Other",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "29-59 jours, Autre"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "29-59 dias, Outro"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "29-59 dní, jiné"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "29-59 dias, Outro"
                 }
             ]
         },
@@ -7710,84 +7768,6 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "YpeOs1BppIW"
-            },
-            "categoryOptions": [
-                {
-                    "id": "J205eXYNH7q"
-                },
-                {
-                    "id": "FFA9e1yIXCT"
-                }
-            ],
-            "id": "r0MSIEuQfwF",
-            "ignoreApproval": false,
-            "name": "5-9 years, Female",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "5-9 ans, Féminin"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "5-9 anos, Feminino"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "5-9 let, žena"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "5-9 anos, Feminino"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "YpeOs1BppIW"
-            },
-            "categoryOptions": [
-                {
-                    "id": "MP15bHaQh2x"
-                },
-                {
-                    "id": "J205eXYNH7q"
-                }
-            ],
-            "id": "U7QVs96PsSu",
-            "ignoreApproval": false,
-            "name": "5-9 years, Male",
-            "translations": [
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "5-9 anos, Masculino"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "5-9 let, muž"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "5-9 anos, Masculino"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "5-9 ans, masculin"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
                 "id": "uBiWBrmp9Nx"
             },
             "categoryOptions": [
@@ -7811,45 +7791,6 @@
                     "locale": "cs",
                     "property": "NAME",
                     "value": "5-9 let, ORS"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "YpeOs1BppIW"
-            },
-            "categoryOptions": [
-                {
-                    "id": "J205eXYNH7q"
-                },
-                {
-                    "id": "I0kOLNtdqRM"
-                }
-            ],
-            "id": "RvuPBffzwmY",
-            "ignoreApproval": false,
-            "name": "5-9 years, Other",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "5-9 ans, Autre"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "5-9 anos, Outro"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "5-9 let, ostatní"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "5-9 anos, Outro"
                 }
             ]
         },
@@ -8211,32 +8152,22 @@
                     "id": "tOFPaEtMBtb"
                 },
                 {
-                    "id": "hxWWOCKtZES"
+                    "id": "pudKPCbDQsV"
                 }
             ],
-            "id": "LUsI3xTmxa7",
+            "id": "uy6pzEDy3wf",
             "ignoreApproval": false,
-            "name": "7-28 days, Gentamycin",
+            "name": "7-28 days, Amoxicillin",
             "translations": [
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "7-28 dias, Gentamicina"
-                },
                 {
                     "locale": "cs",
                     "property": "NAME",
-                    "value": "7-28 dní, Gentamycin"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "7-28 dias, Gentamicina"
+                    "value": "7-28 dní, Amoxicilin"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "7-28 jours, Gentamicine"
+                    "value": "7-28 jours, Amoxicilline"
                 }
             ]
         },
@@ -8622,39 +8553,59 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "ZxEGP7hXuFP"
+                "id": "YpeOs1BppIW"
             },
             "categoryOptions": [
                 {
                     "id": "WNPpyVkVaL3"
                 },
                 {
-                    "id": "hxWWOCKtZES"
+                    "id": "FFA9e1yIXCT"
                 }
             ],
-            "id": "tYDz1DZmEQR",
+            "id": "jNN8tZtfXvz",
             "ignoreApproval": false,
-            "name": "Unknown Age, Gentamycin",
+            "name": "Unknown Age, Female",
             "translations": [
                 {
                     "locale": "cs",
                     "property": "NAME",
-                    "value": "Neznámý věk, gentamycin"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Idade Desconhecida, Gentamicina"
+                    "value": "Neznámý věk, žena"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Âge inconnu, gentamycine"
+                    "value": "Âge inconnu, Féminin"
                 },
                 {
                     "locale": "pt",
                     "property": "NAME",
-                    "value": "Idade Desconhecida, Gentamicina"
+                    "value": "Idade desconhecida, Feminino"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "العمر مجهول، أنثى"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "العمر مجهول، أنثى"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Idade desconhecida, Feminino"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "العمر مجهول، أنثى"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "العمر مجهول، أنثى"
                 }
             ]
         },
@@ -8714,6 +8665,45 @@
                     "locale": "ar_EG",
                     "property": "NAME",
                     "value": "العمر مجهول، ذكر"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "ZxEGP7hXuFP"
+            },
+            "categoryOptions": [
+                {
+                    "id": "WNPpyVkVaL3"
+                },
+                {
+                    "id": "I0kOLNtdqRM"
+                }
+            ],
+            "id": "IQMUGqooXs4",
+            "ignoreApproval": false,
+            "name": "Unknown Age, Other",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Idade desconhecida, Outro"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Âge inconnu, Autre"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Idade desconhecida, Outro"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Neznámý věk, jiný"
                 }
             ]
         },
@@ -8909,6 +8899,45 @@
                     "locale": "pt",
                     "property": "NAME",
                     "value": "0-11 meses, Sexo desconhecido"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "ZxEGP7hXuFP"
+            },
+            "categoryOptions": [
+                {
+                    "id": "usauZOjzbYo"
+                },
+                {
+                    "id": "hxWWOCKtZES"
+                }
+            ],
+            "id": "d6hT1UStoP7",
+            "ignoreApproval": false,
+            "name": "0-6 days, Gentamycin",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "0-6 dias, Gentamicina"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "0-6 jours, Gentamicine"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "0-6 dias, Gentamicina"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "0-6 dní, gentamycin"
                 }
             ]
         },
@@ -9462,45 +9491,6 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "ZxEGP7hXuFP"
-            },
-            "categoryOptions": [
-                {
-                    "id": "qhx6JCQl8ZD"
-                },
-                {
-                    "id": "I0kOLNtdqRM"
-                }
-            ],
-            "id": "U2XF2erXf9L",
-            "ignoreApproval": false,
-            "name": "29-59 days, Other",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "29-59 jours, Autre"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "29-59 dias, Outro"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "29-59 dní, jiné"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "29-59 dias, Outro"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
                 "id": "GD5vx6S0z1Z"
             },
             "categoryOptions": [
@@ -9664,22 +9654,32 @@
                     "id": "tOFPaEtMBtb"
                 },
                 {
-                    "id": "pudKPCbDQsV"
+                    "id": "hxWWOCKtZES"
                 }
             ],
-            "id": "uy6pzEDy3wf",
+            "id": "LUsI3xTmxa7",
             "ignoreApproval": false,
-            "name": "7-28 days, Amoxicillin",
+            "name": "7-28 days, Gentamycin",
             "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "7-28 dias, Gentamicina"
+                },
                 {
                     "locale": "cs",
                     "property": "NAME",
-                    "value": "7-28 dní, Amoxicilin"
+                    "value": "7-28 dní, Gentamycin"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "7-28 dias, Gentamicina"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "7-28 jours, Amoxicilline"
+                    "value": "7-28 jours, Gentamicine"
                 }
             ]
         },
@@ -9837,6 +9837,45 @@
         {
             "attributeValues": [],
             "categoryCombo": {
+                "id": "ZxEGP7hXuFP"
+            },
+            "categoryOptions": [
+                {
+                    "id": "WNPpyVkVaL3"
+                },
+                {
+                    "id": "hxWWOCKtZES"
+                }
+            ],
+            "id": "tYDz1DZmEQR",
+            "ignoreApproval": false,
+            "name": "Unknown Age, Gentamycin",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Neznámý věk, gentamycin"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Idade Desconhecida, Gentamicina"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Âge inconnu, gentamycine"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Idade Desconhecida, Gentamicina"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
                 "id": "GD5vx6S0z1Z"
             },
             "categoryOptions": [
@@ -9907,45 +9946,6 @@
                 }
             ],
             "id": "fDfQrXROAl7",
-            "ignoreApproval": false,
-            "name": "Unknown Age, Other",
-            "translations": [
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Idade desconhecida, Outro"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Âge inconnu, Autre"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Idade desconhecida, Outro"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Neznámý věk, jiný"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "ZxEGP7hXuFP"
-            },
-            "categoryOptions": [
-                {
-                    "id": "WNPpyVkVaL3"
-                },
-                {
-                    "id": "I0kOLNtdqRM"
-                }
-            ],
-            "id": "IQMUGqooXs4",
             "ignoreApproval": false,
             "name": "Unknown Age, Other",
             "translations": [
@@ -12007,85 +12007,85 @@
             "attributeValues": [],
             "categoryOptions": [
                 {
-                    "id": "tOFPaEtMBtb"
-                },
-                {
-                    "id": "txnu6aO4kT5"
-                },
-                {
-                    "id": "ftXCKvbuGgj"
-                },
-                {
                     "id": "hBRObKZgdHL"
-                },
-                {
-                    "id": "VXA3rbix7qR"
-                },
-                {
-                    "id": "UPvKbcqTEY3"
-                },
-                {
-                    "id": "dENFBee17Oi"
-                },
-                {
-                    "id": "QxMkSWJ1iSH"
-                },
-                {
-                    "id": "CgMDmJm8lnO"
-                },
-                {
-                    "id": "I0kOLNtdqRM"
-                },
-                {
-                    "id": "AGyUr2mNHDu"
-                },
-                {
-                    "id": "aeQKV9Y2Ium"
-                },
-                {
-                    "id": "LXY3aRN1kg5"
-                },
-                {
-                    "id": "FFA9e1yIXCT"
-                },
-                {
-                    "id": "kuP5EmQRFke"
-                },
-                {
-                    "id": "J205eXYNH7q"
-                },
-                {
-                    "id": "MP15bHaQh2x"
-                },
-                {
-                    "id": "zkXNX1SevLm"
-                },
-                {
-                    "id": "xDcJlCa6teg"
-                },
-                {
-                    "id": "h3wMy4YVPcK"
-                },
-                {
-                    "id": "WNPpyVkVaL3"
-                },
-                {
-                    "id": "L1alggIzCgU"
                 },
                 {
                     "id": "IRCxi9VNgnH"
                 },
                 {
-                    "id": "usauZOjzbYo"
+                    "id": "qhx6JCQl8ZD"
                 },
                 {
-                    "id": "qhx6JCQl8ZD"
+                    "id": "QxMkSWJ1iSH"
+                },
+                {
+                    "id": "J205eXYNH7q"
+                },
+                {
+                    "id": "Vvx4mUZ7hFy"
+                },
+                {
+                    "id": "WNPpyVkVaL3"
                 },
                 {
                     "id": "juHBDfQMyxQ"
                 },
                 {
-                    "id": "Vvx4mUZ7hFy"
+                    "id": "ftXCKvbuGgj"
+                },
+                {
+                    "id": "LXY3aRN1kg5"
+                },
+                {
+                    "id": "I0kOLNtdqRM"
+                },
+                {
+                    "id": "CgMDmJm8lnO"
+                },
+                {
+                    "id": "aeQKV9Y2Ium"
+                },
+                {
+                    "id": "MP15bHaQh2x"
+                },
+                {
+                    "id": "kuP5EmQRFke"
+                },
+                {
+                    "id": "txnu6aO4kT5"
+                },
+                {
+                    "id": "AGyUr2mNHDu"
+                },
+                {
+                    "id": "tOFPaEtMBtb"
+                },
+                {
+                    "id": "FFA9e1yIXCT"
+                },
+                {
+                    "id": "UPvKbcqTEY3"
+                },
+                {
+                    "id": "h3wMy4YVPcK"
+                },
+                {
+                    "id": "dENFBee17Oi"
+                },
+                {
+                    "id": "zkXNX1SevLm"
+                },
+                {
+                    "id": "usauZOjzbYo"
+                },
+                {
+                    "id": "VXA3rbix7qR"
+                },
+                {
+                    "id": "L1alggIzCgU"
+                },
+                {
+                    "id": "xDcJlCa6teg"
                 },
                 {
                     "id": "nsPIE74zfbs"
@@ -19978,119 +19978,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "CYGyzM1vPwB"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "HhBii7h8Ewe"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "QMFNHjDtZWb"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "jkcVj1Y5eWm"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "eTEj4iBVUVt"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "LzXH7UWCft9"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "NuetAb6FZ2y"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "EJv0dWGUoEb"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "qy5vZOduT41"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "VlNhaI2uEkc"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "jR18nDVpTdB"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Bz3yQ3LJiQy"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "n2kqBGPhwrv"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "bsMUSaZEh2Y"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "wtulGM56Z4d"
+                        "id": "jWNMmSFxDXK"
                     },
                     "dataSet": {
                         "id": "QoPiHH8oSfy"
@@ -20106,191 +19994,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "ryuveGncBbO"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "beDMWtYS2EM"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Ir9ttYmWf0Y"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "qn0h3ASiFXY"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "GcErbEMDaft"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "pwf140RSJJE"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "gfSdGXBtuYX"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "oKDd9noqNPI"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "pAceX3Wa9Ms"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Dc6sPldCxXX"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "NuSlWJ3Rf48"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "aFgdoYANUcP"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Mb5sELNYRKj"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Od26r7GtUoS"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "KZA3T81MweL"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Kntw2x3O9ii"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "dNQJHaCiSJb"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "NszPcevTzDU"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "gZr8kszA5on"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "jWNMmSFxDXK"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "zwsovdoUHTn"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "HA9t7RvMcyF"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Bwe8LNctvtk"
-                    },
-                    "dataSet": {
-                        "id": "QoPiHH8oSfy"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "N9ZrsBEzKpd"
+                        "id": "OPuBzKk2Pq8"
                     },
                     "dataSet": {
                         "id": "QoPiHH8oSfy"
@@ -20306,6 +20010,214 @@
                 },
                 {
                     "dataElement": {
+                        "id": "zwsovdoUHTn"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "KZA3T81MweL"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "gfSdGXBtuYX"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Kntw2x3O9ii"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Dc6sPldCxXX"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "aFgdoYANUcP"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "jkcVj1Y5eWm"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "wtulGM56Z4d"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "QMFNHjDtZWb"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "N9ZrsBEzKpd"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "n2kqBGPhwrv"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Bz3yQ3LJiQy"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "NszPcevTzDU"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "NuetAb6FZ2y"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "LzXH7UWCft9"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "pAceX3Wa9Ms"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "eTEj4iBVUVt"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VlNhaI2uEkc"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Bwe8LNctvtk"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Ir9ttYmWf0Y"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "beDMWtYS2EM"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "dNQJHaCiSJb"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "bsMUSaZEh2Y"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "HhBii7h8Ewe"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "qy5vZOduT41"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "NuSlWJ3Rf48"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "nYcFIHoEGs7"
                     },
                     "dataSet": {
@@ -20314,7 +20226,87 @@
                 },
                 {
                     "dataElement": {
-                        "id": "OPuBzKk2Pq8"
+                        "id": "Od26r7GtUoS"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "GcErbEMDaft"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "gZr8kszA5on"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "icjxiCADJ1O"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "jR18nDVpTdB"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oKDd9noqNPI"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "HA9t7RvMcyF"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "EJv0dWGUoEb"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Mb5sELNYRKj"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ryuveGncBbO"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CYGyzM1vPwB"
                     },
                     "dataSet": {
                         "id": "QoPiHH8oSfy"
@@ -20330,7 +20322,15 @@
                 },
                 {
                     "dataElement": {
-                        "id": "icjxiCADJ1O"
+                        "id": "pwf140RSJJE"
+                    },
+                    "dataSet": {
+                        "id": "QoPiHH8oSfy"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "qn0h3ASiFXY"
                     },
                     "dataSet": {
                         "id": "QoPiHH8oSfy"
@@ -20391,39 +20391,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "KTmf9vl455E"
-                    },
-                    "dataSet": {
-                        "id": "Tolz3LiEKpm"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "tIwydE4FLkS"
-                    },
-                    "dataSet": {
-                        "id": "Tolz3LiEKpm"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "W5faV9NWfqK"
-                    },
-                    "dataSet": {
-                        "id": "Tolz3LiEKpm"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "czCt8cL7nEP"
-                    },
-                    "dataSet": {
-                        "id": "Tolz3LiEKpm"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "grBCnjMMqc8"
+                        "id": "pjyIGPMZp9z"
                     },
                     "dataSet": {
                         "id": "Tolz3LiEKpm"
@@ -20439,39 +20407,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "pSnFTGGdkgW"
-                    },
-                    "dataSet": {
-                        "id": "Tolz3LiEKpm"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "fNufUkoEF0V"
-                    },
-                    "dataSet": {
-                        "id": "Tolz3LiEKpm"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "O4KgPMs6Sao"
-                    },
-                    "dataSet": {
-                        "id": "Tolz3LiEKpm"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "XuppCrPFVtT"
-                    },
-                    "dataSet": {
-                        "id": "Tolz3LiEKpm"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "hJdbTExALCj"
+                        "id": "grBCnjMMqc8"
                     },
                     "dataSet": {
                         "id": "Tolz3LiEKpm"
@@ -20487,31 +20423,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "pjyIGPMZp9z"
-                    },
-                    "dataSet": {
-                        "id": "Tolz3LiEKpm"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "uGsw8r5zgkQ"
-                    },
-                    "dataSet": {
-                        "id": "Tolz3LiEKpm"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "AP59tceZ564"
-                    },
-                    "dataSet": {
-                        "id": "Tolz3LiEKpm"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "DZxriuW3wWa"
                     },
                     "dataSet": {
                         "id": "Tolz3LiEKpm"
@@ -20527,7 +20439,95 @@
                 },
                 {
                     "dataElement": {
+                        "id": "O4KgPMs6Sao"
+                    },
+                    "dataSet": {
+                        "id": "Tolz3LiEKpm"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "pSnFTGGdkgW"
+                    },
+                    "dataSet": {
+                        "id": "Tolz3LiEKpm"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "KTmf9vl455E"
+                    },
+                    "dataSet": {
+                        "id": "Tolz3LiEKpm"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "XuppCrPFVtT"
+                    },
+                    "dataSet": {
+                        "id": "Tolz3LiEKpm"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "uGsw8r5zgkQ"
+                    },
+                    "dataSet": {
+                        "id": "Tolz3LiEKpm"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "S6EPUn83VCx"
+                    },
+                    "dataSet": {
+                        "id": "Tolz3LiEKpm"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "czCt8cL7nEP"
+                    },
+                    "dataSet": {
+                        "id": "Tolz3LiEKpm"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "DZxriuW3wWa"
+                    },
+                    "dataSet": {
+                        "id": "Tolz3LiEKpm"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tIwydE4FLkS"
+                    },
+                    "dataSet": {
+                        "id": "Tolz3LiEKpm"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "hJdbTExALCj"
+                    },
+                    "dataSet": {
+                        "id": "Tolz3LiEKpm"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "W5faV9NWfqK"
+                    },
+                    "dataSet": {
+                        "id": "Tolz3LiEKpm"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "fNufUkoEF0V"
                     },
                     "dataSet": {
                         "id": "Tolz3LiEKpm"
@@ -23706,58 +23706,6 @@
                         "id": "YPR35Be5qbR"
                     },
                     "dataElement": {
-                        "id": "GcErbEMDaft"
-                    },
-                    "dimensionItem": "GcErbEMDaft.YPR35Be5qbR",
-                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "GcErbEMDaft.YPR35Be5qbR",
-                    "legendSets": [],
-                    "name": "CH078b - Children (0-4 y) assessed for developmental delays - last 12 months 5-9 years, Unknown Sex",
-                    "periodOffset": 0,
-                    "sharing": {
-                        "external": false
-                    },
-                    "shortName": "Children assessed for dev disorders & disabilities 5-9 years, Unknown Sex",
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "aggregationType": "SUM",
-                    "attributeValues": [],
-                    "categoryOptionCombo": {
-                        "id": "HsGZJYkEBC6"
-                    },
-                    "dataElement": {
-                        "id": "Y1o760xGumr"
-                    },
-                    "dimensionItem": "Y1o760xGumr.HsGZJYkEBC6",
-                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "Y1o760xGumr.HsGZJYkEBC6",
-                    "legendSets": [],
-                    "name": "CH078a - Children with developmental disability whose caregiver received parenting info 5-9 years, Other",
-                    "periodOffset": 0,
-                    "sharing": {
-                        "external": false
-                    },
-                    "shortName": "Children whose cg received info on parenting 5-9 years, Other",
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "aggregationType": "SUM",
-                    "attributeValues": [],
-                    "categoryOptionCombo": {
-                        "id": "YPR35Be5qbR"
-                    },
-                    "dataElement": {
                         "id": "Y1o760xGumr"
                     },
                     "dimensionItem": "Y1o760xGumr.YPR35Be5qbR",
@@ -23833,32 +23781,6 @@
                     "aggregationType": "SUM",
                     "attributeValues": [],
                     "categoryOptionCombo": {
-                        "id": "yusHpEaacjP"
-                    },
-                    "dataElement": {
-                        "id": "Y1o760xGumr"
-                    },
-                    "dimensionItem": "Y1o760xGumr.yusHpEaacjP",
-                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "Y1o760xGumr.yusHpEaacjP",
-                    "legendSets": [],
-                    "name": "CH078a - Children with developmental disability whose caregiver received parenting info 10-14 years, Other",
-                    "periodOffset": 0,
-                    "sharing": {
-                        "external": false
-                    },
-                    "shortName": "Children whose cg received info on parenting 10-14 years, Other",
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "aggregationType": "SUM",
-                    "attributeValues": [],
-                    "categoryOptionCombo": {
                         "id": "BkWkUaiTxpG"
                     },
                     "dataElement": {
@@ -23877,32 +23799,6 @@
                         "external": false
                     },
                     "shortName": "Children assessed for dev disorders & disabilities 15-17 years, Male",
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "aggregationType": "SUM",
-                    "attributeValues": [],
-                    "categoryOptionCombo": {
-                        "id": "dFrbHl12etX"
-                    },
-                    "dataElement": {
-                        "id": "GcErbEMDaft"
-                    },
-                    "dimensionItem": "GcErbEMDaft.dFrbHl12etX",
-                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "GcErbEMDaft.dFrbHl12etX",
-                    "legendSets": [],
-                    "name": "CH078b - Children (0-4 y) assessed for developmental delays - last 12 months 15-17 years, Unknown Sex",
-                    "periodOffset": 0,
-                    "sharing": {
-                        "external": false
-                    },
-                    "shortName": "Children assessed for dev disorders & disabilities 15-17 years, Unknown Sex",
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -23989,32 +23885,6 @@
                     "aggregationType": "SUM",
                     "attributeValues": [],
                     "categoryOptionCombo": {
-                        "id": "YfsCrUZhmF6"
-                    },
-                    "dataElement": {
-                        "id": "GcErbEMDaft"
-                    },
-                    "dimensionItem": "GcErbEMDaft.YfsCrUZhmF6",
-                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "GcErbEMDaft.YfsCrUZhmF6",
-                    "legendSets": [],
-                    "name": "CH078b - Children (0-4 y) assessed for developmental delays - last 12 months 10-14 years, Unknown Sex",
-                    "periodOffset": 0,
-                    "sharing": {
-                        "external": false
-                    },
-                    "shortName": "Children assessed for dev disorders & disabilities 10-14 years, Unknown Sex",
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "aggregationType": "SUM",
-                    "attributeValues": [],
-                    "categoryOptionCombo": {
                         "id": "G6rjm7iNazk"
                     },
                     "dataElement": {
@@ -24033,32 +23903,6 @@
                         "external": false
                     },
                     "shortName": "Children assessed for dev disorders & disabilities 5-9 years, Male",
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "aggregationType": "SUM",
-                    "attributeValues": [],
-                    "categoryOptionCombo": {
-                        "id": "G6rjm7iNazk"
-                    },
-                    "dataElement": {
-                        "id": "Y1o760xGumr"
-                    },
-                    "dimensionItem": "Y1o760xGumr.G6rjm7iNazk",
-                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "Y1o760xGumr.G6rjm7iNazk",
-                    "legendSets": [],
-                    "name": "CH078a - Children with developmental disability whose caregiver received parenting info 5-9 years, Male",
-                    "periodOffset": 0,
-                    "sharing": {
-                        "external": false
-                    },
-                    "shortName": "Children whose cg received info on parenting 5-9 years, Male",
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -24111,6 +23955,188 @@
                         "external": false
                     },
                     "shortName": "Children assessed for dev disorders & disabilities 10-14 years, Other",
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "aggregationType": "SUM",
+                    "attributeValues": [],
+                    "categoryOptionCombo": {
+                        "id": "S2lZJerwG7j"
+                    },
+                    "dataElement": {
+                        "id": "GcErbEMDaft"
+                    },
+                    "dimensionItem": "GcErbEMDaft.S2lZJerwG7j",
+                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "GcErbEMDaft.S2lZJerwG7j",
+                    "legendSets": [],
+                    "name": "CH078b - Children (0-4 y) assessed for developmental delays - last 12 months 10-14 years, Male",
+                    "periodOffset": 0,
+                    "sharing": {
+                        "external": false
+                    },
+                    "shortName": "Children assessed for dev disorders & disabilities 10-14 years, Male",
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "aggregationType": "SUM",
+                    "attributeValues": [],
+                    "categoryOptionCombo": {
+                        "id": "YPR35Be5qbR"
+                    },
+                    "dataElement": {
+                        "id": "GcErbEMDaft"
+                    },
+                    "dimensionItem": "GcErbEMDaft.YPR35Be5qbR",
+                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "GcErbEMDaft.YPR35Be5qbR",
+                    "legendSets": [],
+                    "name": "CH078b - Children (0-4 y) assessed for developmental delays - last 12 months 5-9 years, Unknown Sex",
+                    "periodOffset": 0,
+                    "sharing": {
+                        "external": false
+                    },
+                    "shortName": "Children assessed for dev disorders & disabilities 5-9 years, Unknown Sex",
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "aggregationType": "SUM",
+                    "attributeValues": [],
+                    "categoryOptionCombo": {
+                        "id": "HsGZJYkEBC6"
+                    },
+                    "dataElement": {
+                        "id": "Y1o760xGumr"
+                    },
+                    "dimensionItem": "Y1o760xGumr.HsGZJYkEBC6",
+                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "Y1o760xGumr.HsGZJYkEBC6",
+                    "legendSets": [],
+                    "name": "CH078a - Children with developmental disability whose caregiver received parenting info 5-9 years, Other",
+                    "periodOffset": 0,
+                    "sharing": {
+                        "external": false
+                    },
+                    "shortName": "Children whose cg received info on parenting 5-9 years, Other",
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "aggregationType": "SUM",
+                    "attributeValues": [],
+                    "categoryOptionCombo": {
+                        "id": "yusHpEaacjP"
+                    },
+                    "dataElement": {
+                        "id": "Y1o760xGumr"
+                    },
+                    "dimensionItem": "Y1o760xGumr.yusHpEaacjP",
+                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "Y1o760xGumr.yusHpEaacjP",
+                    "legendSets": [],
+                    "name": "CH078a - Children with developmental disability whose caregiver received parenting info 10-14 years, Other",
+                    "periodOffset": 0,
+                    "sharing": {
+                        "external": false
+                    },
+                    "shortName": "Children whose cg received info on parenting 10-14 years, Other",
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "aggregationType": "SUM",
+                    "attributeValues": [],
+                    "categoryOptionCombo": {
+                        "id": "dFrbHl12etX"
+                    },
+                    "dataElement": {
+                        "id": "GcErbEMDaft"
+                    },
+                    "dimensionItem": "GcErbEMDaft.dFrbHl12etX",
+                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "GcErbEMDaft.dFrbHl12etX",
+                    "legendSets": [],
+                    "name": "CH078b - Children (0-4 y) assessed for developmental delays - last 12 months 15-17 years, Unknown Sex",
+                    "periodOffset": 0,
+                    "sharing": {
+                        "external": false
+                    },
+                    "shortName": "Children assessed for dev disorders & disabilities 15-17 years, Unknown Sex",
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "aggregationType": "SUM",
+                    "attributeValues": [],
+                    "categoryOptionCombo": {
+                        "id": "YfsCrUZhmF6"
+                    },
+                    "dataElement": {
+                        "id": "GcErbEMDaft"
+                    },
+                    "dimensionItem": "GcErbEMDaft.YfsCrUZhmF6",
+                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "GcErbEMDaft.YfsCrUZhmF6",
+                    "legendSets": [],
+                    "name": "CH078b - Children (0-4 y) assessed for developmental delays - last 12 months 10-14 years, Unknown Sex",
+                    "periodOffset": 0,
+                    "sharing": {
+                        "external": false
+                    },
+                    "shortName": "Children assessed for dev disorders & disabilities 10-14 years, Unknown Sex",
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "aggregationType": "SUM",
+                    "attributeValues": [],
+                    "categoryOptionCombo": {
+                        "id": "G6rjm7iNazk"
+                    },
+                    "dataElement": {
+                        "id": "Y1o760xGumr"
+                    },
+                    "dimensionItem": "Y1o760xGumr.G6rjm7iNazk",
+                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "Y1o760xGumr.G6rjm7iNazk",
+                    "legendSets": [],
+                    "name": "CH078a - Children with developmental disability whose caregiver received parenting info 5-9 years, Male",
+                    "periodOffset": 0,
+                    "sharing": {
+                        "external": false
+                    },
+                    "shortName": "Children whose cg received info on parenting 5-9 years, Male",
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -24189,32 +24215,6 @@
                         "external": false
                     },
                     "shortName": "Children assessed for dev disorders & disabilities 15-17 years, Other",
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "aggregationType": "SUM",
-                    "attributeValues": [],
-                    "categoryOptionCombo": {
-                        "id": "S2lZJerwG7j"
-                    },
-                    "dataElement": {
-                        "id": "GcErbEMDaft"
-                    },
-                    "dimensionItem": "GcErbEMDaft.S2lZJerwG7j",
-                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "GcErbEMDaft.S2lZJerwG7j",
-                    "legendSets": [],
-                    "name": "CH078b - Children (0-4 y) assessed for developmental delays - last 12 months 10-14 years, Male",
-                    "periodOffset": 0,
-                    "sharing": {
-                        "external": false
-                    },
-                    "shortName": "Children assessed for dev disorders & disabilities 10-14 years, Male",
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -28734,10 +28734,10 @@
                     "id": "HLTurHBPHeV"
                 },
                 {
-                    "id": "rmjBkKDDMfb"
+                    "id": "c6WT8ziu2Vz"
                 },
                 {
-                    "id": "c6WT8ziu2Vz"
+                    "id": "rmjBkKDDMfb"
                 },
                 {
                     "id": "UbVFDOq9k4U"

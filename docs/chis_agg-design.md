@@ -83,7 +83,7 @@ Sharing options can also be set to enable users to access only the options assig
 > **_NOTE:_**
 It's important to note that this configuration may not be scalable for large CHIS with a substantial number of CHWs.
 
-![Example of configuration as per Option 4](resources/image/CHIS_INTRO_000.png)
+![Example of configuration as per Option 4](resources/images/CHIS_INTRO_000.png)
 
 ### Workflow
 

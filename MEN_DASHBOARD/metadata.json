@@ -388,14 +388,16 @@
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
                 "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
                     "L4joP9CDK2q": {
                         "access": "rw------",
-                        "displayName": "CHIS admin",
                         "id": "L4joP9CDK2q"
                     },
                     "ctw1WXDZHLQ": {
                         "access": "r-------",
-                        "displayName": "CHIS access",
                         "id": "ctw1WXDZHLQ"
                     }
                 },
@@ -471,8 +473,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -576,6 +591,11 @@
                     "value": "نسبة"
                 },
                 {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Porcentaje"
+                },
+                {
                     "locale": "ar_IQ",
                     "property": "NAME",
                     "value": "نسبة"
@@ -584,11 +604,6 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Pourcentage"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Por 100"
                 },
                 {
                     "locale": "ar_EG",
@@ -647,6 +662,45 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "CH041",
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "People with a possible MNS symptoms",
+            "description": "Proportion of people assessed for mental, neurological and substance use (MNS) disorders",
+            "id": "vHVTpWKlPDk",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH041 - People assessed for MNS disorders (%)",
+            "numerator": -1,
+            "numeratorDescription": "People assessed for MNS disorders conditions",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "People assessed for MNS disorders (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "CH041m",
             "decimals": 0,
             "denominator": -1,
@@ -663,8 +717,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Women assessed for MNS disorders",
@@ -734,27 +801,40 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "CH041",
+            "code": "CH042",
             "decimals": 1,
             "denominator": -1,
-            "denominatorDescription": "People with a possible MNS symptoms",
-            "description": "Proportion of people assessed for mental, neurological and substance use (MNS) disorders",
-            "id": "vHVTpWKlPDk",
+            "denominatorDescription": "People assessed for MNS disorders conditions",
+            "description": "Proportion of people with mental, neurologic and substance use (MNS) referred",
+            "id": "EObLj7lCHmD",
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] CH041 - People assessed for MNS disorders (%)",
+            "name": "[CONFIG] CH042 - People referred for MNS disorders (%)",
             "numerator": -1,
-            "numeratorDescription": "People assessed for MNS disorders conditions",
+            "numeratorDescription": "People with MNS disorders referred",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
-            "shortName": "People assessed for MNS disorders (%)",
+            "shortName": "People referred for MNS disorders (%)",
             "translations": []
         },
         {
@@ -776,37 +856,24 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Women referred for MNS disorders (%)",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "CH042",
-            "decimals": 1,
-            "denominator": -1,
-            "denominatorDescription": "People assessed for MNS disorders conditions",
-            "description": "Proportion of people with mental, neurologic and substance use (MNS) referred",
-            "id": "EObLj7lCHmD",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] CH042 - People referred for MNS disorders (%)",
-            "numerator": -1,
-            "numeratorDescription": "People with MNS disorders referred",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "People referred for MNS disorders (%)",
             "translations": []
         },
         {
@@ -828,8 +895,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "People with MNS disorders receiving services (%)",
@@ -854,8 +934,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Children 0-4 yrs monitored for dev delays (%)",
@@ -891,8 +984,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Children referred for devel disability (%)",
@@ -917,8 +1023,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "counselled on caregiving & early learning (%)",
@@ -943,8 +1062,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Caregivers who received info on parenting (%)",
@@ -969,8 +1101,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Alcohol consumers (%)",
@@ -995,8 +1140,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "People with heavy episodic drinking (%)",
@@ -1021,8 +1179,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "People using psychoactive drugs (%)",
@@ -1047,8 +1218,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "People injecting psychoactive drugs (%)",
@@ -1073,8 +1257,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "People with suicidal plan",
@@ -1160,8 +1357,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "People with suicide attempts",
@@ -1247,8 +1457,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Average time of screen time (week)",
@@ -1334,8 +1557,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Average weekend screen time as leisure activity",
@@ -1421,8 +1657,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Deaths due to drug overdose (%)",
@@ -1581,6 +1830,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-11-22T00:00:00.000",
                     "subscribed": false,
@@ -1635,6 +1885,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -1651,8 +1902,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -1662,13 +1926,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "3009509",
-        "DHIS2Version": "2.39.0",
+        "DHIS2Build": "01ed9e0",
+        "DHIS2Version": "2.39.3.1",
         "code": "CHIS_AGG_MEN",
         "description": "CHIS Mental Health (dashboard)",
-        "lastUpdated": "20230202T144110",
+        "healthAreaCode": "CHIS",
+        "healthAreaName": "Community Health",
+        "lastUpdated": "20231219T095440",
         "locale": "en",
-        "name": "CHIS_AGG_MEN_DSH_DHIS2.39.0-en",
+        "name": "CHIS_AGG_MEN_DSH_DHIS2.39.3.1-en",
         "type": "DSH",
         "version": ""
     },
@@ -1682,8 +1948,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -1698,8 +1977,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -1707,15 +1999,28 @@
         },
         {
             "attributeValues": [],
-            "code": "CHIS_AGG_CAPTURE",
+            "code": "CHIS_AGG_DATA_CAPTURE",
             "id": "JkwQIpjzPVL",
             "managedGroups": [],
             "name": "CHIS capture",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -1730,8 +2035,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -1739,6 +2057,11 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Rôle d'utilisateur du package"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Rol de Usuario para Administrador de Paquetes"
                 }
             ]
         }
@@ -1910,8 +2233,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -2053,8 +2389,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -2185,8 +2534,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -2344,8 +2706,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -2526,8 +2901,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -2683,8 +3071,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -2833,8 +3234,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -3010,8 +3424,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -3187,8 +3614,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -3368,8 +3808,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,

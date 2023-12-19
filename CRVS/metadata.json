@@ -22,8 +22,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Age (0-27 days)",
@@ -94,8 +107,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Age (10-20+years)",
@@ -178,8 +204,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Age (20-80+years)",
@@ -244,8 +283,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Age (<5 years)",
@@ -296,8 +348,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Age (Gestation/Unk)",
@@ -359,7 +424,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -491,11 +556,6 @@
                     "value": "standart"
                 },
                 {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
-                },
-                {
                     "locale": "cs",
                     "property": "SHORT_NAME",
                     "value": "výchozí"
@@ -504,6 +564,11 @@
                     "locale": "ru",
                     "property": "SHORT_NAME",
                     "value": "по умолчанию"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Padrao"
                 },
                 {
                     "locale": "nb",
@@ -541,8 +606,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Sex (Other/Unk)",
@@ -607,8 +685,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -648,8 +739,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -692,8 +796,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -736,8 +853,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -777,8 +907,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -818,7 +961,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -914,8 +1057,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -944,162 +1100,6 @@
         }
     ],
     "categoryOptionCombos": [
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "d56eQ90eE8n"
-            },
-            "categoryOptions": [
-                {
-                    "id": "FFA9e1yIXCT"
-                },
-                {
-                    "id": "Vvx4mUZ7hFy"
-                }
-            ],
-            "id": "JV1HAIIwUbQ",
-            "ignoreApproval": false,
-            "name": "0-11 months, Female",
-            "translations": [
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "0-11 meses, Feminino"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "0-11 mois, Féminin"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "0-11 meses, Feminino"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "0-11 měsíců, žena"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "d56eQ90eE8n"
-            },
-            "categoryOptions": [
-                {
-                    "id": "MP15bHaQh2x"
-                },
-                {
-                    "id": "Vvx4mUZ7hFy"
-                }
-            ],
-            "id": "SJ88ViIZtZf",
-            "ignoreApproval": false,
-            "name": "0-11 months, Male",
-            "translations": [
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "0-11 meses, Masculino"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "0-11 měsíců, muž"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "0-11 mois, masculin"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "0-11 meses, Masculino"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "d56eQ90eE8n"
-            },
-            "categoryOptions": [
-                {
-                    "id": "I0kOLNtdqRM"
-                },
-                {
-                    "id": "Vvx4mUZ7hFy"
-                }
-            ],
-            "id": "yDRq8rpliiy",
-            "ignoreApproval": false,
-            "name": "0-11 months, Other",
-            "translations": [
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "0-11 meses, Outro"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "0-11 meses, Outro"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "0-11 mois, Autre"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "0-11 měsíců, ostatní"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "d56eQ90eE8n"
-            },
-            "categoryOptions": [
-                {
-                    "id": "kuP5EmQRFke"
-                },
-                {
-                    "id": "Vvx4mUZ7hFy"
-                }
-            ],
-            "id": "Di7bPtuMJrW",
-            "ignoreApproval": false,
-            "name": "0-11 months, Unknown Sex",
-            "translations": [
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "0-11 meses, sexo desconhecido"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "0-11 mois, sexe inconnu"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "0-11 měsíců, neznámé pohlaví"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "0-11 meses, Sexo desconhecido"
-                }
-            ]
-        },
         {
             "attributeValues": [],
             "categoryCombo": {
@@ -1329,162 +1329,6 @@
                     "locale": "ar",
                     "property": "NAME",
                     "value": "10-14 سنوات"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "d56eQ90eE8n"
-            },
-            "categoryOptions": [
-                {
-                    "id": "juHBDfQMyxQ"
-                },
-                {
-                    "id": "FFA9e1yIXCT"
-                }
-            ],
-            "id": "zRMd2oGYtuG",
-            "ignoreApproval": false,
-            "name": "1-4 years, Female",
-            "translations": [
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "1-4 anos, Feminino"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "1-4 anos, Feminino"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "1-4 roky, žena"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "1-4 ans, Féminin"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "d56eQ90eE8n"
-            },
-            "categoryOptions": [
-                {
-                    "id": "MP15bHaQh2x"
-                },
-                {
-                    "id": "juHBDfQMyxQ"
-                }
-            ],
-            "id": "blmd5n5wfkK",
-            "ignoreApproval": false,
-            "name": "1-4 years, Male",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "1-4 roky, muž"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "1-4 anos, Masculino"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "1-4 ans, masculin"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "1-4 anos, Masculino"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "d56eQ90eE8n"
-            },
-            "categoryOptions": [
-                {
-                    "id": "I0kOLNtdqRM"
-                },
-                {
-                    "id": "juHBDfQMyxQ"
-                }
-            ],
-            "id": "mPMYrM4LkdL",
-            "ignoreApproval": false,
-            "name": "1-4 years, Other",
-            "translations": [
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "1-4 anos, Outro"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "1-4 anos, Outro"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "1-4 roky, ostatní"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "1-4 ans, Autre"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "d56eQ90eE8n"
-            },
-            "categoryOptions": [
-                {
-                    "id": "kuP5EmQRFke"
-                },
-                {
-                    "id": "juHBDfQMyxQ"
-                }
-            ],
-            "id": "ntTM4qRjhH9",
-            "ignoreApproval": false,
-            "name": "1-4 years, Unknown Sex",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "1-4 roky, Neznámé pohlaví"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "1-4 anos, Sexo Desconhecido"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "1-4 anos, Sexo Desconhecido"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "1-4 ans, sexe inconnu"
                 }
             ]
         },
@@ -2427,10 +2271,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "jLdW7zUyymx"
+                    "id": "I0kOLNtdqRM"
                 },
                 {
-                    "id": "I0kOLNtdqRM"
+                    "id": "jLdW7zUyymx"
                 }
             ],
             "id": "GDlhuQpcnah",
@@ -3003,98 +2847,6 @@
                     "locale": "pt",
                     "property": "NAME",
                     "value": "80+ anos, Sexo desconhecido"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "categoryOptions": [
-                {
-                    "id": "xYerKDKCefk"
-                }
-            ],
-            "code": "DEFAULT",
-            "id": "HllvX50cXC0",
-            "ignoreApproval": false,
-            "name": "default",
-            "translations": [
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "по умолчанию"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Padrao"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Putus berobat/default"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "الافتراضي"
                 }
             ]
         },
@@ -3800,45 +3552,6 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "miCXy1Gzk4G"
-            },
-            "categoryOptions": [
-                {
-                    "id": "kuP5EmQRFke"
-                },
-                {
-                    "id": "WNPpyVkVaL3"
-                }
-            ],
-            "id": "p4QVzHggip0",
-            "ignoreApproval": false,
-            "name": "Unknown Age, Unknown Sex",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Neznámý věk, neznámé pohlaví"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Idade desconhecida, Sexo desconhecido"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Idade desconhecida, sexo desconhecido"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Âge inconnu, sexe inconnu"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
                 "id": "f08R37b3CFS"
             },
             "categoryOptions": [
@@ -3930,6 +3643,449 @@
                     "value": "الجنس مجهول"
                 }
             ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "d56eQ90eE8n"
+            },
+            "categoryOptions": [
+                {
+                    "id": "FFA9e1yIXCT"
+                },
+                {
+                    "id": "Vvx4mUZ7hFy"
+                }
+            ],
+            "id": "JV1HAIIwUbQ",
+            "ignoreApproval": false,
+            "name": "0-11 months, Female",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "0-11 meses, Feminino"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "0-11 mois, Féminin"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "0-11 meses, Feminino"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "0-11 měsíců, žena"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "d56eQ90eE8n"
+            },
+            "categoryOptions": [
+                {
+                    "id": "MP15bHaQh2x"
+                },
+                {
+                    "id": "Vvx4mUZ7hFy"
+                }
+            ],
+            "id": "SJ88ViIZtZf",
+            "ignoreApproval": false,
+            "name": "0-11 months, Male",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "0-11 meses, Masculino"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "0-11 měsíců, muž"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "0-11 mois, masculin"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "0-11 meses, Masculino"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "d56eQ90eE8n"
+            },
+            "categoryOptions": [
+                {
+                    "id": "I0kOLNtdqRM"
+                },
+                {
+                    "id": "Vvx4mUZ7hFy"
+                }
+            ],
+            "id": "yDRq8rpliiy",
+            "ignoreApproval": false,
+            "name": "0-11 months, Other",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "0-11 meses, Outro"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "0-11 meses, Outro"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "0-11 mois, Autre"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "0-11 měsíců, ostatní"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "d56eQ90eE8n"
+            },
+            "categoryOptions": [
+                {
+                    "id": "kuP5EmQRFke"
+                },
+                {
+                    "id": "Vvx4mUZ7hFy"
+                }
+            ],
+            "id": "Di7bPtuMJrW",
+            "ignoreApproval": false,
+            "name": "0-11 months, Unknown Sex",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "0-11 meses, sexo desconhecido"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "0-11 mois, sexe inconnu"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "0-11 měsíců, neznámé pohlaví"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "0-11 meses, Sexo desconhecido"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "d56eQ90eE8n"
+            },
+            "categoryOptions": [
+                {
+                    "id": "FFA9e1yIXCT"
+                },
+                {
+                    "id": "juHBDfQMyxQ"
+                }
+            ],
+            "id": "zRMd2oGYtuG",
+            "ignoreApproval": false,
+            "name": "1-4 years, Female",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "1-4 anos, Feminino"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "1-4 anos, Feminino"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "1-4 roky, žena"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "1-4 ans, Féminin"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "d56eQ90eE8n"
+            },
+            "categoryOptions": [
+                {
+                    "id": "MP15bHaQh2x"
+                },
+                {
+                    "id": "juHBDfQMyxQ"
+                }
+            ],
+            "id": "blmd5n5wfkK",
+            "ignoreApproval": false,
+            "name": "1-4 years, Male",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "1-4 roky, muž"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "1-4 anos, Masculino"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "1-4 ans, masculin"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "1-4 anos, Masculino"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "d56eQ90eE8n"
+            },
+            "categoryOptions": [
+                {
+                    "id": "I0kOLNtdqRM"
+                },
+                {
+                    "id": "juHBDfQMyxQ"
+                }
+            ],
+            "id": "mPMYrM4LkdL",
+            "ignoreApproval": false,
+            "name": "1-4 years, Other",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "1-4 anos, Outro"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "1-4 anos, Outro"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "1-4 roky, ostatní"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "1-4 ans, Autre"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "d56eQ90eE8n"
+            },
+            "categoryOptions": [
+                {
+                    "id": "kuP5EmQRFke"
+                },
+                {
+                    "id": "juHBDfQMyxQ"
+                }
+            ],
+            "id": "ntTM4qRjhH9",
+            "ignoreApproval": false,
+            "name": "1-4 years, Unknown Sex",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "1-4 roky, Neznámé pohlaví"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "1-4 anos, Sexo Desconhecido"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "1-4 anos, Sexo Desconhecido"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "1-4 ans, sexe inconnu"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "categoryOptions": [
+                {
+                    "id": "xYerKDKCefk"
+                }
+            ],
+            "code": "DEFAULT",
+            "id": "HllvX50cXC0",
+            "ignoreApproval": false,
+            "name": "default",
+            "translations": [
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Стандарт"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "výchozí"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "по умолчанию"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Padrao"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Padrão"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "standart"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Putus berobat/default"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "défaut"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "standard"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "miCXy1Gzk4G"
+            },
+            "categoryOptions": [
+                {
+                    "id": "kuP5EmQRFke"
+                },
+                {
+                    "id": "WNPpyVkVaL3"
+                }
+            ],
+            "id": "p4QVzHggip0",
+            "ignoreApproval": false,
+            "name": "Unknown Age, Unknown Sex",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Neznámý věk, neznámé pohlaví"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Idade desconhecida, Sexo desconhecido"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Idade desconhecida, sexo desconhecido"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Âge inconnu, sexe inconnu"
+                }
+            ]
         }
     ],
     "categoryOptionGroupSets": [
@@ -3956,8 +4112,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Age in weeks (28-37, 38-41, 42+, unknown)",
@@ -4008,8 +4177,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Sex (Other/Unk)",
@@ -4071,8 +4253,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "28-37 wks",
@@ -4115,8 +4310,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "38-41 wks",
@@ -4169,8 +4377,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "42+ wks",
@@ -4222,65 +4443,43 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Female",
             "translations": [
                 {
-                    "locale": "uz",
+                    "locale": "es",
                     "property": "NAME",
-                    "value": "Аёл"
+                    "value": "Femenino"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "NAME",
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
                     "value": "Feminino"
                 },
                 {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Kvinne"
-                },
-                {
-                    "locale": "ar_EG",
+                    "locale": "ru",
                     "property": "SHORT_NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "إناث"
+                    "value": "Женский"
                 },
                 {
                     "locale": "es",
                     "property": "SHORT_NAME",
                     "value": "Femenino"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Femenino"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "Kvinne"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "Аyol"
                 },
                 {
                     "locale": "fr",
@@ -4288,19 +4487,9 @@
                     "value": "Féminin"
                 },
                 {
-                    "locale": "ar_IQ",
+                    "locale": "ar",
                     "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "Femenino"
+                    "value": "أنثى"
                 },
                 {
                     "locale": "pt",
@@ -4318,64 +4507,9 @@
                     "value": "Féminin"
                 },
                 {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Wanita"
-                },
-                {
                     "locale": "ar",
-                    "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "cs",
                     "property": "SHORT_NAME",
-                    "value": "ženský"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Feminino"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "ženský"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Аёл"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Аyol"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Wanita"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Feminino"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "Женский"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "Femenino"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "إناث"
+                    "value": "أنثى"
                 }
             ]
         },
@@ -4394,95 +4528,28 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Male",
             "translations": [
                 {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "мужской"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Эркак"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "Mann"
-                },
-                {
                     "locale": "es",
                     "property": "NAME",
                     "value": "Masculino"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "Erkak"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "muž"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Laki-laki"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Mann"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "muž"
                 },
                 {
                     "locale": "pt",
@@ -4490,34 +4557,9 @@
                     "value": "Masculino"
                 },
                 {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Erkak"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Laki-laki"
-                },
-                {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Masculin"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Эркак"
                 },
                 {
                     "locale": "ru",
@@ -4525,24 +4567,29 @@
                     "value": "мужской"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "ar",
                     "property": "NAME",
-                    "value": "Masculino"
+                    "value": "ذكر"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "ar",
                     "property": "SHORT_NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "ذكور"
+                    "value": "ذكر"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Masculin"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "мужской"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Masculino"
                 },
                 {
                     "locale": "pt",
@@ -4565,8 +4612,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Other",
@@ -4737,26 +4797,54 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Unknown age",
             "translations": [
                 {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Idade desconhecida"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Возраст неизвестен"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Âge inconnu"
+                },
+                {
                     "locale": "es",
                     "property": "NAME",
                     "value": "Edad desconocida"
                 },
                 {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "Neznámý věk"
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "العمر مجهول"
                 },
                 {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Ноаниқ ёш"
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Edad desconocida"
                 },
                 {
                     "locale": "ar",
@@ -4769,129 +4857,14 @@
                     "value": "Idade desconhecida"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Idade desconhecida"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Ноаниқ ёш"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "Edad desconocida"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Alder ukjent"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "العمر مجهول"
-                },
-                {
                     "locale": "ru",
                     "property": "SHORT_NAME",
                     "value": "Возраст неизвестен"
                 },
                 {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Umur tidak diketahui"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "Edad desconocida"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Âge inconnu"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Idade desconhecida"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Neznámý věk"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Umur tidak diketahui"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Ноаниқ ёш"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Idade desconhecida"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "Возраст неизвестен"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "Alder ukjent"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "Ноаниқ ёш"
-                },
-                {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Âge inconnu"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "Edad desconocida"
                 }
             ]
         },
@@ -4909,8 +4882,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Unk Sex",
@@ -5008,8 +4994,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rwrw----",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "0-11 mths",
@@ -5055,8 +5054,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "1-6 dys",
@@ -5092,8 +5104,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "10-14 y",
@@ -5209,8 +5234,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "1-4 y",
@@ -5326,8 +5364,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "15-19 y",
@@ -5423,8 +5474,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "20-29 y",
@@ -5490,8 +5554,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "20+ y",
@@ -5587,8 +5664,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "22-37 wks",
@@ -5634,8 +5724,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "30-39 y",
@@ -5671,8 +5774,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "38-41 wks",
@@ -5718,8 +5834,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "40-49 y",
@@ -5755,8 +5884,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "42+ wks",
@@ -5802,8 +5944,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "50-59 y",
@@ -5839,8 +5994,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "60-69 y",
@@ -5916,8 +6084,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "70-79 y",
@@ -5993,8 +6174,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "7-27 dys",
@@ -6030,8 +6224,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "80+ y",
@@ -6107,7 +6314,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rwrw----",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -6274,66 +6481,44 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Female",
             "translations": [
                 {
-                    "locale": "uz",
+                    "locale": "es",
                     "property": "NAME",
-                    "value": "Аёл"
+                    "value": "Femenino"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "NAME",
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
                     "value": "Feminino"
                 },
                 {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Kvinne"
-                },
-                {
-                    "locale": "ar_EG",
+                    "locale": "ru",
                     "property": "SHORT_NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "إناث"
+                    "value": "Женский"
                 },
                 {
                     "locale": "es",
                     "property": "SHORT_NAME",
                     "value": "Femenino"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Femenino"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "Kvinne"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "Аyol"
                 },
                 {
                     "locale": "fr",
@@ -6341,19 +6526,9 @@
                     "value": "Féminin"
                 },
                 {
-                    "locale": "ar_IQ",
+                    "locale": "ar",
                     "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "Femenino"
+                    "value": "أنثى"
                 },
                 {
                     "locale": "pt",
@@ -6371,64 +6546,9 @@
                     "value": "Féminin"
                 },
                 {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Wanita"
-                },
-                {
                     "locale": "ar",
-                    "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "cs",
                     "property": "SHORT_NAME",
-                    "value": "ženský"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Feminino"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "ženský"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Аёл"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Аyol"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Wanita"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Feminino"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "Женский"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "Femenino"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "إناث"
+                    "value": "أنثى"
                 }
             ]
         },
@@ -6441,96 +6561,29 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Male",
             "translations": [
                 {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "мужской"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Эркак"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "Mann"
-                },
-                {
                     "locale": "es",
                     "property": "NAME",
                     "value": "Masculino"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "Erkak"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "muž"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Laki-laki"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Mann"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "muž"
                 },
                 {
                     "locale": "pt",
@@ -6538,34 +6591,9 @@
                     "value": "Masculino"
                 },
                 {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Erkak"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Laki-laki"
-                },
-                {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Masculin"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Эркак"
                 },
                 {
                     "locale": "ru",
@@ -6573,24 +6601,29 @@
                     "value": "мужской"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "ar",
                     "property": "NAME",
-                    "value": "Masculino"
+                    "value": "ذكر"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "ar",
                     "property": "SHORT_NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "ذكور"
+                    "value": "ذكر"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Masculin"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "мужской"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Masculino"
                 },
                 {
                     "locale": "pt",
@@ -6608,8 +6641,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Other",
@@ -6775,8 +6821,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Unk age",
@@ -6802,64 +6861,14 @@
                     "value": "العمر مجهول"
                 },
                 {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Neznámý věk"
-                },
-                {
                     "locale": "pt",
                     "property": "NAME",
                     "value": "Idade desconhecida"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Idade desconhecida"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Idade desconhecida"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "العمر مجهول"
-                },
-                {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Âge inconnu"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "Nezn věk"
                 }
             ]
         },
@@ -6872,76 +6881,34 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Unk sex",
             "translations": [
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Sexo Desconhecido"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "الجنس مجهول"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Sexo Desconhecido"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "الجنس مجهول"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "الجنس مجهول"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "الجنس مجهول"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "الجنس مجهول"
-                },
                 {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Autre/sexe non connu"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Sexo desconhecido"
-                },
-                {
-                    "locale": "cs",
+                    "locale": "pt",
                     "property": "NAME",
-                    "value": "Neznámé pohlaví"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "الجنس مجهول"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الجنس مجهول"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "Nezn sex"
+                    "value": "Sexo Desconhecido"
                 },
                 {
                     "locale": "pt",
@@ -6957,6 +6924,11 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Sexe inconnu"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "الجنس مجهول"
                 }
             ]
         }
@@ -6993,7 +6965,7 @@
                     "userGroupAccesses": [],
                     "users": [],
                     "width": 14,
-                    "x": 26,
+                    "x": 25,
                     "y": 87
                 },
                 {
@@ -7050,8 +7022,8 @@
                     "userAccesses": [],
                     "userGroupAccesses": [],
                     "users": [],
-                    "width": 18,
-                    "x": 40,
+                    "width": 19,
+                    "x": 39,
                     "y": 113
                 },
                 {
@@ -7080,7 +7052,7 @@
                         "id": "z4SGT7Y0cOl"
                     },
                     "width": 16,
-                    "x": 1,
+                    "x": 0,
                     "y": 126
                 },
                 {
@@ -7109,7 +7081,7 @@
                         "id": "ljYC7Cb4btK"
                     },
                     "width": 16,
-                    "x": 1,
+                    "x": 0,
                     "y": 113
                 },
                 {
@@ -7308,7 +7280,7 @@
                         "id": "Luv3nkYJkDA"
                     },
                     "width": 23,
-                    "x": 17,
+                    "x": 16,
                     "y": 113
                 },
                 {
@@ -7337,7 +7309,7 @@
                         "id": "blCnbePBtx6"
                     },
                     "width": 25,
-                    "x": 1,
+                    "x": 0,
                     "y": 87
                 },
                 {
@@ -7365,8 +7337,8 @@
                     "visualization": {
                         "id": "LybeYfsOW2R"
                     },
-                    "width": 18,
-                    "x": 40,
+                    "width": 19,
+                    "x": 39,
                     "y": 87
                 },
                 {
@@ -7394,8 +7366,8 @@
                     "userAccesses": [],
                     "userGroupAccesses": [],
                     "users": [],
-                    "width": 18,
-                    "x": 40,
+                    "width": 19,
+                    "x": 39,
                     "y": 44
                 },
                 {
@@ -7424,7 +7396,7 @@
                         "id": "fCV12u8OUDX"
                     },
                     "width": 25,
-                    "x": 15,
+                    "x": 14,
                     "y": 66
                 },
                 {
@@ -7453,7 +7425,7 @@
                         "id": "uXKxEFvRkCJ"
                     },
                     "width": 14,
-                    "x": 1,
+                    "x": 0,
                     "y": 66
                 },
                 {
@@ -7482,7 +7454,7 @@
                         "id": "LzOCfHL9Pxb"
                     },
                     "width": 25,
-                    "x": 15,
+                    "x": 14,
                     "y": 44
                 },
                 {
@@ -7511,7 +7483,7 @@
                         "id": "OzQtFlDD0SN"
                     },
                     "width": 14,
-                    "x": 1,
+                    "x": 0,
                     "y": 44
                 }
             ],
@@ -7523,14 +7495,16 @@
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
                 "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
                     "L4joP9CDK2q": {
                         "access": "rw------",
-                        "displayName": "CHIS admin",
                         "id": "L4joP9CDK2q"
                     },
                     "ctw1WXDZHLQ": {
                         "access": "r-------",
-                        "displayName": "CHIS access",
                         "id": "ctw1WXDZHLQ"
                     }
                 },
@@ -7622,8 +7596,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Civil registration and vital statistics",
@@ -7648,8 +7635,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Live births",
@@ -7745,8 +7745,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Live births by mother's age",
@@ -7782,8 +7795,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Deaths pregnancy-related - during pregnancy",
@@ -7808,8 +7834,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Deaths pregnancy-related - facility delivery",
@@ -7834,8 +7873,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Deaths pregnancy-related - community delivery",
@@ -7860,8 +7912,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Deaths pregnancy-related - 2m pre/post delivery",
@@ -7886,8 +7951,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Stillbirths (late fetal deaths)",
@@ -7912,8 +7990,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Neonatal deaths (0-27 days)",
@@ -7979,8 +8070,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Infant deaths (0-11 m)",
@@ -8005,8 +8109,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Child deaths (1-4 years)",
@@ -8072,8 +8189,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Child deaths (5-9 years)",
@@ -8098,8 +8228,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Young adolescent deaths (10-14 years old)",
@@ -8124,8 +8267,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Older adolescent deaths (15-19 years)",
@@ -8150,8 +8306,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "New adult deaths in the reporting period",
@@ -8176,8 +8345,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Deaths due to road traffic crashes",
@@ -8202,8 +8384,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Deaths due to drowning",
@@ -8228,8 +8423,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Unregistered live births with submitted notificati",
@@ -8254,8 +8462,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Unregistered live births",
@@ -8280,8 +8501,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Unregistered deaths with submitted notification",
@@ -8306,8 +8540,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Unregistered deaths",
@@ -8332,8 +8579,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Children (0-4 y) registered birth",
@@ -8358,8 +8618,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Children (0-4 y) screened for registration",
@@ -8384,8 +8657,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Households with death certificates",
@@ -8410,8 +8696,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Households with death reported",
@@ -8435,7 +8734,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "Xu3Mbo0kDdp"
+                        "id": "Y5I8XUMgwnZ"
                     },
                     "dataSet": {
                         "id": "M4IjLFOc8Lu"
@@ -8451,7 +8750,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Y5I8XUMgwnZ"
+                        "id": "l4BWuxLX24x"
                     },
                     "dataSet": {
                         "id": "M4IjLFOc8Lu"
@@ -8459,7 +8758,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "l4BWuxLX24x"
+                        "id": "Xu3Mbo0kDdp"
                     },
                     "dataSet": {
                         "id": "M4IjLFOc8Lu"
@@ -8483,21 +8782,18 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-------",
+                "public": "r-r-----",
                 "userGroups": {
                     "JkwQIpjzPVL": {
                         "access": "r-rw----",
-                        "displayName": "CHIS capture",
                         "id": "JkwQIpjzPVL"
                     },
                     "L4joP9CDK2q": {
-                        "access": "rwr-----",
-                        "displayName": "CHIS admin",
+                        "access": "rw------",
                         "id": "L4joP9CDK2q"
                     },
                     "ctw1WXDZHLQ": {
                         "access": "r-r-----",
-                        "displayName": "CHIS access",
                         "id": "ctw1WXDZHLQ"
                     }
                 },
@@ -8523,111 +8819,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "UXq4JdtRedO"
-                    },
-                    "dataSet": {
-                        "id": "g08IeBOOuwc"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "WsuIw6PalbD"
-                    },
-                    "dataSet": {
-                        "id": "g08IeBOOuwc"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "jIqgxw83kSn"
-                    },
-                    "dataSet": {
-                        "id": "g08IeBOOuwc"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "pSnFTGGdkgW"
-                    },
-                    "dataSet": {
-                        "id": "g08IeBOOuwc"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "JtV1B7XCLjt"
-                    },
-                    "dataSet": {
-                        "id": "g08IeBOOuwc"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "kfjffK1hA9t"
-                    },
-                    "dataSet": {
-                        "id": "g08IeBOOuwc"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "bINuk5ZFg9X"
-                    },
-                    "dataSet": {
-                        "id": "g08IeBOOuwc"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "MeGIlWyHxjQ"
-                    },
-                    "dataSet": {
-                        "id": "g08IeBOOuwc"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "PuJqpTqfNX9"
-                    },
-                    "dataSet": {
-                        "id": "g08IeBOOuwc"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "MPvHLvRVZQR"
-                    },
-                    "dataSet": {
-                        "id": "g08IeBOOuwc"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "zxtcdMDTFVw"
-                    },
-                    "dataSet": {
-                        "id": "g08IeBOOuwc"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ZtfoAEaWmag"
-                    },
-                    "dataSet": {
-                        "id": "g08IeBOOuwc"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "iiqPL8UQqFP"
-                    },
-                    "dataSet": {
-                        "id": "g08IeBOOuwc"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "QWounAm5nBo"
                     },
                     "dataSet": {
                         "id": "g08IeBOOuwc"
@@ -8643,7 +8835,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "AP59tceZ564"
+                        "id": "kfjffK1hA9t"
                     },
                     "dataSet": {
                         "id": "g08IeBOOuwc"
@@ -8651,7 +8843,23 @@
                 },
                 {
                     "dataElement": {
-                        "id": "ljwBR7kApr3"
+                        "id": "ZtfoAEaWmag"
+                    },
+                    "dataSet": {
+                        "id": "g08IeBOOuwc"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "bINuk5ZFg9X"
+                    },
+                    "dataSet": {
+                        "id": "g08IeBOOuwc"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "UXq4JdtRedO"
                     },
                     "dataSet": {
                         "id": "g08IeBOOuwc"
@@ -8667,7 +8875,47 @@
                 },
                 {
                     "dataElement": {
-                        "id": "uWXCLWYquDS"
+                        "id": "zxtcdMDTFVw"
+                    },
+                    "dataSet": {
+                        "id": "g08IeBOOuwc"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "jIqgxw83kSn"
+                    },
+                    "dataSet": {
+                        "id": "g08IeBOOuwc"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "MPvHLvRVZQR"
+                    },
+                    "dataSet": {
+                        "id": "g08IeBOOuwc"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "AP59tceZ564"
+                    },
+                    "dataSet": {
+                        "id": "g08IeBOOuwc"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "QWounAm5nBo"
+                    },
+                    "dataSet": {
+                        "id": "g08IeBOOuwc"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "PuJqpTqfNX9"
                     },
                     "dataSet": {
                         "id": "g08IeBOOuwc"
@@ -8676,6 +8924,54 @@
                 {
                     "dataElement": {
                         "id": "LDM8om2Jq8L"
+                    },
+                    "dataSet": {
+                        "id": "g08IeBOOuwc"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "iiqPL8UQqFP"
+                    },
+                    "dataSet": {
+                        "id": "g08IeBOOuwc"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "JtV1B7XCLjt"
+                    },
+                    "dataSet": {
+                        "id": "g08IeBOOuwc"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ljwBR7kApr3"
+                    },
+                    "dataSet": {
+                        "id": "g08IeBOOuwc"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "uWXCLWYquDS"
+                    },
+                    "dataSet": {
+                        "id": "g08IeBOOuwc"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "WsuIw6PalbD"
+                    },
+                    "dataSet": {
+                        "id": "g08IeBOOuwc"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "pSnFTGGdkgW"
                     },
                     "dataSet": {
                         "id": "g08IeBOOuwc"
@@ -8699,21 +8995,18 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-------",
+                "public": "r-r-----",
                 "userGroups": {
                     "JkwQIpjzPVL": {
                         "access": "r-rw----",
-                        "displayName": "CHIS capture",
                         "id": "JkwQIpjzPVL"
                     },
                     "L4joP9CDK2q": {
-                        "access": "rwr-----",
-                        "displayName": "CHIS admin",
+                        "access": "rw------",
                         "id": "L4joP9CDK2q"
                     },
                     "ctw1WXDZHLQ": {
                         "access": "r-r-----",
-                        "displayName": "CHIS access",
                         "id": "ctw1WXDZHLQ"
                     }
                 },
@@ -8752,10 +9045,10 @@
                     "id": "EYZAa7Cn8Id"
                 },
                 {
-                    "id": "wT5AqaqpPBt"
+                    "id": "y87QdzV1Q3u"
                 },
                 {
-                    "id": "y87QdzV1Q3u"
+                    "id": "wT5AqaqpPBt"
                 },
                 {
                     "id": "it7o0FF97E2"
@@ -8795,8 +9088,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -8900,6 +9206,11 @@
                     "value": "نسبة"
                 },
                 {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Porcentaje"
+                },
+                {
                     "locale": "ar_IQ",
                     "property": "NAME",
                     "value": "نسبة"
@@ -8908,11 +9219,6 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Pourcentage"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Por 100"
                 },
                 {
                     "locale": "ar_EG",
@@ -8987,8 +9293,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Live births delivered in the community",
@@ -9079,8 +9398,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Pregnancy-related deaths",
@@ -9176,8 +9508,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Stillbirths (late fetal deaths)",
@@ -9268,8 +9613,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Neonatal deaths (0-27 days)",
@@ -9395,8 +9753,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Infant deaths (0-11 m)",
@@ -9487,8 +9858,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Child deaths aged 1-4 years",
@@ -9614,8 +9998,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Child deaths aged 5-9 years",
@@ -9701,8 +10098,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Young adolescent aged 10-14 years deaths",
@@ -9788,8 +10198,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Older adolescent aged 15-19 years deaths",
@@ -9875,8 +10298,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "New adult deaths in the reporting period",
@@ -9962,8 +10398,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Deaths due to road traffic crashes",
@@ -10049,8 +10498,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Deaths due to drowning",
@@ -10136,8 +10598,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Live births unregistered",
@@ -10223,8 +10698,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Live births notif unregistered (%)",
@@ -10249,8 +10737,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Deaths unregistered",
@@ -10336,8 +10837,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Deaths submitted notification unregistered (%)",
@@ -10362,8 +10876,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Births (0-4 y) registered (%)",
@@ -10388,8 +10915,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Households with death certificates (%)",
@@ -10578,8 +11118,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -10764,8 +11317,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -10950,8 +11516,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -11136,8 +11715,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -11150,13 +11742,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "3f41220",
-        "DHIS2Version": "2.38.2",
+        "DHIS2Build": "4119e92",
+        "DHIS2Version": "2.38.4.3",
         "code": "CHIS_AGG_CRVS",
         "description": "CHIS Civil Registration and Vital Statistics",
-        "lastUpdated": "20230207T000545",
+        "healthAreaCode": "CHIS",
+        "healthAreaName": "Community Health",
+        "lastUpdated": "20231219T091719",
         "locale": "en",
-        "name": "CHIS_AGG_CRVS_AGG_DHIS2.38.2-en",
+        "name": "CHIS_AGG_CRVS_AGG_DHIS2.38.4.3-en",
         "type": "AGG",
         "version": ""
     },
@@ -11473,8 +12067,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -11489,8 +12096,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -11498,15 +12118,28 @@
         },
         {
             "attributeValues": [],
-            "code": "CHIS_AGG_CAPTURE",
+            "code": "CHIS_AGG_DATA_CAPTURE",
             "id": "JkwQIpjzPVL",
             "managedGroups": [],
             "name": "CHIS capture",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -11521,8 +12154,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -11530,6 +12176,11 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Rôle d'utilisateur du package"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Rol de Usuario para Administrador de Paquetes"
                 }
             ]
         }
@@ -11570,8 +12221,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -11624,8 +12288,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -11660,8 +12337,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -11696,8 +12386,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -11732,8 +12435,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -11779,8 +12495,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -11912,8 +12641,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -12049,8 +12791,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -12198,8 +12953,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -12373,8 +13141,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -12556,8 +13337,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -12721,8 +13515,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -12859,8 +13666,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -12990,8 +13810,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -13161,8 +13994,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -13332,8 +14178,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -13481,8 +14340,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -13638,8 +14510,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -13785,8 +14670,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,

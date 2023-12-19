@@ -6,8 +6,9 @@
 
 ## Design
 
-### Version 1.0.0
+### Version 1.1.0
 
+- [CHIS System Design Guide](#chis-general-design)
 - [Adolescent Health (Monthly and Yearly)](#chis-agg-ah-design)
 - [Child Health (Monthly and Yearly)](#chis-agg-ch-design)
 - [Child protection and Interpersonal violence (Monthly and Yearly)](#chis-agg-cpiv-design)

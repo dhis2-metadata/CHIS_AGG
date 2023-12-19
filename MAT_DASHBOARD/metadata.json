@@ -60,7 +60,7 @@
                     "visualization": {
                         "id": "ZHhgNelBZLb"
                     },
-                    "width": 28,
+                    "width": 30,
                     "x": 29,
                     "y": 109
                 },
@@ -89,7 +89,7 @@
                     "visualization": {
                         "id": "UkvVsJVQwf8"
                     },
-                    "width": 22,
+                    "width": 24,
                     "x": 35,
                     "y": 67
                 },
@@ -147,7 +147,7 @@
                     "visualization": {
                         "id": "lZp5V1kbiTt"
                     },
-                    "width": 22,
+                    "width": 24,
                     "x": 35,
                     "y": 88
                 },
@@ -562,14 +562,16 @@
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
                 "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
                     "L4joP9CDK2q": {
                         "access": "rw------",
-                        "displayName": "CHIS admin",
                         "id": "L4joP9CDK2q"
                     },
                     "ctw1WXDZHLQ": {
                         "access": "r-------",
-                        "displayName": "CHIS access",
                         "id": "ctw1WXDZHLQ"
                     }
                 },
@@ -611,10 +613,10 @@
                     "id": "E6MeXWYJprt"
                 },
                 {
-                    "id": "it7o0FF97E2"
+                    "id": "R007y7ETY8Y"
                 },
                 {
-                    "id": "R007y7ETY8Y"
+                    "id": "it7o0FF97E2"
                 },
                 {
                     "id": "vhVjGOOR1MD"
@@ -641,10 +643,10 @@
                     "id": "p03XvZduEYf"
                 },
                 {
-                    "id": "YHv9q5USpI7"
+                    "id": "okwf19i1Ms0"
                 },
                 {
-                    "id": "okwf19i1Ms0"
+                    "id": "YHv9q5USpI7"
                 },
                 {
                     "id": "qRspyHVAwbi"
@@ -675,8 +677,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -780,6 +795,11 @@
                     "value": "نسبة"
                 },
                 {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Porcentaje"
+                },
+                {
                     "locale": "ar_IQ",
                     "property": "NAME",
                     "value": "نسبة"
@@ -788,11 +808,6 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Pourcentage"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Por 100"
                 },
                 {
                     "locale": "ar_EG",
@@ -867,8 +882,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HIV tests with returned results",
@@ -964,8 +992,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HIV +ve tests returned to people (%)",
@@ -1001,8 +1042,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "ANC attendees tested for syphilis (%)",
@@ -1027,8 +1081,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Woman with 1st ANC contact in 1st trimester (%)",
@@ -1053,8 +1120,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "ANC visits with breastfeeding counselling (%)",
@@ -1090,8 +1170,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Community ANC visits",
@@ -1177,8 +1270,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Women given iron supplements during ANC (%)",
@@ -1214,8 +1320,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Females with measured raised blood pressure (%)",
@@ -1240,8 +1359,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Women with measured raised blood pressure - ANC",
@@ -1327,8 +1459,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Women with measured raised blood pressure - Deli",
@@ -1414,8 +1559,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Women with measured raised blood pressure - Postpa",
@@ -1501,8 +1659,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "People with measured raised blood pressure (%)",
@@ -1527,8 +1698,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Pregnant women referred for complications - ANC",
@@ -1619,8 +1803,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Pregnant women referred for complicat - Delivery",
@@ -1711,8 +1908,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Pregnant women referred for complicat - Postpart",
@@ -1813,8 +2023,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Pregnant women referred for maternal complications",
@@ -1910,8 +2133,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Women w/o SBA and given postpartum uterotonic (%)",
@@ -1936,8 +2172,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Women assessed for MNS disorders",
@@ -2023,8 +2272,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "People assessed for MNS disorders",
@@ -2110,8 +2372,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "People assessed for MNS disorders (%)",
@@ -2136,8 +2411,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Women referred for MNS disorders (%)",
@@ -2162,8 +2450,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "People referred for MNS disorders (%)",
@@ -2188,8 +2489,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "People with MNS disorders receiving services (%)",
@@ -2214,8 +2528,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Pregnancy-related deaths - during preg",
@@ -2301,8 +2628,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Pregnancy-related deaths - deli facility",
@@ -2388,8 +2728,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Pregnancy-related deaths - comm facility",
@@ -2475,8 +2828,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Pregnancy-related deaths - 2m pre/post",
@@ -2562,8 +2928,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Pregnancy-related deaths",
@@ -2646,13 +3025,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "3f41220",
-        "DHIS2Version": "2.38.2",
+        "DHIS2Build": "4119e92",
+        "DHIS2Version": "2.38.4.3",
         "code": "CHIS_AGG_MAT",
         "description": "CHIS Maternal Health (dashboard)",
-        "lastUpdated": "20230202T144110",
+        "healthAreaCode": "CHIS",
+        "healthAreaName": "Community Health",
+        "lastUpdated": "20231219T091719",
         "locale": "en",
-        "name": "CHIS_AGG_MAT_DSH_DHIS2.38.2-en",
+        "name": "CHIS_AGG_MAT_DSH_DHIS2.38.4.3-en",
         "type": "DSH",
         "version": ""
     },
@@ -2666,8 +3047,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -2682,8 +3076,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -2691,15 +3098,28 @@
         },
         {
             "attributeValues": [],
-            "code": "CHIS_AGG_CAPTURE",
+            "code": "CHIS_AGG_DATA_CAPTURE",
             "id": "JkwQIpjzPVL",
             "managedGroups": [],
             "name": "CHIS capture",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -2714,8 +3134,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -2723,6 +3156,11 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Rôle d'utilisateur du package"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Rol de Usuario para Administrador de Paquetes"
                 }
             ]
         }
@@ -2884,8 +3322,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -3021,8 +3472,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -3175,8 +3639,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -3346,8 +3823,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -3517,8 +4007,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -3654,8 +4157,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -3796,8 +4312,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -3946,8 +4475,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -4113,8 +4655,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -4305,8 +4860,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -4437,8 +5005,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -4571,8 +5152,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -4721,8 +5315,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -4869,8 +5476,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -5003,8 +5623,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -5136,8 +5769,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -5302,8 +5948,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,

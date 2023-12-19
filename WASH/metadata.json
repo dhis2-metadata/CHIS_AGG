@@ -16,7 +16,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -148,11 +148,6 @@
                     "value": "standart"
                 },
                 {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
-                },
-                {
                     "locale": "cs",
                     "property": "SHORT_NAME",
                     "value": "výchozí"
@@ -161,6 +156,11 @@
                     "locale": "ru",
                     "property": "SHORT_NAME",
                     "value": "по умолчанию"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Padrao"
                 },
                 {
                     "locale": "nb",
@@ -204,8 +204,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Emptying mode",
@@ -271,8 +284,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Hygiene materials",
@@ -323,8 +349,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Improved toilets",
@@ -381,8 +420,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Improved water source",
@@ -433,8 +485,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Sanitation facilities",
@@ -503,8 +568,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Toilets",
@@ -552,8 +630,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Water access",
@@ -619,8 +710,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Water source",
@@ -665,8 +769,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Water test results",
@@ -728,7 +845,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -824,8 +941,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -865,8 +995,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -906,8 +1049,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -947,8 +1103,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -988,8 +1157,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -1029,8 +1211,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -1070,8 +1265,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -1111,8 +1319,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -1152,8 +1373,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -1309,78 +1543,6 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "xyXWhMWVdzl"
-            },
-            "categoryOptions": [
-                {
-                    "id": "y12jtqEXiC6"
-                }
-            ],
-            "id": "LWduyOwWwnV",
-            "ignoreApproval": false,
-            "name": "Cloths (disposable)",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Tkaniny (jednorázové)"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Roupas (descartáveis)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Roupas (descartáveis)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Chiffons (jetables)"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "xyXWhMWVdzl"
-            },
-            "categoryOptions": [
-                {
-                    "id": "lACs0wMcfgj"
-                }
-            ],
-            "id": "efmmTnzwfbx",
-            "ignoreApproval": false,
-            "name": "Cloths (reusable)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Chiffons (réutilisables)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Roupa (reutilizável)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Tkaniny (opakovaně použitelné)"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Roupa (reutilizável)"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
                 "id": "d7DJy9qhui7"
             },
             "categoryOptions": [
@@ -1447,98 +1609,6 @@
                     "locale": "pt_BR",
                     "property": "NAME",
                     "value": "Sanitários de compostagem"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "categoryOptions": [
-                {
-                    "id": "xYerKDKCefk"
-                }
-            ],
-            "code": "DEFAULT",
-            "id": "HllvX50cXC0",
-            "ignoreApproval": false,
-            "name": "default",
-            "translations": [
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "по умолчанию"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Padrao"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Putus berobat/default"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "الافتراضي"
                 }
             ]
         },
@@ -1830,42 +1900,6 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "xyXWhMWVdzl"
-            },
-            "categoryOptions": [
-                {
-                    "id": "sQuh0uOeMtP"
-                }
-            ],
-            "id": "AXDtMdUUV5G",
-            "ignoreApproval": false,
-            "name": "Menstrual cups (reusable)",
-            "translations": [
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Copos menstruais (reutilizáveis)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Coupes menstruelles (réutilisables)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Menstruační kalíšky (opakovaně použitelné)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Copos menstruais (reutilizáveis)"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
                 "id": "WxkLh2dQpzq"
             },
             "categoryOptions": [
@@ -1978,52 +2012,6 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "xyXWhMWVdzl"
-            },
-            "categoryOptions": [
-                {
-                    "id": "VE2QjCbUzsy"
-                }
-            ],
-            "id": "JHJGfRURwfh",
-            "ignoreApproval": false,
-            "name": "None",
-            "translations": [
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Yoʼq"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Rien"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Nenhum"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Žádný"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Nenhum"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Yoʼq"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
                 "id": "QfUkEnlXMa7"
             },
             "categoryOptions": [
@@ -2054,58 +2042,6 @@
                     "locale": "cs",
                     "property": "NAME",
                     "value": "Otevřená půda"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "xyXWhMWVdzl"
-            },
-            "categoryOptions": [
-                {
-                    "id": "j9O4RloCYPs"
-                }
-            ],
-            "id": "u0ZtVSLqA5m",
-            "ignoreApproval": false,
-            "name": "Other (disposable)",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Jiné (jednorázové)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Autre (jetable)"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "xyXWhMWVdzl"
-            },
-            "categoryOptions": [
-                {
-                    "id": "iQnpUurCp0r"
-                }
-            ],
-            "id": "oONOsmfW7su",
-            "ignoreApproval": false,
-            "name": "Other (reusable)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Autre (réutilisable)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Jiné (opakovaně použitelné)"
                 }
             ]
         },
@@ -2622,58 +2558,6 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "xyXWhMWVdzl"
-            },
-            "categoryOptions": [
-                {
-                    "id": "zpxk2T3xr7j"
-                }
-            ],
-            "id": "sNtSwDWb8UZ",
-            "ignoreApproval": false,
-            "name": "Sanitary pads (disposable)",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Hygienické vložky (jednorázové)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Serviettes hygiéniques (jetables)"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "xyXWhMWVdzl"
-            },
-            "categoryOptions": [
-                {
-                    "id": "lVaxi7SFBpc"
-                }
-            ],
-            "id": "z7PJmOTtiu6",
-            "ignoreApproval": false,
-            "name": "Sanitary pads (reusable)",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Hygienické vložky (opakovaně použitelné)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Serviettes hygiéniques (réutilisables)"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
                 "id": "d7DJy9qhui7"
             },
             "categoryOptions": [
@@ -2776,42 +2660,6 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Eaux de surface"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "xyXWhMWVdzl"
-            },
-            "categoryOptions": [
-                {
-                    "id": "TD76Z2yzeZJ"
-                }
-            ],
-            "id": "mhTvlPKFhMp",
-            "ignoreApproval": false,
-            "name": "Tampons (disposable)",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "tampony (jednorázové)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Tampões (descartáveis)"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Tampões (descartáveis)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Tampons (jetables)"
                 }
             ]
         },
@@ -2991,18 +2839,450 @@
                     "value": "Vodní tělo"
                 }
             ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "xyXWhMWVdzl"
+            },
+            "categoryOptions": [
+                {
+                    "id": "y12jtqEXiC6"
+                }
+            ],
+            "id": "LWduyOwWwnV",
+            "ignoreApproval": false,
+            "name": "Cloths (disposable)",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Tkaniny (jednorázové)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Roupas (descartáveis)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Roupas (descartáveis)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Chiffons (jetables)"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "xyXWhMWVdzl"
+            },
+            "categoryOptions": [
+                {
+                    "id": "lACs0wMcfgj"
+                }
+            ],
+            "id": "efmmTnzwfbx",
+            "ignoreApproval": false,
+            "name": "Cloths (reusable)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Chiffons (réutilisables)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Roupa (reutilizável)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Tkaniny (opakovaně použitelné)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Roupa (reutilizável)"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "categoryOptions": [
+                {
+                    "id": "xYerKDKCefk"
+                }
+            ],
+            "code": "DEFAULT",
+            "id": "HllvX50cXC0",
+            "ignoreApproval": false,
+            "name": "default",
+            "translations": [
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Стандарт"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "výchozí"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "по умолчанию"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Padrao"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Padrão"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "standart"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Putus berobat/default"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "défaut"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "standard"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "xyXWhMWVdzl"
+            },
+            "categoryOptions": [
+                {
+                    "id": "sQuh0uOeMtP"
+                }
+            ],
+            "id": "AXDtMdUUV5G",
+            "ignoreApproval": false,
+            "name": "Menstrual cups (reusable)",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Copos menstruais (reutilizáveis)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Coupes menstruelles (réutilisables)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Menstruační kalíšky (opakovaně použitelné)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Copos menstruais (reutilizáveis)"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "xyXWhMWVdzl"
+            },
+            "categoryOptions": [
+                {
+                    "id": "VE2QjCbUzsy"
+                }
+            ],
+            "id": "JHJGfRURwfh",
+            "ignoreApproval": false,
+            "name": "None",
+            "translations": [
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Yoʼq"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Rien"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Nenhum"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Žádný"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Nenhum"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Yoʼq"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "xyXWhMWVdzl"
+            },
+            "categoryOptions": [
+                {
+                    "id": "j9O4RloCYPs"
+                }
+            ],
+            "id": "u0ZtVSLqA5m",
+            "ignoreApproval": false,
+            "name": "Other (disposable)",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Jiné (jednorázové)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Autre (jetable)"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "xyXWhMWVdzl"
+            },
+            "categoryOptions": [
+                {
+                    "id": "iQnpUurCp0r"
+                }
+            ],
+            "id": "oONOsmfW7su",
+            "ignoreApproval": false,
+            "name": "Other (reusable)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Autre (réutilisable)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Jiné (opakovaně použitelné)"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "xyXWhMWVdzl"
+            },
+            "categoryOptions": [
+                {
+                    "id": "zpxk2T3xr7j"
+                }
+            ],
+            "id": "sNtSwDWb8UZ",
+            "ignoreApproval": false,
+            "name": "Sanitary pads (disposable)",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Hygienické vložky (jednorázové)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Serviettes hygiéniques (jetables)"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "xyXWhMWVdzl"
+            },
+            "categoryOptions": [
+                {
+                    "id": "lVaxi7SFBpc"
+                }
+            ],
+            "id": "z7PJmOTtiu6",
+            "ignoreApproval": false,
+            "name": "Sanitary pads (reusable)",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Hygienické vložky (opakovaně použitelné)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Serviettes hygiéniques (réutilisables)"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "xyXWhMWVdzl"
+            },
+            "categoryOptions": [
+                {
+                    "id": "TD76Z2yzeZJ"
+                }
+            ],
+            "id": "mhTvlPKFhMp",
+            "ignoreApproval": false,
+            "name": "Tampons (disposable)",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "tampony (jednorázové)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Tampões (descartáveis)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Tampões (descartáveis)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Tampons (jetables)"
+                }
+            ]
         }
     ],
-    "categoryOptionGroupSets": [],
+    "categoryOptionGroupSets": [
+        {
+            "attributeValues": [],
+            "categoryOptionGroups": [
+                {
+                    "id": "AHNb0b29woM"
+                }
+            ],
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "Km22c8RrbQo",
+            "name": "TB - Microscopy results",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "TB - Microscopy results",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB - Résultats de microscopie"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Résultats de microscopie"
+                }
+            ]
+        }
+    ],
     "categoryOptionGroups": [
         {
             "attributeValues": [],
             "categoryOptions": [
                 {
-                    "id": "VE2QjCbUzsy"
+                    "id": "VzWSBqaChSO"
                 },
                 {
-                    "id": "VzWSBqaChSO"
+                    "id": "VE2QjCbUzsy"
                 },
                 {
                     "id": "vREt2oofOoE"
@@ -3014,8 +3294,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Category Options",
@@ -3035,73 +3328,26 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Negative",
             "translations": [
                 {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "Negativo"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "سلبي"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Záporný"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "سلبي"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Манфий"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Négatif"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Negativ"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Negativo"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "Negativo"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Negativo"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "سلبي"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Манфий"
-                },
-                {
                     "locale": "pt",
                     "property": "SHORT_NAME",
                     "value": "Negativo"
@@ -3112,39 +3358,9 @@
                     "value": "отрицательный"
                 },
                 {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "سلبي"
-                },
-                {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "SHORT_NAME",
                     "value": "Negativo"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Manfiy"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "سلبي"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "سلبي"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "Záporný"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "Manfiy"
                 },
                 {
                     "locale": "pt",
@@ -3157,14 +3373,19 @@
                     "value": "отрицательный"
                 },
                 {
-                    "locale": "ar",
+                    "locale": "es",
                     "property": "NAME",
-                    "value": "سلبي"
+                    "value": "Negativo"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "سلبي"
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "سالب"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Négatif"
                 },
                 {
                     "locale": "fr",
@@ -3172,14 +3393,249 @@
                     "value": "Négatif"
                 },
                 {
-                    "locale": "pt_BR",
+                    "locale": "ar",
                     "property": "SHORT_NAME",
-                    "value": "Negativo"
+                    "value": "سالب"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "1PLUS",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "yR5z1F3YCNU",
+            "name": "+",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "+",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "+"
                 },
                 {
-                    "locale": "nb",
+                    "locale": "pt",
                     "property": "SHORT_NAME",
-                    "value": "Negativ"
+                    "value": "+"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "+"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "+"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "+"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "+"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "2PLUS",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "zwGsGes1Ioy",
+            "name": "++",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "++",
+            "translations": [
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "++"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "++"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "++"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "++"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "++"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "++"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "3PLUS",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "GLR2nSAjXhY",
+            "name": "+++",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "+++",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "+++"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "+++"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "+++"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "+++"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "+++"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "+++"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "SCANTY",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "qizWFWR4EFa",
+            "name": "Scanty",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Scanty",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Escasso"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Faible"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Скудный"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Escasso"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "Скудный"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Faible"
                 }
             ]
         }
@@ -3194,8 +3650,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Boreholes or tubewells",
@@ -3251,8 +3720,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Bucket",
@@ -3288,8 +3770,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Buried in a covered pit",
@@ -3325,8 +3820,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Cloths (disposable)",
@@ -3382,8 +3890,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Cloths (reusable)",
@@ -3439,8 +3960,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Composting toilets",
@@ -3496,7 +4030,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rwrw----",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -3663,8 +4197,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Dwelling",
@@ -3700,8 +4247,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Elsewhere",
@@ -3757,8 +4317,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Flush connected to sewers",
@@ -3804,8 +4377,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Flush to open drain",
@@ -3831,8 +4417,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Flush with septic tanks or pits",
@@ -3858,8 +4457,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Hanging toilet",
@@ -3895,8 +4507,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Latrines",
@@ -3952,8 +4577,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Menstrual cups (reusable)",
@@ -4009,73 +4647,26 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Negative",
             "translations": [
                 {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "سلبي"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "Negativo"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Záporný"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "سلبي"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Манфий"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Négatif"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Negativ"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Negativo"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "Negativo"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Negativo"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "سلبي"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Манфий"
-                },
-                {
                     "locale": "pt",
                     "property": "SHORT_NAME",
                     "value": "Negativo"
@@ -4086,39 +4677,9 @@
                     "value": "отрицательный"
                 },
                 {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "سلبي"
-                },
-                {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "SHORT_NAME",
                     "value": "Negativo"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Manfiy"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "سلبي"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "سلبي"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "Záporný"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "Manfiy"
                 },
                 {
                     "locale": "pt",
@@ -4131,19 +4692,19 @@
                     "value": "отрицательный"
                 },
                 {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Negativo"
+                },
+                {
                     "locale": "ar",
                     "property": "NAME",
-                    "value": "سلبي"
+                    "value": "سالب"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "سلبي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Negativo"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Négatif"
                 },
                 {
                     "locale": "fr",
@@ -4151,9 +4712,9 @@
                     "value": "Négatif"
                 },
                 {
-                    "locale": "nb",
+                    "locale": "ar",
                     "property": "SHORT_NAME",
-                    "value": "Negativ"
+                    "value": "سالب"
                 }
             ]
         },
@@ -4166,8 +4727,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "No facility (bush)",
@@ -4203,8 +4777,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rwrw----",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "None",
@@ -4280,8 +4867,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Open ground",
@@ -4337,8 +4937,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Other (disposable)",
@@ -4374,8 +4987,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Other (reusable)",
@@ -4411,8 +5037,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Packaged or delivered water",
@@ -4448,8 +5087,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Piped water",
@@ -4505,8 +5157,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Pit latrine (open pit)",
@@ -4542,8 +5207,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Pit latrines",
@@ -4579,8 +5257,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Plot/yard",
@@ -4616,8 +5307,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Positive",
@@ -4773,8 +5477,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Protected dug wells",
@@ -4830,8 +5547,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Protected springs",
@@ -4867,8 +5597,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Rainwater",
@@ -4924,8 +5667,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Sanitary pads (disposable)",
@@ -4961,8 +5717,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Sanitary pads (reusable)",
@@ -4998,8 +5767,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Septic tanks",
@@ -5055,8 +5837,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Service provider",
@@ -5112,8 +5907,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Surface water",
@@ -5169,8 +5977,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Tampons (disposable)",
@@ -5226,8 +6047,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Twin pits",
@@ -5253,8 +6087,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Uncovered pit",
@@ -5290,8 +6137,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Unprotected springs",
@@ -5327,8 +6187,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Unprotected wells",
@@ -5384,8 +6257,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Ventilated improved pit latrines",
@@ -5411,8 +6297,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Water body",
@@ -5471,7 +6370,7 @@
                     "userAccesses": [],
                     "userGroupAccesses": [],
                     "users": [],
-                    "width": 13,
+                    "width": 15,
                     "x": 0,
                     "y": 47
                 },
@@ -5481,7 +6380,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "height": 20,
+                    "height": 24,
                     "id": "g75T3PU5An6",
                     "interpretationCount": 0,
                     "interpretationLikeCount": 0,
@@ -5587,7 +6486,7 @@
                     "visualization": {
                         "id": "gs7lD3l9tqy"
                     },
-                    "width": 23,
+                    "width": 25,
                     "x": 33,
                     "y": 47
                 },
@@ -5616,7 +6515,7 @@
                     "visualization": {
                         "id": "Zs7TmpzIH2M"
                     },
-                    "width": 14,
+                    "width": 15,
                     "x": 43,
                     "y": 23
                 },
@@ -5732,8 +6631,8 @@
                     "visualization": {
                         "id": "gQOahA4wCPN"
                     },
-                    "width": 20,
-                    "x": 13,
+                    "width": 18,
+                    "x": 15,
                     "y": 47
                 },
                 {
@@ -5861,14 +6760,16 @@
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
                 "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
                     "L4joP9CDK2q": {
                         "access": "rw------",
-                        "displayName": "CHIS admin",
                         "id": "L4joP9CDK2q"
                     },
                     "ctw1WXDZHLQ": {
                         "access": "r-------",
-                        "displayName": "CHIS access",
                         "id": "ctw1WXDZHLQ"
                     }
                 },
@@ -5898,10 +6799,10 @@
                     "id": "fRBX0tLow0J"
                 },
                 {
-                    "id": "nGL9E56yMU7"
+                    "id": "u1y997TMHCC"
                 },
                 {
-                    "id": "u1y997TMHCC"
+                    "id": "nGL9E56yMU7"
                 },
                 {
                     "id": "Fu5yaroCXiZ"
@@ -5913,10 +6814,10 @@
                     "id": "vQnVWWHtqac"
                 },
                 {
-                    "id": "InypjydhrCu"
+                    "id": "fPzjQ4poSLB"
                 },
                 {
-                    "id": "fPzjQ4poSLB"
+                    "id": "InypjydhrCu"
                 },
                 {
                     "id": "YgxLGpncDvu"
@@ -5942,8 +6843,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Water, sanitation and hygiene (WASH)",
@@ -5968,8 +6882,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Households in the catchment area",
@@ -6020,8 +6947,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HHs with access to an improved source of water",
@@ -6046,8 +6986,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HHs accessing drinking water under 30 mins",
@@ -6072,8 +7025,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH with drinking water on premises",
@@ -6098,8 +7064,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Water tests conducted - results",
@@ -6124,8 +7103,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Water tests conducted - source",
@@ -6150,8 +7142,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HHs with insufficient drinking water",
@@ -6176,8 +7181,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HHs with fixed hand-washing facilities on premises",
@@ -6202,8 +7220,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HHs with mobile handwashing facilities on premises",
@@ -6228,8 +7259,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HHs with access to improved sanitation facilities",
@@ -6254,8 +7298,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HHs sharing the sanitation facilities in use",
@@ -6280,8 +7337,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HHs on-site sanitation facilities never emptied",
@@ -6306,8 +7376,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HHs on-site sanitation facilities on-site storage",
@@ -6332,8 +7415,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HHs with on-site sanitation fac never emptied",
@@ -6358,8 +7454,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HHs onsite facilities storage by emptying mode",
@@ -6384,8 +7493,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Women with a private place during menses",
@@ -6410,8 +7532,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Women and girls surveyed during household visits",
@@ -6436,8 +7571,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Women using hygiene products during menses",
@@ -6461,39 +7609,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "nGL9E56yMU7"
-                    },
-                    "dataSet": {
-                        "id": "JyQXKQndufw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "dvlyTUuHPyP"
-                    },
-                    "dataSet": {
-                        "id": "JyQXKQndufw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "u1y997TMHCC"
-                    },
-                    "dataSet": {
-                        "id": "JyQXKQndufw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "vQnVWWHtqac"
-                    },
-                    "dataSet": {
-                        "id": "JyQXKQndufw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "fRBX0tLow0J"
+                        "id": "IsFcBvqzzIj"
                     },
                     "dataSet": {
                         "id": "JyQXKQndufw"
@@ -6509,71 +7625,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "PDAHpMwvMqB"
-                    },
-                    "dataSet": {
-                        "id": "JyQXKQndufw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "DMFyzTl5Xsl"
-                    },
-                    "dataSet": {
-                        "id": "JyQXKQndufw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "fPzjQ4poSLB"
-                    },
-                    "dataSet": {
-                        "id": "JyQXKQndufw"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "elJ7ZoUhMhj"
-                    },
-                    "dataSet": {
-                        "id": "JyQXKQndufw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "YgxLGpncDvu"
-                    },
-                    "dataSet": {
-                        "id": "JyQXKQndufw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "L4xrXT9aL1W"
-                    },
-                    "dataSet": {
-                        "id": "JyQXKQndufw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "rR6J81pIPf2"
-                    },
-                    "dataSet": {
-                        "id": "JyQXKQndufw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "GmCQnV7sQEm"
-                    },
-                    "dataSet": {
-                        "id": "JyQXKQndufw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "DJC6Jb53i9G"
                     },
                     "dataSet": {
                         "id": "JyQXKQndufw"
@@ -6589,7 +7641,103 @@
                 },
                 {
                     "dataElement": {
-                        "id": "IsFcBvqzzIj"
+                        "id": "DMFyzTl5Xsl"
+                    },
+                    "dataSet": {
+                        "id": "JyQXKQndufw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "dvlyTUuHPyP"
+                    },
+                    "dataSet": {
+                        "id": "JyQXKQndufw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "YgxLGpncDvu"
+                    },
+                    "dataSet": {
+                        "id": "JyQXKQndufw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "DJC6Jb53i9G"
+                    },
+                    "dataSet": {
+                        "id": "JyQXKQndufw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "u1y997TMHCC"
+                    },
+                    "dataSet": {
+                        "id": "JyQXKQndufw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "GmCQnV7sQEm"
+                    },
+                    "dataSet": {
+                        "id": "JyQXKQndufw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "PDAHpMwvMqB"
+                    },
+                    "dataSet": {
+                        "id": "JyQXKQndufw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "fRBX0tLow0J"
+                    },
+                    "dataSet": {
+                        "id": "JyQXKQndufw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "vQnVWWHtqac"
+                    },
+                    "dataSet": {
+                        "id": "JyQXKQndufw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "L4xrXT9aL1W"
+                    },
+                    "dataSet": {
+                        "id": "JyQXKQndufw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "fPzjQ4poSLB"
+                    },
+                    "dataSet": {
+                        "id": "JyQXKQndufw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "rR6J81pIPf2"
+                    },
+                    "dataSet": {
+                        "id": "JyQXKQndufw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "nGL9E56yMU7"
                     },
                     "dataSet": {
                         "id": "JyQXKQndufw"
@@ -6613,21 +7761,18 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-------",
+                "public": "r-r-----",
                 "userGroups": {
                     "JkwQIpjzPVL": {
                         "access": "r-rw----",
-                        "displayName": "CHIS capture",
                         "id": "JkwQIpjzPVL"
                     },
                     "L4joP9CDK2q": {
-                        "access": "rwr-----",
-                        "displayName": "CHIS admin",
+                        "access": "rw------",
                         "id": "L4joP9CDK2q"
                     },
                     "ctw1WXDZHLQ": {
                         "access": "r-r-----",
-                        "displayName": "CHIS access",
                         "id": "ctw1WXDZHLQ"
                     }
                 },
@@ -6666,30 +7811,43 @@
                     "id": "Q1sUuEntNGy"
                 },
                 {
-                    "id": "kwYStxtmlVS"
-                },
-                {
                     "id": "M7wGljMOreI"
                 },
                 {
-                    "id": "bScJjfTGR7E"
+                    "id": "kwYStxtmlVS"
                 },
                 {
                     "id": "OCsH7k9XnxR"
                 },
                 {
-                    "id": "gzUJnW6xyYj"
+                    "id": "bScJjfTGR7E"
                 },
                 {
                     "id": "dX5g98R9DIK"
+                },
+                {
+                    "id": "gzUJnW6xyYj"
                 }
             ],
             "name": "CH - Water, sanitation and hygiene (WASH)",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -6714,6 +7872,11 @@
                     "value": "نسبة"
                 },
                 {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Porcentaje"
+                },
+                {
                     "locale": "ar_IQ",
                     "property": "NAME",
                     "value": "نسبة"
@@ -6722,11 +7885,6 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Pourcentage"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Por 100"
                 },
                 {
                     "locale": "ar_EG",
@@ -6801,8 +7959,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HHs with access to an improved source of water (%)",
@@ -6833,8 +8004,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH needing < 30 minutes to access drinking-H2O (%)",
@@ -6865,8 +8049,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH with drinking water on premises (%)",
@@ -6897,8 +8094,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Water tests -ve for E. Coli (%)",
@@ -6923,8 +8133,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH with insufficient drinking water (%)",
@@ -6955,8 +8178,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HHs handwashing facilities on premises - fixed (%)",
@@ -6987,8 +8223,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH with access to improved sanitation (%)",
@@ -7019,8 +8268,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HHs sharing the sanitation facilities they use (%)",
@@ -7051,8 +8313,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HHs with unemptied sanitation facilities (%)",
@@ -7077,8 +8352,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Women with private place during menses (%)",
@@ -7103,8 +8391,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Women using hygiene products during menses (%)",
@@ -7293,8 +8594,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -7479,8 +8793,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -7665,8 +8992,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -7851,8 +9191,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -7865,13 +9218,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "3f41220",
-        "DHIS2Version": "2.38.2",
+        "DHIS2Build": "4119e92",
+        "DHIS2Version": "2.38.4.3",
         "code": "CHIS_AGG_WASH",
         "description": "CHIS Water Sanitation and Hygiene",
-        "lastUpdated": "20230207T000545",
+        "healthAreaCode": "CHIS",
+        "healthAreaName": "Community Health",
+        "lastUpdated": "20231219T091719",
         "locale": "en",
-        "name": "CHIS_AGG_WASH_AGG_DHIS2.38.2-en",
+        "name": "CHIS_AGG_WASH_AGG_DHIS2.38.4.3-en",
         "type": "AGG",
         "version": ""
     },
@@ -8074,8 +9429,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -8090,8 +9458,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -8099,15 +9480,28 @@
         },
         {
             "attributeValues": [],
-            "code": "CHIS_AGG_CAPTURE",
+            "code": "CHIS_AGG_DATA_CAPTURE",
             "id": "JkwQIpjzPVL",
             "managedGroups": [],
             "name": "CHIS capture",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -8122,8 +9516,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -8131,6 +9538,11 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Rôle d'utilisateur du package"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Rol de Usuario para Administrador de Paquetes"
                 }
             ]
         }
@@ -8171,8 +9583,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -8222,8 +9647,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -8258,8 +9696,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -8294,8 +9745,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -8341,8 +9805,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -8491,8 +9968,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -8634,8 +10124,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -8790,8 +10293,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -8950,8 +10466,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -9098,8 +10627,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -9254,8 +10796,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -9406,8 +10961,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -9556,8 +11124,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -9703,8 +11284,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -9859,8 +11453,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,

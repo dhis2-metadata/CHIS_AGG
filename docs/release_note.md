@@ -1,5 +1,21 @@
 # Release Note { #chis-release-note }
 
+## 1.1.0
+
+Version 1.1.0 is a compatibility release with minor fixes to metadata and new guidance for implementation and use of the CHIS toolkit in DHIS2. 
+
+**New Content**
+This release is linked to an updated set of CHIS System Design & Implementation guidance (1.1.0), now available in the Resources section with new sections on:
+- Guidance for localization and adaptation to country CHIS structures & reporting/administrative hierarchies, considerations ofr Org Unit hierarchy
+- Design considerations for integrating CHW data with facility data within national HMIS
+- Guidance on configuring composite indicators to combine facility and community service delivery data in DHIS2 dashbaords and analytics tools
+- Updated Implementation Planning guide
+
+**Fixes & Improvements**
+Minor fixes to metadata have been made such as: 
+- Naming of metadata according to naming conventions
+- Updated sharing settings for metadata using CHIS user groups
+
 ## 1.0.1
 
 Version 1.0.1 comes with minor changes to the dashboard layout design and metadata sharing.

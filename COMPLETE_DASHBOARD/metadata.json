@@ -12051,16 +12051,7 @@
                     "id": "OGuzxQ8giNv"
                 },
                 {
-                    "id": "WoYn6pphf4z"
-                },
-                {
                     "id": "bTvnPmkKNIA"
-                },
-                {
-                    "id": "GCPFOtQLrAa"
-                },
-                {
-                    "id": "q18Nc4fVydJ"
                 },
                 {
                     "id": "EjLoyNQq8WF"
@@ -12076,6 +12067,15 @@
                 },
                 {
                     "id": "YFe6lty5wz1"
+                },
+                {
+                    "id": "WoYn6pphf4z"
+                },
+                {
+                    "id": "GCPFOtQLrAa"
+                },
+                {
+                    "id": "q18Nc4fVydJ"
                 },
                 {
                     "id": "UC5DpMUlrJ4"
@@ -12193,9 +12193,6 @@
             "id": "VwvabDyyfKz",
             "indicators": [
                 {
-                    "id": "pJSRMdUWSmB"
-                },
-                {
                     "id": "fKI9YJFrsrd"
                 },
                 {
@@ -12208,13 +12205,7 @@
                     "id": "N7JK0gr3DPy"
                 },
                 {
-                    "id": "ZwswphGaca8"
-                },
-                {
                     "id": "fhyGb3lmV2t"
-                },
-                {
-                    "id": "fw27Ab6ospH"
                 },
                 {
                     "id": "UjVeDXPTBKZ"
@@ -12223,13 +12214,34 @@
                     "id": "joW46LQvi4F"
                 },
                 {
-                    "id": "azRN5BgfBVt"
-                },
-                {
                     "id": "k5yhaBKhEkL"
                 },
                 {
                     "id": "zUnWi6pvekm"
+                },
+                {
+                    "id": "ixviMdBfYK1"
+                },
+                {
+                    "id": "g1uY1rwUof8"
+                },
+                {
+                    "id": "k7wj2mQP5aW"
+                },
+                {
+                    "id": "eR1mwrFIt45"
+                },
+                {
+                    "id": "pJSRMdUWSmB"
+                },
+                {
+                    "id": "ZwswphGaca8"
+                },
+                {
+                    "id": "fw27Ab6ospH"
+                },
+                {
+                    "id": "azRN5BgfBVt"
                 },
                 {
                     "id": "UdwXSXMDEfc"
@@ -12241,25 +12253,13 @@
                     "id": "ZFTczcQJ1Ig"
                 },
                 {
-                    "id": "ixviMdBfYK1"
-                },
-                {
                     "id": "qfnMPPcVJk9"
-                },
-                {
-                    "id": "g1uY1rwUof8"
                 },
                 {
                     "id": "f2LGjLk5UCq"
                 },
                 {
                     "id": "HLO9RrVVaRj"
-                },
-                {
-                    "id": "k7wj2mQP5aW"
-                },
-                {
-                    "id": "eR1mwrFIt45"
                 }
             ],
             "name": "CH - Clean energy",
@@ -12291,16 +12291,16 @@
             "id": "oMiegNRp7qV",
             "indicators": [
                 {
-                    "id": "xeTSPU8uQIk"
-                },
-                {
-                    "id": "e9Dwo2gxrPA"
-                },
-                {
                     "id": "tdcRLLoOUdA"
                 },
                 {
                     "id": "ElCEos23Oux"
+                },
+                {
+                    "id": "xeTSPU8uQIk"
+                },
+                {
+                    "id": "e9Dwo2gxrPA"
                 }
             ],
             "name": "CH - Community-based surveillance",
@@ -12566,13 +12566,13 @@
                     "id": "YcsZT2XQSDi"
                 },
                 {
+                    "id": "isA8txHzZE1"
+                },
+                {
                     "id": "JHL4tgzh8H7"
                 },
                 {
                     "id": "eQngGf46BXM"
-                },
-                {
-                    "id": "isA8txHzZE1"
                 },
                 {
                     "id": "uuLZFEb6Nb5"
@@ -13103,6 +13103,24 @@
                     "id": "iTc7CyEdSv9"
                 },
                 {
+                    "id": "cTPVb9bJuPX"
+                },
+                {
+                    "id": "kEWlDfUudjh"
+                },
+                {
+                    "id": "N5Qvbxj2zRO"
+                },
+                {
+                    "id": "zBgHGnyFBPb"
+                },
+                {
+                    "id": "gQMSxRUjl7X"
+                },
+                {
+                    "id": "opScjvB7HDr"
+                },
+                {
                     "id": "gPJ2JnnoEnz"
                 },
                 {
@@ -13110,9 +13128,6 @@
                 },
                 {
                     "id": "eWchmRO695s"
-                },
-                {
-                    "id": "cTPVb9bJuPX"
                 },
                 {
                     "id": "BJ2uU9ukc3x"
@@ -13124,25 +13139,13 @@
                     "id": "qRspyHVAwbi"
                 },
                 {
-                    "id": "kEWlDfUudjh"
-                },
-                {
                     "id": "OJ3tx7YP47y"
                 },
                 {
                     "id": "IVlw9nUdvh2"
                 },
                 {
-                    "id": "N5Qvbxj2zRO"
-                },
-                {
-                    "id": "zBgHGnyFBPb"
-                },
-                {
                     "id": "UdwXSXMDEfc"
-                },
-                {
-                    "id": "gQMSxRUjl7X"
                 },
                 {
                     "id": "YlznX32FWHC"
@@ -13152,9 +13155,6 @@
                 },
                 {
                     "id": "t1bmnJoV0OL"
-                },
-                {
-                    "id": "opScjvB7HDr"
                 },
                 {
                     "id": "LpQNm1aGvKi"
@@ -13355,15 +13355,6 @@
             "id": "MMjeonm10Ky",
             "indicators": [
                 {
-                    "id": "JHL4tgzh8H7"
-                },
-                {
-                    "id": "S0fyXh8D0JP"
-                },
-                {
-                    "id": "z4coRgDQAMP"
-                },
-                {
                     "id": "UGzCUI3f4h9"
                 },
                 {
@@ -13379,10 +13370,19 @@
                     "id": "rB498kYUHDG"
                 },
                 {
-                    "id": "Tt4NbymKIKh"
+                    "id": "wT5AqaqpPBt"
                 },
                 {
-                    "id": "wT5AqaqpPBt"
+                    "id": "JHL4tgzh8H7"
+                },
+                {
+                    "id": "S0fyXh8D0JP"
+                },
+                {
+                    "id": "z4coRgDQAMP"
+                },
+                {
+                    "id": "Tt4NbymKIKh"
                 }
             ],
             "name": "CH - Population composition",
@@ -13488,12 +13488,6 @@
             "id": "cRJIyOETsS2",
             "indicators": [
                 {
-                    "id": "ThWJx3aPIze"
-                },
-                {
-                    "id": "zvq2jM5Tc3J"
-                },
-                {
                     "id": "nSpKETGSOla"
                 },
                 {
@@ -13503,37 +13497,16 @@
                     "id": "AYQouZaqNQe"
                 },
                 {
-                    "id": "Vl4rik7otJQ"
-                },
-                {
-                    "id": "laFvu5nNICv"
-                },
-                {
                     "id": "mxrwt4ST2f9"
                 },
                 {
                     "id": "SdxVXQdpKEc"
                 },
                 {
-                    "id": "KPJlguaVgsu"
-                },
-                {
-                    "id": "tfmg5TM0DcG"
-                },
-                {
-                    "id": "UT8gSweuFcG"
-                },
-                {
                     "id": "KyyybToTW5z"
                 },
                 {
                     "id": "FuhSsL0tuxv"
-                },
-                {
-                    "id": "oVOuGB7Dsqf"
-                },
-                {
-                    "id": "mWvSvPoJ8M7"
                 },
                 {
                     "id": "vHVTpWKlPDk"
@@ -13549,6 +13522,33 @@
                 },
                 {
                     "id": "Vm8FiOgva6U"
+                },
+                {
+                    "id": "ThWJx3aPIze"
+                },
+                {
+                    "id": "zvq2jM5Tc3J"
+                },
+                {
+                    "id": "Vl4rik7otJQ"
+                },
+                {
+                    "id": "laFvu5nNICv"
+                },
+                {
+                    "id": "KPJlguaVgsu"
+                },
+                {
+                    "id": "tfmg5TM0DcG"
+                },
+                {
+                    "id": "UT8gSweuFcG"
+                },
+                {
+                    "id": "oVOuGB7Dsqf"
+                },
+                {
+                    "id": "mWvSvPoJ8M7"
                 }
             ],
             "name": "CH - Tuberculosis",
@@ -13591,12 +13591,6 @@
             "id": "uX5HgdpLEAe",
             "indicators": [
                 {
-                    "id": "kwYStxtmlVS"
-                },
-                {
-                    "id": "M7wGljMOreI"
-                },
-                {
                     "id": "YouPc3eMZyZ"
                 },
                 {
@@ -13606,16 +13600,22 @@
                     "id": "SQF5r9kLJsp"
                 },
                 {
-                    "id": "bScJjfTGR7E"
-                },
-                {
-                    "id": "OCsH7k9XnxR"
-                },
-                {
                     "id": "CvkYKFeQoV3"
                 },
                 {
                     "id": "Q1sUuEntNGy"
+                },
+                {
+                    "id": "kwYStxtmlVS"
+                },
+                {
+                    "id": "M7wGljMOreI"
+                },
+                {
+                    "id": "bScJjfTGR7E"
+                },
+                {
+                    "id": "OCsH7k9XnxR"
                 },
                 {
                     "id": "gzUJnW6xyYj"
@@ -26035,19 +26035,19 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "CH005",
+            "code": "CH006",
             "decimals": 0,
             "denominator": -1,
             "denominatorDescription": "1",
-            "description": "Number of children in the catchment area (5 to less than 10 years old)",
-            "id": "S0fyXh8D0JP",
+            "description": "Number of young adolescents in the catchment area (10-14 years old)",
+            "id": "UGzCUI3f4h9",
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "[CONFIG] CH005 - Children aged 5-9 years in the catchment area",
+            "name": "[CONFIG] CH006 - Young adolescents aged 10-14 years in the catchment area",
             "numerator": -1,
-            "numeratorDescription": "Children aged 5-9 years in the catchment area",
+            "numeratorDescription": "Young adolescents aged 10-14 years ",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -26068,17 +26068,12 @@
                 },
                 "users": {}
             },
-            "shortName": "Children aged 5-9 years in the catchment area",
+            "shortName": "Young adolescents aged 10-14 years",
             "translations": [
                 {
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Crianças de 5-9 anos na área de cobertura"
                 },
                 {
                     "locale": "es",
@@ -26101,11 +26096,6 @@
                     "value": "1"
                 },
                 {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "CH005 - Crianças de 5-9 anos na área de cobertura"
-                },
-                {
                     "locale": "ar_IQ",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
@@ -26117,13 +26107,13 @@
                 },
                 {
                     "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Crianças de 5-9 anos na área de cobertura"
+                    "property": "NAME",
+                    "value": "CH006 - Jovens adolescentes de 10-14 anos na área de cobertura"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Crianças de 5-9 anos na área de cobertura"
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH006 - Jovens adolescentes de 10-14 anos na área de cobertura"
                 },
                 {
                     "locale": "ru",
@@ -26134,16 +26124,6 @@
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "CH005 - Crianças de 5-9 anos na área de cobertura"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Crianças de 5-9 anos na área de cobertura"
                 },
                 {
                     "locale": "ar_EG",
@@ -31720,19 +31700,19 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "CH006",
+            "code": "CH005",
             "decimals": 0,
             "denominator": -1,
             "denominatorDescription": "1",
-            "description": "Number of young adolescents in the catchment area (10-14 years old)",
-            "id": "UGzCUI3f4h9",
+            "description": "Number of children in the catchment area (5 to less than 10 years old)",
+            "id": "S0fyXh8D0JP",
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "[CONFIG] CH006 - Young adolescents aged 10-14 years in the catchment area",
+            "name": "[CONFIG] CH005 - Children aged 5-9 years in the catchment area",
             "numerator": -1,
-            "numeratorDescription": "Young adolescents aged 10-14 years ",
+            "numeratorDescription": "Children aged 5-9 years in the catchment area",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -31753,12 +31733,17 @@
                 },
                 "users": {}
             },
-            "shortName": "Young adolescents aged 10-14 years",
+            "shortName": "Children aged 5-9 years in the catchment area",
             "translations": [
                 {
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Crianças de 5-9 anos na área de cobertura"
                 },
                 {
                     "locale": "es",
@@ -31781,6 +31766,11 @@
                     "value": "1"
                 },
                 {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH005 - Crianças de 5-9 anos na área de cobertura"
+                },
+                {
                     "locale": "ar_IQ",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
@@ -31792,13 +31782,13 @@
                 },
                 {
                     "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "CH006 - Jovens adolescentes de 10-14 anos na área de cobertura"
+                    "property": "SHORT_NAME",
+                    "value": "Crianças de 5-9 anos na área de cobertura"
                 },
                 {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "CH006 - Jovens adolescentes de 10-14 anos na área de cobertura"
+                    "locale": "pt_BR",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Crianças de 5-9 anos na área de cobertura"
                 },
                 {
                     "locale": "ru",
@@ -31809,6 +31799,16 @@
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH005 - Crianças de 5-9 anos na área de cobertura"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Crianças de 5-9 anos na área de cobertura"
                 },
                 {
                     "locale": "ar_EG",

@@ -12,7 +12,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "height": 24,
+                    "height": 4,
                     "id": "F9J4aQ3drdi",
                     "interpretationCount": 0,
                     "interpretationLikeCount": 0,
@@ -23,14 +23,14 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "text": "Danger signs",
+                    "text": "*Danger signs*",
                     "translations": [],
                     "type": "TEXT",
                     "userAccesses": [],
                     "userGroupAccesses": [],
                     "users": [],
-                    "width": 6,
-                    "x": 0,
+                    "width": 58,
+                    "x": 1,
                     "y": 0
                 },
                 {
@@ -59,8 +59,8 @@
                         "id": "VnqzqROXVCl"
                     },
                     "width": 11,
-                    "x": 6,
-                    "y": 0
+                    "x": 1,
+                    "y": 4
                 },
                 {
                     "attributeValues": [],
@@ -88,8 +88,8 @@
                         "id": "b1iRAXocXFT"
                     },
                     "width": 11,
-                    "x": 6,
-                    "y": 12
+                    "x": 1,
+                    "y": 16
                 },
                 {
                     "attributeValues": [],
@@ -116,9 +116,9 @@
                     "visualization": {
                         "id": "yoMx90S0P1t"
                     },
-                    "width": 29,
-                    "x": 28,
-                    "y": 0
+                    "width": 35,
+                    "x": 12,
+                    "y": 4
                 },
                 {
                     "attributeValues": [],
@@ -145,9 +145,9 @@
                     "visualization": {
                         "id": "RIqw0xG6Wgq"
                     },
-                    "width": 11,
-                    "x": 17,
-                    "y": 0
+                    "width": 12,
+                    "x": 47,
+                    "y": 4
                 },
                 {
                     "attributeValues": [],
@@ -155,7 +155,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "height": 39,
+                    "height": 4,
                     "id": "k8S8XJbcwN5",
                     "interpretationCount": 0,
                     "interpretationLikeCount": 0,
@@ -166,15 +166,15 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "text": "Nutrition and infections data",
+                    "text": "*Nutrition and infections data*",
                     "translations": [],
                     "type": "TEXT",
                     "userAccesses": [],
                     "userGroupAccesses": [],
                     "users": [],
-                    "width": 6,
-                    "x": 0,
-                    "y": 24
+                    "width": 57,
+                    "x": 1,
+                    "y": 28
                 },
                 {
                     "attributeValues": [],
@@ -201,9 +201,9 @@
                     "visualization": {
                         "id": "x35MFtyWMjK"
                     },
-                    "width": 51,
-                    "x": 6,
-                    "y": 48
+                    "width": 57,
+                    "x": 1,
+                    "y": 56
                 },
                 {
                     "attributeValues": [],
@@ -230,9 +230,9 @@
                     "visualization": {
                         "id": "mzOcITXyZfh"
                     },
-                    "width": 19,
-                    "x": 17,
-                    "y": 24
+                    "width": 22,
+                    "x": 12,
+                    "y": 32
                 },
                 {
                     "attributeValues": [],
@@ -260,8 +260,8 @@
                         "id": "FpnMrKLkmAo"
                     },
                     "width": 11,
-                    "x": 6,
-                    "y": 24
+                    "x": 1,
+                    "y": 32
                 },
                 {
                     "attributeValues": [],
@@ -288,9 +288,9 @@
                     "visualization": {
                         "id": "X9xdzAhyX9N"
                     },
-                    "width": 21,
-                    "x": 36,
-                    "y": 24
+                    "width": 24,
+                    "x": 34,
+                    "y": 32
                 },
                 {
                     "attributeValues": [],
@@ -298,7 +298,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "height": 51,
+                    "height": 4,
                     "id": "AqITxcNDOg0",
                     "interpretationCount": 0,
                     "interpretationLikeCount": 0,
@@ -309,15 +309,15 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "text": "Malaria data",
+                    "text": "*Malaria*",
                     "translations": [],
                     "type": "TEXT",
                     "userAccesses": [],
                     "userGroupAccesses": [],
                     "users": [],
-                    "width": 6,
-                    "x": 0,
-                    "y": 63
+                    "width": 57,
+                    "x": 1,
+                    "y": 71
                 },
                 {
                     "attributeValues": [],
@@ -344,9 +344,9 @@
                     "userAccesses": [],
                     "userGroupAccesses": [],
                     "users": [],
-                    "width": 20,
-                    "x": 37,
-                    "y": 63
+                    "width": 24,
+                    "x": 34,
+                    "y": 75
                 },
                 {
                     "attributeValues": [],
@@ -373,9 +373,9 @@
                     "visualization": {
                         "id": "n6kKIvuK97Z"
                     },
-                    "width": 10,
-                    "x": 6,
-                    "y": 63
+                    "width": 11,
+                    "x": 1,
+                    "y": 75
                 },
                 {
                     "attributeValues": [],
@@ -403,8 +403,8 @@
                         "id": "EuCLxDztmOH"
                     },
                     "width": 10,
-                    "x": 16,
-                    "y": 63
+                    "x": 12,
+                    "y": 75
                 },
                 {
                     "attributeValues": [],
@@ -431,9 +431,9 @@
                     "visualization": {
                         "id": "WoWF3vH63NS"
                     },
-                    "width": 11,
-                    "x": 26,
-                    "y": 63
+                    "width": 12,
+                    "x": 22,
+                    "y": 75
                 },
                 {
                     "attributeValues": [],
@@ -441,7 +441,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "height": 19,
+                    "height": 20,
                     "id": "Qm47kvHIO4d",
                     "interpretationCount": 0,
                     "interpretationLikeCount": 0,
@@ -460,9 +460,9 @@
                     "visualization": {
                         "id": "oa7wCw3AQl9"
                     },
-                    "width": 25,
-                    "x": 6,
-                    "y": 95
+                    "width": 28,
+                    "x": 1,
+                    "y": 107
                 },
                 {
                     "attributeValues": [],
@@ -470,7 +470,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "height": 19,
+                    "height": 20,
                     "id": "qR17EFlbsUQ",
                     "interpretationCount": 0,
                     "interpretationLikeCount": 0,
@@ -489,9 +489,9 @@
                     "visualization": {
                         "id": "GoLhijyzemP"
                     },
-                    "width": 26,
-                    "x": 31,
-                    "y": 95
+                    "width": 29,
+                    "x": 29,
+                    "y": 107
                 },
                 {
                     "attributeValues": [],
@@ -518,9 +518,9 @@
                     "visualization": {
                         "id": "eSyx4FRVRKu"
                     },
-                    "width": 31,
-                    "x": 6,
-                    "y": 77
+                    "width": 33,
+                    "x": 1,
+                    "y": 89
                 },
                 {
                     "attributeValues": [],
@@ -528,7 +528,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "height": 21,
+                    "height": 23,
                     "id": "KdQIyx6G8qs",
                     "interpretationCount": 0,
                     "interpretationLikeCount": 0,
@@ -547,9 +547,9 @@
                     "userAccesses": [],
                     "userGroupAccesses": [],
                     "users": [],
-                    "width": 13,
-                    "x": 44,
-                    "y": 114
+                    "width": 15,
+                    "x": 43,
+                    "y": 131
                 },
                 {
                     "attributeValues": [],
@@ -557,7 +557,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "height": 21,
+                    "height": 4,
                     "id": "W8MG6W7Qcu8",
                     "interpretationCount": 0,
                     "interpretationLikeCount": 0,
@@ -568,15 +568,15 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "text": "Vaccination data",
+                    "text": "*Vaccination*",
                     "translations": [],
                     "type": "TEXT",
                     "userAccesses": [],
                     "userGroupAccesses": [],
                     "users": [],
-                    "width": 6,
-                    "x": 0,
-                    "y": 114
+                    "width": 57,
+                    "x": 1,
+                    "y": 127
                 },
                 {
                     "attributeValues": [],
@@ -584,7 +584,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "height": 21,
+                    "height": 23,
                     "id": "h3n5hoUVF00",
                     "interpretationCount": 0,
                     "interpretationLikeCount": 0,
@@ -603,9 +603,9 @@
                     "visualization": {
                         "id": "Wpo1iVp5vrv"
                     },
-                    "width": 19,
-                    "x": 6,
-                    "y": 114
+                    "width": 22,
+                    "x": 1,
+                    "y": 131
                 },
                 {
                     "attributeValues": [],
@@ -613,7 +613,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "height": 21,
+                    "height": 23,
                     "id": "QLqPgp5kEba",
                     "interpretationCount": 0,
                     "interpretationLikeCount": 0,
@@ -632,9 +632,9 @@
                     "visualization": {
                         "id": "q5HlLNFAaDN"
                     },
-                    "width": 19,
-                    "x": 25,
-                    "y": 114
+                    "width": 20,
+                    "x": 23,
+                    "y": 131
                 },
                 {
                     "attributeValues": [],
@@ -642,7 +642,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "height": 26,
+                    "height": 4,
                     "id": "P5cC1lIW71m",
                     "interpretationCount": 0,
                     "interpretationLikeCount": 0,
@@ -653,15 +653,15 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "text": "HIV data",
+                    "text": "*HIV*",
                     "translations": [],
                     "type": "TEXT",
                     "userAccesses": [],
                     "userGroupAccesses": [],
                     "users": [],
-                    "width": 6,
-                    "x": 0,
-                    "y": 135
+                    "width": 57,
+                    "x": 1,
+                    "y": 154
                 },
                 {
                     "attributeValues": [],
@@ -688,9 +688,9 @@
                     "visualization": {
                         "id": "ZHhgNelBZLb"
                     },
-                    "width": 22,
-                    "x": 6,
-                    "y": 135
+                    "width": 28,
+                    "x": 1,
+                    "y": 158
                 },
                 {
                     "attributeValues": [],
@@ -718,8 +718,8 @@
                         "id": "q0kMRazxFtQ"
                     },
                     "width": 29,
-                    "x": 28,
-                    "y": 135
+                    "x": 29,
+                    "y": 158
                 }
             ],
             "id": "DrWdi3VEyM3",
@@ -730,14 +730,16 @@
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
                 "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
                     "L4joP9CDK2q": {
                         "access": "rw------",
-                        "displayName": "CHIS admin",
                         "id": "L4joP9CDK2q"
                     },
                     "ctw1WXDZHLQ": {
                         "access": "r-------",
-                        "displayName": "CHIS access",
                         "id": "ctw1WXDZHLQ"
                     }
                 },
@@ -837,8 +839,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -942,6 +957,11 @@
                     "value": "نسبة"
                 },
                 {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Porcentaje"
+                },
+                {
                     "locale": "ar_IQ",
                     "property": "NAME",
                     "value": "نسبة"
@@ -950,11 +970,6 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Pourcentage"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Por 100"
                 },
                 {
                     "locale": "ar_EG",
@@ -1029,8 +1044,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HIV tests with returned results",
@@ -1126,8 +1154,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HIV +ve tests returned to people (%)",
@@ -1163,8 +1204,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Newborn and child danger signs referred (%)",
@@ -1235,8 +1289,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Newborns and children with danger signs (%)",
@@ -1317,8 +1384,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Newborns and children consultations",
@@ -1424,8 +1504,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Newborns & children referred with danger signs",
@@ -1541,8 +1634,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Newborns and children with danger signs",
@@ -1678,8 +1784,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Children 6-59 months with SAM (%)",
@@ -1755,8 +1874,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Children 6-59 months with SAM",
@@ -1866,6 +1998,56 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "CH070",
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "Children 0-9 yrs presenting diarrhoea assessed",
+            "description": "Proportion of children (0-9 years)who received treatment for diarrhoea",
+            "id": "m3Xg8JK1koA",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH070 - Children (0-9 y) treated for diarrhoea (%)",
+            "numerator": -1,
+            "numeratorDescription": "Children 0-9 years with diarrhoea who received tx",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Children 0-9 years treated for diarrhoea (%)",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH070 - Crianças (0-9 anos) tratadas para diarreia (%)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH070 - Crianças (0-9 anos) tratadas com diarreia (%)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "CH070b",
             "decimals": 0,
             "denominator": -1,
@@ -1882,8 +2064,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Children (0-9 y) assessed for diarrhoea",
@@ -1963,43 +2158,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "CH070",
-            "decimals": 1,
-            "denominator": -1,
-            "denominatorDescription": "Children 0-9 yrs presenting diarrhoea assessed",
-            "description": "Proportion of children (0-9 years)who received treatment for diarrhoea",
-            "id": "m3Xg8JK1koA",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] CH070 - Children (0-9 y) treated for diarrhoea (%)",
-            "numerator": -1,
-            "numeratorDescription": "Children 0-9 years with diarrhoea who received tx",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Children 0-9 years treated for diarrhoea (%)",
-            "translations": [
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "CH070 - Crianças (0-9 anos) tratadas para diarreia (%)"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "CH070 - Crianças (0-9 anos) tratadas com diarreia (%)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "CH071",
             "decimals": 1,
             "denominator": -1,
@@ -2016,8 +2174,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Children fast breathing / chest indrawing (%)",
@@ -2093,8 +2264,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Children given ABX for fast breathing (%)",
@@ -2170,8 +2354,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "People (>18 m) referred for HIV testing",
@@ -2277,8 +2474,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "People not uptodate with vaccinations referred (%)",
@@ -2324,8 +2534,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Unvaccinated children (0-4 y) referred (%)",
@@ -2381,8 +2604,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Children (0-59 m) vaccinated for polio (%)",
@@ -2442,6 +2678,76 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "CH119",
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "Febrile cases of malaria",
+            "description": "Proportion of febrile cases who received a rapid diagnostic test (RDT)",
+            "id": "wQpqVzvgQMO",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] CH119 - Febrile cased tested by RDT (%)",
+            "numerator": -1,
+            "numeratorDescription": "Febrile cases who received a RDT",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Febrile cased tested by RDT (%)",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH119 - Casos febris testados com TDR (%)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Casos febris de malária"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH119 - Caso febril testado com TDR (%)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Casos febris testados com TDR (%)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Casos febris de malária"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Casos febris testados com TDR (%)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "CH119b",
             "decimals": 0,
             "denominator": -1,
@@ -2458,8 +2764,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Febrile cases of malaria",
@@ -2559,57 +2878,70 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "CH119",
+            "code": "CH120",
             "decimals": 1,
             "denominator": -1,
-            "denominatorDescription": "Febrile cases of malaria",
-            "description": "Proportion of febrile cases who received a rapid diagnostic test (RDT)",
-            "id": "wQpqVzvgQMO",
+            "denominatorDescription": "Suspected cases of malaria",
+            "description": "Proportion of suspected cases who received a RDT",
+            "id": "vjh4Sjq3i2r",
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] CH119 - Febrile cased tested by RDT (%)",
+            "name": "[CONFIG] CH120 - Suspected cases tested by RDT (%)",
             "numerator": -1,
-            "numeratorDescription": "Febrile cases who received a RDT",
+            "numeratorDescription": "Suspected cases who received a RDT",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
-            "shortName": "Febrile cased tested by RDT (%)",
+            "shortName": "Suspected cases tested by RDT (%)",
             "translations": [
                 {
-                    "locale": "pt",
+                    "locale": "pt_BR",
                     "property": "NAME",
-                    "value": "CH119 - Casos febris testados com TDR (%)"
+                    "value": "CH120 - Casos suspeitos testados por TDR (%)"
                 },
                 {
                     "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Casos febris de malária"
+                    "value": "Casos suspeitos de malária"
                 },
                 {
                     "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "CH119 - Caso febril testado com TDR (%)"
-                },
-                {
-                    "locale": "pt",
                     "property": "SHORT_NAME",
-                    "value": "Casos febris testados com TDR (%)"
+                    "value": "Casos suspeitos testados por RDT (%)"
                 },
                 {
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Casos febris de malária"
+                    "value": "Casos suspeitos de malária"
                 },
                 {
-                    "locale": "pt_BR",
+                    "locale": "pt",
                     "property": "SHORT_NAME",
-                    "value": "Casos febris testados com TDR (%)"
+                    "value": "Casos suspeitos testados por RDT (%)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH120 - Casos suspeitos testados por TDR (%)"
                 }
             ]
         },
@@ -2632,8 +2964,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Suspected cases of malaria",
@@ -2738,57 +3083,70 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "CH120",
+            "code": "CH121",
             "decimals": 1,
             "denominator": -1,
-            "denominatorDescription": "Suspected cases of malaria",
-            "description": "Proportion of suspected cases who received a RDT",
-            "id": "vjh4Sjq3i2r",
+            "denominatorDescription": "Febrile cased tested by RDT",
+            "description": "Malaria RDT positivity rate",
+            "id": "mDsgp6NtJKQ",
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] CH120 - Suspected cases tested by RDT (%)",
+            "name": "[CONFIG] CH121 - Malaria RDT positivity rate(%)",
             "numerator": -1,
-            "numeratorDescription": "Suspected cases who received a RDT",
+            "numeratorDescription": "Confirmed malaria cases",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
-            "shortName": "Suspected cases tested by RDT (%)",
+            "shortName": "Malaria RDT positivity rate(%)",
             "translations": [
                 {
-                    "locale": "pt_BR",
+                    "locale": "pt",
                     "property": "NAME",
-                    "value": "CH120 - Casos suspeitos testados por TDR (%)"
+                    "value": "CH121 - Taxa de positividade TDR de malária (%)"
                 },
                 {
                     "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Casos suspeitos de malária"
+                    "value": "Casos febris testados por RDT"
                 },
                 {
                     "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Casos suspeitos testados por RDT (%)"
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Casos confirmados de malária"
                 },
                 {
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Casos suspeitos de malária"
+                    "value": "Casos febris testados por RDT"
                 },
                 {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Casos suspeitos testados por RDT (%)"
-                },
-                {
-                    "locale": "pt",
+                    "locale": "pt_BR",
                     "property": "NAME",
-                    "value": "CH120 - Casos suspeitos testados por TDR (%)"
+                    "value": "CH121 - Taxa de positividade TDR de malária (%)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Casos confirmados de malária"
                 }
             ]
         },
@@ -2811,8 +3169,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Confirmed malaria cases",
@@ -2922,63 +3293,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "CH121",
-            "decimals": 1,
-            "denominator": -1,
-            "denominatorDescription": "Febrile cased tested by RDT",
-            "description": "Malaria RDT positivity rate",
-            "id": "mDsgp6NtJKQ",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] CH121 - Malaria RDT positivity rate(%)",
-            "numerator": -1,
-            "numeratorDescription": "Confirmed malaria cases",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Malaria RDT positivity rate(%)",
-            "translations": [
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "CH121 - Taxa de positividade TDR de malária (%)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Casos febris testados por RDT"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Casos confirmados de malária"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Casos febris testados por RDT"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "CH121 - Taxa de positividade TDR de malária (%)"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Casos confirmados de malária"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "CH122",
             "decimals": 1,
             "denominator": -1,
@@ -2995,8 +3309,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Malaria cases receiving 1st line anti-malarial (%)",
@@ -3052,8 +3379,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Children referred with danger signs (%)",
@@ -3119,8 +3459,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Suspected children referred after rectal AS (%)",
@@ -3269,6 +3622,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-11-22T00:00:00.000",
                     "subscribed": false,
@@ -3323,6 +3677,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -3339,8 +3694,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -3466,6 +3834,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-11-22T00:00:00.000",
                     "subscribed": false,
@@ -3520,6 +3889,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -3536,8 +3906,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -3547,13 +3930,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "3009509",
-        "DHIS2Version": "2.39.0",
+        "DHIS2Build": "db15b78",
+        "DHIS2Version": "2.40.2",
         "code": "CHIS_AGG_ICCM",
         "description": "CHIS Integrated Community Case Management (dashboard)",
-        "lastUpdated": "20230202T144110",
+        "healthAreaCode": "CHIS",
+        "healthAreaName": "Community Health",
+        "lastUpdated": "20231219T082205",
         "locale": "en",
-        "name": "CHIS_AGG_ICCM_DSH_DHIS2.39.0-en",
+        "name": "CHIS_AGG_ICCM_DSH_DHIS2.40.2-en",
         "type": "DSH",
         "version": ""
     },
@@ -3567,8 +3952,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -3583,8 +3981,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -3592,15 +4003,28 @@
         },
         {
             "attributeValues": [],
-            "code": "CHIS_AGG_CAPTURE",
+            "code": "CHIS_AGG_DATA_CAPTURE",
             "id": "JkwQIpjzPVL",
             "managedGroups": [],
             "name": "CHIS capture",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -3612,11 +4036,25 @@
             "authorities": [],
             "id": "nCNR71ZbTHK",
             "name": "Package User Role",
+            "restrictions": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -3624,6 +4062,11 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Rôle d'utilisateur du package"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Rol de Usuario para Administrador de Paquetes"
                 }
             ]
         }
@@ -3645,7 +4088,6 @@
             "selfRegistered": false,
             "surname": "admin",
             "teiSearchOrganisationUnits": [],
-            "twoFA": false,
             "userRoles": [
                 {
                     "id": "nCNR71ZbTHK"
@@ -3655,165 +4097,6 @@
         }
     ],
     "visualizations": [
-        {
-            "aggregationType": "DEFAULT",
-            "attributeValues": [],
-            "axes": [
-                {
-                    "index": 0,
-                    "title": {
-                        "text": "# of alerts/events"
-                    },
-                    "type": "RANGE"
-                },
-                {
-                    "index": 1,
-                    "title": {
-                        "text": "Reporting units"
-                    },
-                    "type": "DOMAIN"
-                }
-            ],
-            "categoryDimensions": [],
-            "categoryOptionGroupSetDimensions": [],
-            "colSubTotals": false,
-            "colTotals": false,
-            "columnDimensions": [
-                "dx"
-            ],
-            "completedOnly": false,
-            "cumulativeValues": false,
-            "dataDimensionItems": [
-                {
-                    "dataDimensionItemType": "INDICATOR",
-                    "indicator": {
-                        "id": "amerCE5XUF8"
-                    }
-                }
-            ],
-            "dataElementGroupSetDimensions": [],
-            "digitGroupSeparator": "SPACE",
-            "displayDensity": "NORMAL",
-            "filterDimensions": [
-                "pe",
-                "ou"
-            ],
-            "fixColumnHeaders": false,
-            "fixRowHeaders": false,
-            "fontSize": "NORMAL",
-            "fontStyle": {},
-            "hideEmptyColumns": false,
-            "hideEmptyRowItems": "NONE",
-            "hideEmptyRows": false,
-            "hideLegend": true,
-            "hideSubtitle": true,
-            "hideTitle": false,
-            "id": "VnqzqROXVCl",
-            "itemOrganisationUnitGroups": [],
-            "legend": {
-                "showKey": false
-            },
-            "name": "CH - ICCM - Children consultations",
-            "noSpaceBetweenColumns": false,
-            "optionalAxes": [],
-            "organisationUnitGroupSetDimensions": [],
-            "organisationUnitLevels": [],
-            "organisationUnits": [],
-            "percentStackedValues": false,
-            "periods": [],
-            "regression": false,
-            "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": true,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
-            "reportingParams": {
-                "grandParentOrganisationUnit": false,
-                "organisationUnit": false,
-                "parentOrganisationUnit": false,
-                "reportingPeriod": false
-            },
-            "rowDimensions": [],
-            "rowSubTotals": false,
-            "rowTotals": false,
-            "seriesKey": {
-                "hidden": true
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
-                "users": {}
-            },
-            "showData": true,
-            "showDimensionLabels": false,
-            "showHierarchy": false,
-            "skipRounding": false,
-            "sortOrder": 0,
-            "subscribers": [],
-            "topLimit": 0,
-            "translations": [
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "CH - ICCM - Consultas de crianças"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "CH - ICCM - Consultas de crianças"
-                }
-            ],
-            "type": "SINGLE_VALUE",
-            "userOrganisationUnit": true,
-            "userOrganisationUnitChildren": false,
-            "userOrganisationUnitGrandChildren": false,
-            "yearlySeries": []
-        },
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
@@ -3849,6 +4132,7 @@
             "hideLegend": false,
             "hideSubtitle": false,
             "hideTitle": false,
+            "icons": [],
             "id": "mzOcITXyZfh",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -3933,8 +4217,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -3946,6 +4243,179 @@
             "topLimit": 0,
             "translations": [],
             "type": "STACKED_AREA",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "# of alerts/events"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "Reporting units"
+                    },
+                    "type": "DOMAIN"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "amerCE5XUF8"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "pe",
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": true,
+            "hideSubtitle": true,
+            "hideTitle": false,
+            "icons": [],
+            "id": "VnqzqROXVCl",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "CH - ICCM - Children consultations",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "seriesKey": {
+                "hidden": true
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH - ICCM - Consultas de crianças"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH - ICCM - Consultas de crianças"
+                }
+            ],
+            "type": "SINGLE_VALUE",
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -4010,6 +4480,7 @@
             "hideLegend": false,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "X9xdzAhyX9N",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -4103,8 +4574,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -4165,6 +4649,167 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "rMjXPTw65om"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "FpnMrKLkmAo",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "CH - ICCM - Children with SAM",
+            "noSpaceBetweenColumns": true,
+            "optionalAxes": [
+                {
+                    "axis": 1,
+                    "dimensionalItem": "EZ2Bwxhy9Nz"
+                }
+            ],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH - ICCM - Crianças com Desnutrição Aguda Grave"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH - ICCM - Crianças com Desnutrição Aguda Grave"
+                }
+            ],
+            "type": "SINGLE_VALUE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
             "axes": [
                 {
                     "index": 0,
@@ -4215,6 +4860,7 @@
             "hideLegend": true,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "b1iRAXocXFT",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -4292,8 +4938,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -4379,6 +5038,7 @@
             "hideLegend": false,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "x35MFtyWMjK",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -4458,8 +5118,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -4514,153 +5187,6 @@
             "type": "LINE",
             "userOrganisationUnit": false,
             "userOrganisationUnitChildren": true,
-            "userOrganisationUnitGrandChildren": false,
-            "yearlySeries": []
-        },
-        {
-            "aggregationType": "DEFAULT",
-            "attributeValues": [],
-            "categoryDimensions": [],
-            "categoryOptionGroupSetDimensions": [],
-            "colSubTotals": false,
-            "colTotals": false,
-            "columnDimensions": [
-                "dx"
-            ],
-            "completedOnly": false,
-            "cumulativeValues": false,
-            "dataDimensionItems": [
-                {
-                    "dataDimensionItemType": "INDICATOR",
-                    "indicator": {
-                        "id": "rMjXPTw65om"
-                    }
-                }
-            ],
-            "dataElementGroupSetDimensions": [],
-            "digitGroupSeparator": "SPACE",
-            "displayDensity": "NORMAL",
-            "filterDimensions": [
-                "ou",
-                "pe"
-            ],
-            "fixColumnHeaders": false,
-            "fixRowHeaders": false,
-            "fontSize": "NORMAL",
-            "hideEmptyColumns": false,
-            "hideEmptyRowItems": "NONE",
-            "hideEmptyRows": false,
-            "hideLegend": false,
-            "hideSubtitle": false,
-            "hideTitle": false,
-            "id": "FpnMrKLkmAo",
-            "itemOrganisationUnitGroups": [],
-            "legend": {
-                "showKey": false
-            },
-            "name": "CH - ICCM - Children with SAM",
-            "noSpaceBetweenColumns": true,
-            "optionalAxes": [
-                {
-                    "axis": 1,
-                    "dimensionalItem": "EZ2Bwxhy9Nz"
-                }
-            ],
-            "organisationUnitGroupSetDimensions": [],
-            "organisationUnitLevels": [],
-            "organisationUnits": [],
-            "percentStackedValues": false,
-            "periods": [],
-            "regression": false,
-            "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": true,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
-            "reportingParams": {
-                "grandParentOrganisationUnit": false,
-                "organisationUnit": false,
-                "parentOrganisationUnit": false,
-                "reportingPeriod": false
-            },
-            "rowDimensions": [],
-            "rowSubTotals": false,
-            "rowTotals": false,
-            "seriesKey": {
-                "hidden": false
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
-                "users": {}
-            },
-            "showData": true,
-            "showDimensionLabels": false,
-            "showHierarchy": false,
-            "skipRounding": false,
-            "sortOrder": 0,
-            "subscribers": [],
-            "topLimit": 0,
-            "translations": [
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "CH - ICCM - Crianças com Desnutrição Aguda Grave"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "CH - ICCM - Crianças com Desnutrição Aguda Grave"
-                }
-            ],
-            "type": "SINGLE_VALUE",
-            "userOrganisationUnit": true,
-            "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
         },
@@ -4723,6 +5249,7 @@
             "hideLegend": false,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "eSyx4FRVRKu",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -4816,8 +5343,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -4908,6 +5448,7 @@
             "hideLegend": true,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "n6kKIvuK97Z",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -4985,8 +5526,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -5067,6 +5621,7 @@
             "hideLegend": true,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "WoWF3vH63NS",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -5144,8 +5699,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -5205,6 +5773,7 @@
             "hideLegend": false,
             "hideSubtitle": false,
             "hideTitle": false,
+            "icons": [],
             "id": "ZHhgNelBZLb",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -5298,8 +5867,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -5374,6 +5956,7 @@
             "hideLegend": false,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "q5HlLNFAaDN",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -5458,8 +6041,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -5560,6 +6156,7 @@
             "hideLegend": true,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "RIqw0xG6Wgq",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -5637,8 +6234,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -5690,6 +6300,7 @@
             "hideLegend": false,
             "hideSubtitle": false,
             "hideTitle": false,
+            "icons": [],
             "id": "q0kMRazxFtQ",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -5774,8 +6385,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -5844,6 +6468,7 @@
             "hideLegend": false,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "yoMx90S0P1t",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -5923,8 +6548,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -6020,6 +6658,7 @@
             "hideLegend": false,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "Wpo1iVp5vrv",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -6104,8 +6743,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -6218,6 +6870,7 @@
             "hideLegend": false,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "oa7wCw3AQl9",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -6315,8 +6968,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -6406,6 +7072,7 @@
             "hideLegend": false,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "GoLhijyzemP",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -6494,8 +7161,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -6596,6 +7276,7 @@
             "hideLegend": true,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "EuCLxDztmOH",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -6673,8 +7354,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,

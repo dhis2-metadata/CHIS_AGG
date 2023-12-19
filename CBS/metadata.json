@@ -16,7 +16,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -148,11 +148,6 @@
                     "value": "standart"
                 },
                 {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
-                },
-                {
                     "locale": "cs",
                     "property": "SHORT_NAME",
                     "value": "výchozí"
@@ -161,6 +156,11 @@
                     "locale": "ru",
                     "property": "SHORT_NAME",
                     "value": "по умолчанию"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Padrao"
                 },
                 {
                     "locale": "nb",
@@ -189,7 +189,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -379,7 +379,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rwrw----",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -698,14 +698,16 @@
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
                 "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
                     "L4joP9CDK2q": {
                         "access": "rw------",
-                        "displayName": "CHIS admin",
                         "id": "L4joP9CDK2q"
                     },
                     "ctw1WXDZHLQ": {
                         "access": "r-------",
-                        "displayName": "CHIS access",
                         "id": "ctw1WXDZHLQ"
                     }
                 },
@@ -754,8 +756,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Community-based surveillance",
@@ -801,8 +816,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Events/alert case detected",
@@ -868,8 +896,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Events/alert case detected referred",
@@ -935,8 +976,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "CBS alerts with timely response",
@@ -992,8 +1046,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "CBS alerts",
@@ -1059,8 +1126,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Communities in action after alerts",
@@ -1116,8 +1196,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Communities with alert(s)",
@@ -1180,15 +1273,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Lcl68zMgj2y"
-                    },
-                    "dataSet": {
-                        "id": "zEqAU7jQVxQ"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "emcfVqQJ2WN"
+                        "id": "YrhNwFFunSl"
                     },
                     "dataSet": {
                         "id": "zEqAU7jQVxQ"
@@ -1204,6 +1289,14 @@
                 },
                 {
                     "dataElement": {
+                        "id": "Lcl68zMgj2y"
+                    },
+                    "dataSet": {
+                        "id": "zEqAU7jQVxQ"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "q8MNn3tOHKf"
                     },
                     "dataSet": {
@@ -1212,7 +1305,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "YrhNwFFunSl"
+                        "id": "emcfVqQJ2WN"
                     },
                     "dataSet": {
                         "id": "zEqAU7jQVxQ"
@@ -1236,21 +1329,18 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-------",
+                "public": "r-r-----",
                 "userGroups": {
                     "JkwQIpjzPVL": {
                         "access": "r-rw----",
-                        "displayName": "CHIS capture",
                         "id": "JkwQIpjzPVL"
                     },
                     "L4joP9CDK2q": {
-                        "access": "rwr-----",
-                        "displayName": "CHIS admin",
+                        "access": "rw------",
                         "id": "L4joP9CDK2q"
                     },
                     "ctw1WXDZHLQ": {
                         "access": "r-r-----",
-                        "displayName": "CHIS access",
                         "id": "ctw1WXDZHLQ"
                     }
                 },
@@ -1311,8 +1401,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -1427,6 +1530,11 @@
                     "value": "نسبة"
                 },
                 {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Porcentaje"
+                },
+                {
                     "locale": "ar_IQ",
                     "property": "NAME",
                     "value": "نسبة"
@@ -1435,11 +1543,6 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Pourcentage"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Por 100"
                 },
                 {
                     "locale": "ar_EG",
@@ -1514,8 +1617,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Events/alert case detected",
@@ -1641,8 +1757,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "CBS alerts",
@@ -1742,6 +1871,66 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "CH175",
+            "decimals": 1,
+            "denominator": "#{emcfVqQJ2WN}",
+            "denominatorDescription": "Communities with 1+ alert (per month)",
+            "description": "Proportion of communities in which action was taken following an alert (per month)",
+            "id": "e9Dwo2gxrPA",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "CH175 - Communities in action after alerts (%)",
+            "numerator": "#{t8PPECpS8B3}",
+            "numeratorDescription": "Communities with action was taken after an alert",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Communities in action after alerts (%)",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Comunidades em acção depois de alertas (%)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "CH175 - Comunidades em acção depois de alertas (%)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "CH175 - Comunidades em acção depois de alertas (%)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Comunidades em acção depois de alertas (%)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "CH175b",
             "decimals": 0,
             "denominator": "1",
@@ -1758,8 +1947,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Communities with alerts",
@@ -1823,53 +2025,6 @@
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "CH175",
-            "decimals": 1,
-            "denominator": "#{emcfVqQJ2WN}",
-            "denominatorDescription": "Communities with 1+ alert (per month)",
-            "description": "Proportion of communities in which action was taken following an alert (per month)",
-            "id": "e9Dwo2gxrPA",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "CH175 - Communities in action after alerts (%)",
-            "numerator": "#{t8PPECpS8B3}",
-            "numeratorDescription": "Communities with action was taken after an alert",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Communities in action after alerts (%)",
-            "translations": [
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Comunidades em acção depois de alertas (%)"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "CH175 - Comunidades em acção depois de alertas (%)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "CH175 - Comunidades em acção depois de alertas (%)"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Comunidades em acção depois de alertas (%)"
                 }
             ]
         }
@@ -1984,6 +2139,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-11-22T00:00:00.000",
                     "subscribed": false,
@@ -2038,6 +2194,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -2054,8 +2211,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -2068,13 +2238,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "3009509",
-        "DHIS2Version": "2.39.0",
+        "DHIS2Build": "01ed9e0",
+        "DHIS2Version": "2.39.3.1",
         "code": "CHIS_AGG_CBS",
         "description": "CHIS Community-based Surveillance",
-        "lastUpdated": "20230206T235716",
+        "healthAreaCode": "CHIS",
+        "healthAreaName": "Community Health",
+        "lastUpdated": "20231219T095440",
         "locale": "en",
-        "name": "CHIS_AGG_CBS_AGG_DHIS2.39.0-en",
+        "name": "CHIS_AGG_CBS_AGG_DHIS2.39.3.1-en",
         "type": "AGG",
         "version": ""
     },
@@ -2145,8 +2317,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -2161,8 +2346,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -2170,15 +2368,28 @@
         },
         {
             "attributeValues": [],
-            "code": "CHIS_AGG_CAPTURE",
+            "code": "CHIS_AGG_DATA_CAPTURE",
             "id": "JkwQIpjzPVL",
             "managedGroups": [],
             "name": "CHIS capture",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -2193,8 +2404,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -2202,6 +2426,11 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Rôle d'utilisateur du package"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Rol de Usuario para Administrador de Paquetes"
                 }
             ]
         }
@@ -2242,8 +2471,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -2260,10 +2502,10 @@
             ],
             "validationRules": [
                 {
-                    "id": "yWpoCqa39DD"
+                    "id": "tJUNurztWS8"
                 },
                 {
-                    "id": "tJUNurztWS8"
+                    "id": "yWpoCqa39DD"
                 },
                 {
                     "id": "MJlehZ7czOn"
@@ -2301,8 +2543,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -2358,8 +2613,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -2394,8 +2662,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -2554,8 +2835,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -2714,8 +3008,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -2870,8 +3177,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -3057,8 +3377,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,

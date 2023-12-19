@@ -5,6 +5,225 @@
             "attributeValues": [],
             "categoryOptions": [
                 {
+                    "id": "rRvTTuM24hA"
+                },
+                {
+                    "id": "ttrGjeLc0jU"
+                },
+                {
+                    "id": "IKPYRhVFuP4"
+                },
+                {
+                    "id": "JUKadOcJMnY"
+                },
+                {
+                    "id": "qCgNcJuXSJn"
+                },
+                {
+                    "id": "blFrh57jcPb"
+                },
+                {
+                    "id": "I0kOLNtdqRM"
+                }
+            ],
+            "code": "ENERGY_FOR_COOKING",
+            "dataDimension": false,
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "mFpjo3DIcGV",
+            "name": "Energy for cooking",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Energy for cooking",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Energia para cozinhar"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Énergie pour cuisiner"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Energie na vaření"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Energia para cozinhar"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "Slr0NRpWB4M"
+                },
+                {
+                    "id": "wQaFqqzIh99"
+                },
+                {
+                    "id": "cI3iV16Og0p"
+                },
+                {
+                    "id": "I0kOLNtdqRM"
+                }
+            ],
+            "code": "ENERGY_FOR_HEATING",
+            "dataDimension": false,
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "DhqWWGB2tU4",
+            "name": "Energy for heating",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Energy for heating",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Energia para aquecimento"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Energia para aquecimento"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Energie na vytápění"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Énergie pour le chauffage"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "mp4N4pwMfNe"
+                },
+                {
+                    "id": "ZIoFVwT5Vdv"
+                },
+                {
+                    "id": "OVFnEZ1SZem"
+                },
+                {
+                    "id": "SV6wZgAzf5m"
+                },
+                {
+                    "id": "o7C7wiXULfv"
+                },
+                {
+                    "id": "Kt6MeyD5CiG"
+                },
+                {
+                    "id": "n68yNFl0iaz"
+                },
+                {
+                    "id": "PZQTlVk4Qra"
+                },
+                {
+                    "id": "I0kOLNtdqRM"
+                }
+            ],
+            "code": "ENERGY_FOR_LIGHTING",
+            "dataDimension": false,
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "EnDwWeQ4asm",
+            "name": "Energy for lighting",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Energy for lighting",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Energia para iluminação"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Energia para iluminação"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Energie pro osvětlení"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Énergie pour l'éclairage"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
                     "id": "xYerKDKCefk"
                 }
             ],
@@ -16,7 +235,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -148,11 +367,6 @@
                     "value": "standart"
                 },
                 {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
-                },
-                {
                     "locale": "cs",
                     "property": "SHORT_NAME",
                     "value": "výchozí"
@@ -161,6 +375,11 @@
                     "locale": "ru",
                     "property": "SHORT_NAME",
                     "value": "по умолчанию"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Padrao"
                 },
                 {
                     "locale": "nb",
@@ -173,45 +392,40 @@
                     "value": "الافتراضي"
                 }
             ]
-        },
+        }
+    ],
+    "categoryCombos": [
         {
-            "attributeValues": [],
-            "categoryOptions": [
+            "categories": [
                 {
-                    "id": "rRvTTuM24hA"
-                },
-                {
-                    "id": "ttrGjeLc0jU"
-                },
-                {
-                    "id": "IKPYRhVFuP4"
-                },
-                {
-                    "id": "JUKadOcJMnY"
-                },
-                {
-                    "id": "qCgNcJuXSJn"
-                },
-                {
-                    "id": "blFrh57jcPb"
-                },
-                {
-                    "id": "I0kOLNtdqRM"
+                    "id": "mFpjo3DIcGV"
                 }
             ],
             "code": "ENERGY_FOR_COOKING",
-            "dataDimension": false,
             "dataDimensionType": "DISAGGREGATION",
-            "id": "mFpjo3DIcGV",
+            "id": "bvAy8081dUT",
             "name": "Energy for cooking",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
-            "shortName": "Energy for cooking",
+            "skipTotal": false,
             "translations": [
                 {
                     "locale": "pt_BR",
@@ -236,34 +450,36 @@
             ]
         },
         {
-            "attributeValues": [],
-            "categoryOptions": [
+            "categories": [
                 {
-                    "id": "Slr0NRpWB4M"
-                },
-                {
-                    "id": "wQaFqqzIh99"
-                },
-                {
-                    "id": "cI3iV16Og0p"
-                },
-                {
-                    "id": "I0kOLNtdqRM"
+                    "id": "DhqWWGB2tU4"
                 }
             ],
             "code": "ENERGY_FOR_HEATING",
-            "dataDimension": false,
             "dataDimensionType": "DISAGGREGATION",
-            "id": "DhqWWGB2tU4",
+            "id": "KaPBkMToli1",
             "name": "Energy for heating",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
-            "shortName": "Energy for heating",
+            "skipTotal": false,
             "translations": [
                 {
                     "locale": "pt_BR",
@@ -288,49 +504,36 @@
             ]
         },
         {
-            "attributeValues": [],
-            "categoryOptions": [
+            "categories": [
                 {
-                    "id": "mp4N4pwMfNe"
-                },
-                {
-                    "id": "ZIoFVwT5Vdv"
-                },
-                {
-                    "id": "OVFnEZ1SZem"
-                },
-                {
-                    "id": "SV6wZgAzf5m"
-                },
-                {
-                    "id": "o7C7wiXULfv"
-                },
-                {
-                    "id": "Kt6MeyD5CiG"
-                },
-                {
-                    "id": "n68yNFl0iaz"
-                },
-                {
-                    "id": "PZQTlVk4Qra"
-                },
-                {
-                    "id": "I0kOLNtdqRM"
+                    "id": "EnDwWeQ4asm"
                 }
             ],
             "code": "ENERGY_FOR_LIGHTING",
-            "dataDimension": false,
             "dataDimensionType": "DISAGGREGATION",
-            "id": "EnDwWeQ4asm",
+            "id": "zRMTXWBkA0p",
             "name": "Energy for lighting",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
-            "shortName": "Energy for lighting",
+            "skipTotal": false,
             "translations": [
                 {
                     "locale": "pt_BR",
@@ -353,9 +556,7 @@
                     "value": "Énergie pour l'éclairage"
                 }
             ]
-        }
-    ],
-    "categoryCombos": [
+        },
         {
             "categories": [
                 {
@@ -369,7 +570,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -449,129 +650,6 @@
                     "locale": "ar_SD",
                     "property": "NAME",
                     "value": "الافتراضي"
-                }
-            ]
-        },
-        {
-            "categories": [
-                {
-                    "id": "mFpjo3DIcGV"
-                }
-            ],
-            "code": "ENERGY_FOR_COOKING",
-            "dataDimensionType": "DISAGGREGATION",
-            "id": "bvAy8081dUT",
-            "name": "Energy for cooking",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "skipTotal": false,
-            "translations": [
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Energia para cozinhar"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Énergie pour cuisiner"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Energie na vaření"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Energia para cozinhar"
-                }
-            ]
-        },
-        {
-            "categories": [
-                {
-                    "id": "DhqWWGB2tU4"
-                }
-            ],
-            "code": "ENERGY_FOR_HEATING",
-            "dataDimensionType": "DISAGGREGATION",
-            "id": "KaPBkMToli1",
-            "name": "Energy for heating",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "skipTotal": false,
-            "translations": [
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Energia para aquecimento"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Energia para aquecimento"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Energie na vytápění"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Énergie pour le chauffage"
-                }
-            ]
-        },
-        {
-            "categories": [
-                {
-                    "id": "EnDwWeQ4asm"
-                }
-            ],
-            "code": "ENERGY_FOR_LIGHTING",
-            "dataDimensionType": "DISAGGREGATION",
-            "id": "zRMTXWBkA0p",
-            "name": "Energy for lighting",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "skipTotal": false,
-            "translations": [
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Energia para iluminação"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Energia para iluminação"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Energie pro osvětlení"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Énergie pour l'éclairage"
                 }
             ]
         }
@@ -725,92 +803,36 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "bjDvmb4bfuf"
+                "id": "bvAy8081dUT"
             },
             "categoryOptions": [
                 {
-                    "id": "xYerKDKCefk"
+                    "id": "ttrGjeLc0jU"
                 }
             ],
-            "code": "DEFAULT",
-            "id": "HllvX50cXC0",
+            "id": "BTb6RndutmF",
             "ignoreApproval": false,
-            "name": "default",
+            "name": "Electric stove",
             "translations": [
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
                 {
                     "locale": "cs",
                     "property": "NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "по умолчанию"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Padrao"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Putus berobat/default"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "default"
+                    "value": "Elektrický sporák"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "défaut"
+                    "value": "Cuisinière électrique"
                 },
                 {
-                    "locale": "nb",
+                    "locale": "pt",
                     "property": "NAME",
-                    "value": "standard"
+                    "value": "Fogão eléctrico"
                 },
                 {
-                    "locale": "ar_SD",
+                    "locale": "pt_BR",
                     "property": "NAME",
-                    "value": "الافتراضي"
+                    "value": "Fogão eléctrico"
                 }
             ]
         },
@@ -853,42 +875,6 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "bvAy8081dUT"
-            },
-            "categoryOptions": [
-                {
-                    "id": "ttrGjeLc0jU"
-                }
-            ],
-            "id": "BTb6RndutmF",
-            "ignoreApproval": false,
-            "name": "Electric stove",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Elektrický sporák"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Cuisinière électrique"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Fogão eléctrico"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Fogão eléctrico"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
                 "id": "KaPBkMToli1"
             },
             "categoryOptions": [
@@ -915,36 +901,36 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "bvAy8081dUT"
+                "id": "zRMTXWBkA0p"
             },
             "categoryOptions": [
                 {
-                    "id": "blFrh57jcPb"
+                    "id": "PZQTlVk4Qra"
                 }
             ],
-            "id": "HClI7z8jjxd",
+            "id": "TkxUnByLSEQ",
             "ignoreApproval": false,
-            "name": "Liquid fuel (not kerosene)",
+            "name": "LPG lamp",
             "translations": [
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Combustível líquido (não querosene)"
-                },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Carburant liquide (pas de kérosène)"
+                    "value": "Lampe GPL"
                 },
                 {
                     "locale": "pt",
                     "property": "NAME",
-                    "value": "Combustível líquido (não querosene)"
+                    "value": "Lâmpada LPG"
                 },
                 {
                     "locale": "cs",
                     "property": "NAME",
-                    "value": "Kapalné palivo (ne petrolej)"
+                    "value": "LPG lampa"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Lâmpada LPG"
                 }
             ]
         },
@@ -987,36 +973,36 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "zRMTXWBkA0p"
+                "id": "bvAy8081dUT"
             },
             "categoryOptions": [
                 {
-                    "id": "PZQTlVk4Qra"
+                    "id": "blFrh57jcPb"
                 }
             ],
-            "id": "TkxUnByLSEQ",
+            "id": "HClI7z8jjxd",
             "ignoreApproval": false,
-            "name": "LPG lamp",
+            "name": "Liquid fuel (not kerosene)",
             "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Combustível líquido (não querosene)"
+                },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Lampe GPL"
+                    "value": "Carburant liquide (pas de kérosène)"
                 },
                 {
                     "locale": "pt",
                     "property": "NAME",
-                    "value": "Lâmpada LPG"
+                    "value": "Combustível líquido (não querosene)"
                 },
                 {
                     "locale": "cs",
                     "property": "NAME",
-                    "value": "LPG lampa"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Lâmpada LPG"
+                    "value": "Kapalné palivo (ne petrolej)"
                 }
             ]
         },
@@ -1067,6 +1053,97 @@
                 }
             ],
             "id": "D6U2VJd3y5t",
+            "ignoreApproval": false,
+            "name": "Other",
+            "translations": [
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Otro"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Бошқалар"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Outros"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "أخرى"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "أخرى"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Другой"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "أخرى"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Outro"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "أخرى"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Lain-lain"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Ostatní"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Autre"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Andre"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Boshqalar"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Otro"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "zRMTXWBkA0p"
+            },
+            "categoryOptions": [
+                {
+                    "id": "I0kOLNtdqRM"
+                }
+            ],
+            "id": "VfNOkbDnHKG",
             "ignoreApproval": false,
             "name": "Other",
             "translations": [
@@ -1210,97 +1287,6 @@
                     "locale": "pt",
                     "property": "NAME",
                     "value": "Outros"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Ostatní"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Autre"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Andre"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Boshqalar"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Otro"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "zRMTXWBkA0p"
-            },
-            "categoryOptions": [
-                {
-                    "id": "I0kOLNtdqRM"
-                }
-            ],
-            "id": "VfNOkbDnHKG",
-            "ignoreApproval": false,
-            "name": "Other",
-            "translations": [
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "Otro"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Бошқалар"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Outros"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "أخرى"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "أخرى"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "Другой"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "أخرى"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Outro"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "أخرى"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Lain-lain"
                 },
                 {
                     "locale": "cs",
@@ -1508,9 +1494,278 @@
                     "value": "Tocha ou lanterna"
                 }
             ]
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "categoryOptions": [
+                {
+                    "id": "xYerKDKCefk"
+                }
+            ],
+            "code": "DEFAULT",
+            "id": "HllvX50cXC0",
+            "ignoreApproval": false,
+            "name": "default",
+            "translations": [
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Стандарт"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "výchozí"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "по умолчанию"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Padrao"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Padrão"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "standart"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Putus berobat/default"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "défaut"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "standard"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                }
+            ]
         }
     ],
-    "categoryOptionGroupSets": [],
+    "categoryOptionGroupSets": [
+        {
+            "attributeValues": [],
+            "categoryOptionGroups": [
+                {
+                    "id": "KODd9zpxeVK"
+                }
+            ],
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "rwX0cKdGc6T",
+            "name": "Pregnant women/others",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Pregnant women/others",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Gestantes/outros"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Gravide kvinner/andre"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Беременные женщины/другие"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "النساء الحوامل / أخرى"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Gestantes/outros"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "النساء الحوامل / أخري"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Femmes enceintes/autres"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "wanita hamil/lainnya"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Mujeres embarazadas/otros"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "النساء الحوامل / أخري"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Těhotné ženy / ostatní"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Mujeres embarazadas/otros"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "النساء الحوامل / أخري"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptionGroups": [
+                {
+                    "id": "KODd9zpxeVK"
+                }
+            ],
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "description": "Sex (Other/Unk)",
+            "id": "Ek6bXFaXjoe",
+            "name": "Sex (Other/Unk)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Sex (Other/Unk)",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Sexo (Outro/Desconhecido)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Sexo (Outro/Desconhecido)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Sexe (Autre/Inconnu)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Sexo (Outro/Desconhecido)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Pohlaví (jiné / neznámé)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Pohlaví (jiné / neznámé)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Sexo (Outro/Desconhecido)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Sexe (Autre/Inconnu)"
+                }
+            ]
+        }
+    ],
     "categoryOptionGroups": [
         {
             "attributeValues": [],
@@ -1525,8 +1780,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Category Options",
@@ -1546,8 +1814,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Other",
@@ -1703,6 +1984,395 @@
                     "value": "Outros"
                 }
             ]
+        },
+        {
+            "attributeValues": [],
+            "code": "F",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "bqoVhX2RfG4",
+            "name": "Female",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Female",
+            "translations": [
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Femenino"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Feminino"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "Женский"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Femenino"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Féminin"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "أنثى"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Feminino"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Женский"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Féminin"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "أنثى"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "M",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "EVYKU2fIc6G",
+            "name": "Male",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Male",
+            "translations": [
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Masculino"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Masculino"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Masculin"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "мужской"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "ذكر"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "ذكر"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Masculin"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "мужской"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Masculino"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Masculino"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataDimensionType": "ATTRIBUTE",
+            "id": "hbkemGxqKO4",
+            "name": "Pregnant women",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Pregnant women",
+            "translations": [
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Gravide kvinner"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "النساء الحوامل"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Femmes enceintes"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Těhotná žena"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "Mujeres embarazadas"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "النساء الحوامل"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Mujeres embarazadas"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Mujeres embarazadas"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "النساء الحوامل"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "النساء الحوامل"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Těhotná žena"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "النساء الحوامل"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "Gravide kvinner"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Femmes enceintes"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "النساء الحوامل"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "النساء الحوامل"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "النساء الحوامل"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Mujeres embarazadas"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "UNK_SEX",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "SZJNeRyrh22",
+            "name": "Unknown Sex",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Unk Sex",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Sexo Desconhecido"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Nezn. pohlaví"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Sexo Desconhecido"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Autre/sexe non connu"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Sexo desconhecido"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Neznámé pohlaví"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Autre/sexe non connu"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Sexo desconhecido"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الجنس مجهول"
+                }
+            ]
         }
     ],
     "categoryOptions": [
@@ -1715,8 +2385,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Battery-powered flashlight",
@@ -1742,8 +2425,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Biogas",
@@ -1779,8 +2475,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Biogas lamp",
@@ -1816,8 +2525,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Central heating",
@@ -1873,8 +2595,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Cookstove",
@@ -1923,230 +2658,6 @@
         },
         {
             "attributeValues": [],
-            "code": "DEFAULT",
-            "id": "xYerKDKCefk",
-            "name": "default",
-            "organisationUnits": [],
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rwrw----",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "default",
-            "translations": [
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Putus berobat/default"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "по умолчанию"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Padrao"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Putus berobat/default"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "по умолчанию"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Padrao"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "code": "ELECTRICITY",
-            "id": "mp4N4pwMfNe",
-            "name": "Electricity",
-            "organisationUnits": [],
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Electricity",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "Elektřina"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Électricité"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Electricidade"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Elektřina"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Electricidade"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Électricité"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Electricidade"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Electricidade"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
             "code": "ELECTRIC_STOVE",
             "id": "ttrGjeLc0jU",
             "name": "Electric stove",
@@ -2154,8 +2665,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Electric stove",
@@ -2204,6 +2728,76 @@
         },
         {
             "attributeValues": [],
+            "code": "ELECTRICITY",
+            "id": "mp4N4pwMfNe",
+            "name": "Electricity",
+            "organisationUnits": [],
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Electricity",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Elektřina"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Électricité"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Electricidade"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Elektřina"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Electricidade"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Électricité"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Electricidade"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Electricidade"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
             "code": "HEAT_PUMP",
             "id": "cI3iV16Og0p",
             "name": "Heat pump",
@@ -2211,8 +2805,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Heat pump",
@@ -2241,120 +2848,6 @@
         },
         {
             "attributeValues": [],
-            "code": "LIQUID_FUEL_NOT_KEROSENE",
-            "id": "blFrh57jcPb",
-            "name": "Liquid fuel (not kerosene)",
-            "organisationUnits": [],
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Liquid fuel (not kerosene)",
-            "translations": [
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Combustível líquido (não querosene)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Carburant liquide (pas de kérosène)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Combustível líquido (não querosene)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Carburant liquide (pas de kérosène)"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Combustível líquido (não querosene)"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Combustível líquido (não querosene)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "Kapalné palivo (ne petrolej)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Kapalné palivo (ne petrolej)"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "code": "LPG/COOKING_GAS",
-            "id": "qCgNcJuXSJn",
-            "name": "LPG/cooking gas",
-            "organisationUnits": [],
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "LPG/cooking gas",
-            "translations": [
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "LPG/gas de cozinha"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "LPG/plyn na vaření"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "LPG/gas de cozinha"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "LPG/plyn na vaření"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "GPL/gaz de cuisine"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "LPG/gas de cozinha"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "GPL/gaz de cuisine"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "LPG/gas de cozinha"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
             "code": "LPG_LAMP",
             "id": "PZQTlVk4Qra",
             "name": "LPG lamp",
@@ -2362,8 +2855,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "LPG lamp",
@@ -2412,6 +2918,146 @@
         },
         {
             "attributeValues": [],
+            "code": "LPG/COOKING_GAS",
+            "id": "qCgNcJuXSJn",
+            "name": "LPG/cooking gas",
+            "organisationUnits": [],
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "LPG/cooking gas",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "LPG/gas de cozinha"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "LPG/plyn na vaření"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "LPG/gas de cozinha"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "LPG/plyn na vaření"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "GPL/gaz de cuisine"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "LPG/gas de cozinha"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "GPL/gaz de cuisine"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "LPG/gas de cozinha"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "LIQUID_FUEL_NOT_KEROSENE",
+            "id": "blFrh57jcPb",
+            "name": "Liquid fuel (not kerosene)",
+            "organisationUnits": [],
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Liquid fuel (not kerosene)",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Combustível líquido (não querosene)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Carburant liquide (pas de kérosène)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Combustível líquido (não querosene)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Carburant liquide (pas de kérosène)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Combustível líquido (não querosene)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Combustível líquido (não querosene)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Kapalné palivo (ne petrolej)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Kapalné palivo (ne petrolej)"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
             "code": "MOBILE",
             "id": "SV6wZgAzf5m",
             "name": "Mobile",
@@ -2419,8 +3065,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Mobile",
@@ -2476,8 +3135,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Other",
@@ -2643,8 +3315,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Piped natural gas",
@@ -2700,8 +3385,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Rechargeable flashlight",
@@ -2757,8 +3455,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Solar",
@@ -2814,8 +3525,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Solar-powered",
@@ -2871,8 +3595,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-rw----",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-rw----",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-r-----",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Torch or lantern",
@@ -2916,6 +3653,173 @@
                     "locale": "pt",
                     "property": "NAME",
                     "value": "Tocha ou lanterna"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "DEFAULT",
+            "id": "xYerKDKCefk",
+            "name": "default",
+            "organisationUnits": [],
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-rw----",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "default",
+            "translations": [
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Стандарт"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "défaut"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "Putus berobat/default"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "výchozí"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "standard"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Padrão"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "Стандарт"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "défaut"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Padrão"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "по умолчанию"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Padrao"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "standart"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Putus berobat/default"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "standart"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "výchozí"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "по умолчанию"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Padrao"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "standard"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الافتراضي"
                 }
             ]
         }
@@ -3225,14 +4129,16 @@
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
                 "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
                     "L4joP9CDK2q": {
                         "access": "rw------",
-                        "displayName": "CHIS admin",
                         "id": "L4joP9CDK2q"
                     },
                     "ctw1WXDZHLQ": {
                         "access": "r-------",
-                        "displayName": "CHIS access",
                         "id": "ctw1WXDZHLQ"
                     }
                 },
@@ -3264,8 +4170,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Clean energy",
@@ -3296,8 +4215,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Households in the catchment area",
@@ -3348,8 +4280,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HHs relying on clean energy for cooking",
@@ -3374,8 +4319,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HHs relying on clean energy for lighting",
@@ -3400,8 +4358,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HHs relying on clean energy for heating",
@@ -3425,7 +4396,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "RLZtrCeBVvb"
+                        "id": "X1SS7rnQrXp"
                     },
                     "dataSet": {
                         "id": "YdQNSfKId3f"
@@ -3441,7 +4412,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "X1SS7rnQrXp"
+                        "id": "RLZtrCeBVvb"
                     },
                     "dataSet": {
                         "id": "YdQNSfKId3f"
@@ -3465,21 +4436,18 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-------",
+                "public": "r-r-----",
                 "userGroups": {
                     "JkwQIpjzPVL": {
                         "access": "r-rw----",
-                        "displayName": "CHIS capture",
                         "id": "JkwQIpjzPVL"
                     },
                     "L4joP9CDK2q": {
-                        "access": "rwr-----",
-                        "displayName": "CHIS admin",
+                        "access": "rw------",
                         "id": "L4joP9CDK2q"
                     },
                     "ctw1WXDZHLQ": {
                         "access": "r-r-----",
-                        "displayName": "CHIS access",
                         "id": "ctw1WXDZHLQ"
                     }
                 },
@@ -3576,8 +4544,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": []
@@ -3681,6 +4662,11 @@
                     "value": "نسبة"
                 },
                 {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Porcentaje"
+                },
+                {
                     "locale": "ar_IQ",
                     "property": "NAME",
                     "value": "نسبة"
@@ -3689,11 +4675,6 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Pourcentage"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Por 100"
                 },
                 {
                     "locale": "ar_EG",
@@ -3752,6 +4733,51 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "CH021",
+            "decimals": 1,
+            "denominator": "#{Fu5yaroCXiZ}",
+            "denominatorDescription": "Households in the catchment area",
+            "description": "Proportion of households with primary reliance on clean fuels and technologies for cooking",
+            "id": "UdwXSXMDEfc",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "CH021 - Households relying on clean energy for cooking (%)",
+            "numerator": "#{X1SS7rnQrXp}",
+            "numeratorDescription": "HHs that rely on clean fuels and tech for cooking",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "HH relying on clean energy for cooking (%)",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Domácnosti ve spádové oblasti"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "CH021b",
             "decimals": 0,
             "denominator": "1",
@@ -3768,8 +4794,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH relying on clean energy for cooking - Solar",
@@ -3855,8 +4894,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH clean energy for cooking - Electric stove",
@@ -3942,8 +4994,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH clean energy for cooking - Nat gas",
@@ -4029,8 +5094,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH clean energy for cooking - Biogas",
@@ -4116,8 +5194,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH clean energy for cooking - LPG",
@@ -4203,8 +5294,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH clean energy for cooking - Liquid fuel",
@@ -4290,8 +5394,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH clean energy for cooking - Other",
@@ -4376,32 +5493,65 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "CH021",
+            "code": "CH022",
             "decimals": 1,
             "denominator": "#{Fu5yaroCXiZ}",
             "denominatorDescription": "Households in the catchment area",
-            "description": "Proportion of households with primary reliance on clean fuels and technologies for cooking",
-            "id": "UdwXSXMDEfc",
+            "description": "Proportion of households with primary reliance on clean fuels and technologies for lighting",
+            "id": "qfnMPPcVJk9",
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "CH021 - Households relying on clean energy for cooking (%)",
-            "numerator": "#{X1SS7rnQrXp}",
-            "numeratorDescription": "HHs that rely on clean fuels and tech for cooking",
+            "name": "CH022 - Households relying on clean energy for lighting (%)",
+            "numerator": "#{puHDT353PHN}",
+            "numeratorDescription": "HHs that rely on clean fuels and tech for lighting",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
-            "shortName": "HH relying on clean energy for cooking (%)",
+            "shortName": "HH relying on clean energy for lighting (%)",
             "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "HH, které se spoléhají na čistá paliva a technologie pro osvětlení"
+                },
                 {
                     "locale": "cs",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "Domácnosti ve spádové oblasti"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Podíl domácností primárně závislých na čistých palivech a technologiích pro osvětlení"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "CH022 – Domácnosti spoléhající na čistou energii pro osvětlení (%)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "HH spoléhající na čistou energii pro osvětlení (%)"
                 }
             ]
         },
@@ -4424,8 +5574,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH clean energy for lighting - Electricity",
@@ -4511,8 +5674,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH clean energy for lighting - Solar power",
@@ -4598,8 +5774,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH clean energy for lighting - rech flash",
@@ -4690,8 +5879,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH clean energy for lighting - Mobile",
@@ -4777,8 +5979,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH clean energy for lighting - torch/lant",
@@ -4864,8 +6079,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH clean energy for lighting - battery flash",
@@ -4951,8 +6179,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH clean energy for lighting - Biogas lamp",
@@ -5022,58 +6263,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "CH022",
-            "decimals": 1,
-            "denominator": "#{Fu5yaroCXiZ}",
-            "denominatorDescription": "Households in the catchment area",
-            "description": "Proportion of households with primary reliance on clean fuels and technologies for lighting",
-            "id": "qfnMPPcVJk9",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "CH022 - Households relying on clean energy for lighting (%)",
-            "numerator": "#{puHDT353PHN}",
-            "numeratorDescription": "HHs that rely on clean fuels and tech for lighting",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "HH relying on clean energy for lighting (%)",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "HH, které se spoléhají na čistá paliva a technologie pro osvětlení"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Domácnosti ve spádové oblasti"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DESCRIPTION",
-                    "value": "Podíl domácností primárně závislých na čistých palivech a technologiích pro osvětlení"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "CH022 – Domácnosti spoléhající na čistou energii pro osvětlení (%)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "HH spoléhající na čistou energii pro osvětlení (%)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "CH022i",
             "decimals": 0,
             "denominator": "1",
@@ -5090,8 +6279,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH clean energy for lighting - LPG lamp",
@@ -5177,8 +6379,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH clean energy for lighting - Other",
@@ -5248,6 +6463,51 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "CH023",
+            "decimals": 1,
+            "denominator": "#{Fu5yaroCXiZ}",
+            "denominatorDescription": "Households in the catchment area",
+            "description": "Proportion of households with primary reliance on clean fuels and technologies for heating",
+            "id": "hkxQph48EQH",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "CH023 - Households relying on clean energy for heating (%)",
+            "numerator": "#{RLZtrCeBVvb}",
+            "numeratorDescription": "HHs that rely on clean fuels and tech for heating",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "HH relying on clean energy for heating (%)",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Domácnosti ve spádové oblasti"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "CH023b",
             "decimals": 0,
             "denominator": "1",
@@ -5264,8 +6524,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH relying on clean energy for heating - central",
@@ -5351,8 +6624,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH relying on clean energy for heating - Stove",
@@ -5438,8 +6724,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH relying on clean energy for heating - Heat pump",
@@ -5525,8 +6824,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HH relying on clean energy for heating - Other",
@@ -5590,38 +6902,6 @@
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "CH023",
-            "decimals": 1,
-            "denominator": "#{Fu5yaroCXiZ}",
-            "denominatorDescription": "Households in the catchment area",
-            "description": "Proportion of households with primary reliance on clean fuels and technologies for heating",
-            "id": "hkxQph48EQH",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "CH023 - Households relying on clean energy for heating (%)",
-            "numerator": "#{RLZtrCeBVvb}",
-            "numeratorDescription": "HHs that rely on clean fuels and tech for heating",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "HH relying on clean energy for heating (%)",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Domácnosti ve spádové oblasti"
                 }
             ]
         }
@@ -5738,6 +7018,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-11-22T00:00:00.000",
                     "subscribed": false,
@@ -5792,6 +7073,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -5808,8 +7090,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -5923,6 +7218,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-11-22T00:00:00.000",
                     "subscribed": false,
@@ -5977,6 +7273,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -5993,8 +7290,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -6108,6 +7418,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-11-22T00:00:00.000",
                     "subscribed": false,
@@ -6162,6 +7473,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -6178,8 +7490,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -6192,13 +7517,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "3009509",
-        "DHIS2Version": "2.39.0",
+        "DHIS2Build": "db15b78",
+        "DHIS2Version": "2.40.2",
         "code": "CHIS_AGG_ENE",
         "description": "CHIS Clean Energy",
-        "lastUpdated": "20230206T235716",
+        "healthAreaCode": "CHIS",
+        "healthAreaName": "Community Health",
+        "lastUpdated": "20231219T082205",
         "locale": "en",
-        "name": "CHIS_AGG_ENE_AGG_DHIS2.39.0-en",
+        "name": "CHIS_AGG_ENE_AGG_DHIS2.40.2-en",
         "type": "AGG",
         "version": ""
     },
@@ -6250,8 +7577,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -6266,8 +7606,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -6275,15 +7628,28 @@
         },
         {
             "attributeValues": [],
-            "code": "CHIS_AGG_CAPTURE",
+            "code": "CHIS_AGG_DATA_CAPTURE",
             "id": "JkwQIpjzPVL",
             "managedGroups": [],
             "name": "CHIS capture",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -6295,11 +7661,25 @@
             "authorities": [],
             "id": "nCNR71ZbTHK",
             "name": "Package User Role",
+            "restrictions": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -6307,6 +7687,11 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Rôle d'utilisateur du package"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Rol de Usuario para Administrador de Paquetes"
                 }
             ]
         }
@@ -6328,7 +7713,6 @@
             "selfRegistered": false,
             "surname": "admin",
             "teiSearchOrganisationUnits": [],
-            "twoFA": false,
             "userRoles": [
                 {
                     "id": "nCNR71ZbTHK"
@@ -6406,6 +7790,7 @@
             "hideLegend": false,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "QFVUONxSLbi",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -6485,8 +7870,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -6556,6 +7954,7 @@
             "hideLegend": false,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "dJPns5RFBPw",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -6635,8 +8034,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -6707,6 +8119,7 @@
             "hideLegend": false,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "MTiCLgD0fsB",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -6786,8 +8199,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -6864,6 +8290,7 @@
             "hideLegend": false,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "gYSdSfBvA68",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -6943,8 +8370,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -7051,6 +8491,7 @@
             "hideLegend": false,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "KXGKRyANTn0",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -7128,8 +8569,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -7223,6 +8677,7 @@
             "hideLegend": false,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "qjMM10WtnLk",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -7300,8 +8755,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -7440,6 +8908,7 @@
             "hideLegend": false,
             "hideSubtitle": true,
             "hideTitle": false,
+            "icons": [],
             "id": "t4j89CHgFyT",
             "itemOrganisationUnitGroups": [],
             "legend": {
@@ -7517,8 +8986,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "JkwQIpjzPVL": {
+                        "access": "r-------",
+                        "id": "JkwQIpjzPVL"
+                    },
+                    "L4joP9CDK2q": {
+                        "access": "rw------",
+                        "id": "L4joP9CDK2q"
+                    },
+                    "ctw1WXDZHLQ": {
+                        "access": "r-------",
+                        "id": "ctw1WXDZHLQ"
+                    }
+                },
                 "users": {}
             },
             "showData": true,

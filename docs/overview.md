@@ -39,3 +39,7 @@
 
 - [Version 1.0.0](https://packages.dhis2.org/en/CHIS_AGG/1.0.0/DHIS2.36/CHIS_AGG_COMPLETE_1.0.0_DHIS2.36.xlsx)
 - [Version 1.0.1](https://packages.dhis2.org/en/CHIS_AGG/1.0.1/DHIS2.39/CHIS_AGG_COMPLETE_1.0.1_DHIS2.39.xlsx)
+
+## References
+[Community Data](https://www.healthdatacollaborative.org/our-response/working-groups/community-data/)
+[DHIS2 Community Health Information System Guideline](https://drive.google.com/file/d/0B5Jsq_TjUPGjdFNVTzZNYnhlYzQ/view?resourcekey=0-mU2mmaaahcyHEaJ7e2_aqg)
